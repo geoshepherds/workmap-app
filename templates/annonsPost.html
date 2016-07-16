@@ -1,0 +1,61 @@
+<div ng-controller="annonsPaneCtrl" id="paneContent" class="annonsPost">
+    <div class="flexGrupp">
+        <div class="twoSplit">
+            <h3 class="annonsTitle">{{getAnnons.annons.annonsrubrik}}</h3>
+            <h6 class="date">{{getAnnons.annons.publiceraddatum}}</h6>
+        </div>
+        <div class="twoSplit">
+            <img class="annonsLogo" src="" alt="job logo">
+        </div>
+    </div>
+    <div class="flexGrupp">
+        <div class="twoSplit">
+            <h4>{{getAnnons.arbetsplats.arbetsplatsnamn}}</h4>
+        </div>
+        <div class="twoSplit alignRight">
+            <h6 class="lessMargin">Sista ansökningsdag:</h6>
+            <h6 class="smallMargin">{{getAnnons.ansokan.sista_ansokningsdag}}</h6>
+        </div>
+    </div>
+    <p>{{getAnnons.annons.annonstext}}</p>
+    <h4 class="sectionHead">Villkor</h4>
+    <div>
+        <span class="villkorIcon calendar"></span>
+        <h6 class="inlinePara">{{getAnnons.villkor.arbetstid}}</h6>
+    </div>
+    <div>
+        <span class="villkorIcon piggyBank"></span>
+        <h6 class="inlinePara">{{getAnnons.villkor.loneform}}</h6>
+    </div>
+    <div>
+        <span class="villkorIcon clock"></span>
+        <h6 class="inlinePara">{{getAnnons.villkor.varaktighet}}</h6>
+    </div>
+    <div class="flexGrupp">
+        <div class="twoSplit">
+            <h5>Egen bil</h5>
+            <span class="egenBil req"></span>
+        </div>
+        <div class="twoSplit">
+            <h5>Körkort</h5>
+            <div class="korKort unreq">
+            </div>
+            <h3 class="korKortTyp">B</h3>
+        </div>
+
+    </div>
+
+    <h4 class="kontaktHead">Kontaktinformation</h4>
+    <div class="flexGrupp">
+        <div class="twoSplit annonsAnsok">
+            <h5 class="lessMargin">Ansökan</h5>
+            <p class="smallMargin">Ansökan via web</p>
+        </div>
+        <div class="twoSplit">
+            <h5 class="lessMargin">Besöksadress</h5>
+            <p class="smallMargin">{{getAnnons.arbetsplats.besoksadress}}</p>
+        </div>
+    </div>
+    <h5 class="lessMargin">Hemsida</h5>
+    <p class="smallMargin">{{getAnnons.arbetsplats.hemsida}}</p>
+</div>

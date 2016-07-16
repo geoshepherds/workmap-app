@@ -1,0 +1,17 @@
+<ul>
+    <li ng-controller="resultsPaneCtrl" ng-click="showAnnonsPane(); showAnnonsData(listing)" ng-repeat="listing in getListingsByLan" class="annonsArea">
+        <div class="flexGrupp">
+            <div class="flexList">
+                <img class="bulletList" src="data/bullet-list.svg" width="11px" height="11px">
+            </div>
+            <div>
+                <div class="flexGrupp">
+                    <h5 class="twoSplit lessMargin">{{listing.annonsrubrik}}</h5>
+                    <p class="twoSplit alignRight lessMargin">{{listing.publiceraddatum}}</p>
+                </div>
+                <h6 class="smallMargin">{{listing.arbetsplatsnamn}}</h6>
+
+            </div>
+        </div>
+    </li>
+</ul>

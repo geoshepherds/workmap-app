@@ -1,0 +1,11 @@
+<h3>Här är du i störst efterfrågan</h3>
+
+<ol>
+    <li ng-mouseover="showSpan=true" ng-mouseleave="showSpan=false" ng-controller="resultsPaneCtrl" ng-repeat="topPlats in topPlatser" ng-click="findPlatsId(topPlats.value) ; findActiveKommun(this.$parent.topPlats.value)">
+        <h4 class="listItem">{{topPlats.value}}</h4>
+        <div ng-show="showSpan" class="hint">
+            <p>Se jobb<span class="jobbAntal">{{topPlats.count}}</span></p>
+        </div>
+    </li>
+
+</ol>

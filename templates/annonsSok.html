@@ -1,0 +1,56 @@
+<div ng-controller="searchPaneCtrl as ctrl" id="paneContent" class="sokPane autocompletedemoFloatingLabel">
+    <form name="searchForm" novalidate>
+       
+       <h3>Jag vill jobba som</h3>
+        <md-autocomplete 
+            required
+            md-select-on-match = "true"             
+            ng-model = "yrkeInput"
+            md-input-name = "yrkeField"
+            md-input-minlength = "0"
+            md-input-maxlength = "18"
+            md-no-cache = "ctrl.noCache"
+            md-selected-item = "ctrl.yrkeSelectedItem"
+            md-selected-item-change = "ctrl.yrkeSelectedItemChange(item)"
+            md-search-text = "ctrl.yrkeSearchText"
+            md-items = "item in ctrl.yrkeQuerySearch(ctrl.yrkeSearchText)()"
+            md-item-text = "item.label"
+            md-floating-label = "Yrke">
+                <md-item-template>
+                    
+                    <span md-highlight-text="ctrl.yrkeSearchText">{{item.label}}</span>
+                                        
+                </md-item-template>
+                
+        </md-autocomplete>
+        
+        
+        <h3>Jag vill jobba i</h3>
+        <md-autocomplete
+            required
+            md-select-on-match = "true"
+            ng-model = "platsInput"
+            md-input-name = "platsField"
+            md-input-minlength = "0"
+            md-input-maxlength = "18"
+            md-no-cache = "ctrl.noCache"
+            md-selected-item = "ctrl.platsSelectedItem"
+            md-selected-item-change = "ctrl.platsSelectedItemChange(item)"
+            md-search-text = "ctrl.platsSearchText"
+            md-items = "item in ctrl.platsQuerySearch(ctrl.platsSearchText)()"
+            md-item-text = "item.label"
+            md-floating-label = "Län eller Kommun">   
+                <md-item-template>
+                    
+                    <span md-highlight-text="ctrl.platsSearchText">{{item.label}}</span>
+                                        
+                </md-item-template>
+                
+        </md-autocomplete>
+        
+        <div class="sokGrupp">
+        <md-button ng-click="showResultsPane(); mainSok()" ng-disabled="searchForm.platsField.$invalid && searchForm.yrkeField.$invalid">SÖK</md-button>
+        <div class="sokIcon sokFavorit"></div>
+        </div>
+    </form>
+</div>

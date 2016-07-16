@@ -1,0 +1,10 @@
+<h3>Här är dessa yrken i störst efterfrågan</h3>
+
+<ol>
+    <li ng-mouseover="showSpan=true" ng-mouseleave="showSpan=false" ng-controller="resultsPaneCtrl" ng-repeat="topYrke in topYrken" ng-click="findYrkeId(topYrke.value)">
+        <h5 class="listItem">{{topYrke.value}}</h5>
+        <div ng-show="showSpan" class="hint">
+            <p>Se jobb<span class="jobbAntal">{{topYrke.count}}</span></p>
+        </div>
+    </li>
+</ol>          

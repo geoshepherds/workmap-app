@@ -1,0 +1,12 @@
+<div ng-controller="resultsPaneCtrl" id="paneContent">
+    
+    <div ng-class="{ kommunPane: (view == 'kommunPane'), lanPane: (view == 'lanPane'), professions: (view == 'professions'), locations: (view == 'locations') }" ng-switch="view">
+
+    <kommuner ng-switch-when="kommunPane"></kommuner>
+    <lan ng-switch-when="lanPane"></lan>
+    <professions ng-switch-when="professions"></professions>
+    <locations ng-switch-when="locations"></locations>
+
+    </div>
+
+</div>

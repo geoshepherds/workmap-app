@@ -1,0 +1,39 @@
+<div id="sidePane">
+
+    <div id="navbar" class="flexGrupp">
+
+        <div ng-click="showSearchPane()" id="searchTab" ng-class="{ active: layout == 'searchPane' }">
+            <div id="searchIcon" ng-class="{ active: layout == 'searchPane'}"></div>
+        </div>
+
+        <div ng-click="showResultsPane()" id="resultsTab" ng-class="{ active: layout == 'resultsPane' }">
+            <div id="resultsIcon" ng-class="{ active: layout == 'resultsPane'}"></div>
+        </div>
+
+        <div ng-click="showAnnonsPane()" id="annonsTab" ng-class="{ active: layout == 'annonsPane'}">
+            <div id="annonsIcon" ng-class="{ active: layout == 'annonsPane'}"></div>
+        </div>
+
+        <div ng-click="showAnalysisPane()" id="analyticsTab" ng-class="{ active: layout == 'analysisPane'}">
+            <div id="analyticsIcon" ng-class="{ active: layout == 'analysisPane'}"></div>
+        </div>
+
+        <div ng-click="showProfPane()" id="profTab"  ng-class="{ active: layout == 'profPane'}">         
+            <div id="profIcon" ng-class="{ active: layout == 'profPane'}"></div>
+        </div>
+
+    </div>
+    
+    <div ng-class="{ searchPane: (layout =='searchPane' ), resultsPane: ( layout == 'resultsPane' ), annonsPane: ( layout =='annonsPane' ), analysisPane: ( layout =='analysisPane' ), profPane: ( layout =='profPane' ) }"
+         ng-switch="layout">
+        
+        <div ng-switch-when="searchPane" search-pane></div>
+        <div ng-switch-when="resultsPane" results-pane></div>
+        <div ng-switch-when="annonsPane" annons-pane></div>
+        <div ng-switch-when="analysisPane" analysis-pane></div>
+        <div ng-switch-when="profPane" prof-pane></div>
+        
+    </div>
+    
+</div>
+

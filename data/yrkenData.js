@@ -1,0 +1,14697 @@
+var yrkenData = [{
+    "id": "5370",
+    "label": "1:e Fartygsingenjör/1:e Maskinist",
+    "typ": "yrke"
+}, {
+    "id": "5371",
+    "label": "2:e Fartygsingenjör/2:e Maskinist",
+    "typ": "yrke"
+}, {
+    "id": "5369",
+    "label": "2:e Styrman",
+    "typ": "yrke"
+}, {
+    "id": "7441",
+    "label": "2D-grafiker",
+    "typ": "yrke"
+}, {
+    "id": "7439",
+    "label": "3D-grafiker",
+    "typ": "yrke"
+}, {
+    "id": "2315",
+    "label": "Abonnemangsförsäljare",
+    "typ": "yrke"
+}, {
+    "id": "4896",
+    "label": "Abonnemangskontorist",
+    "typ": "yrke"
+}, {
+    "id": "6728",
+    "label": "Account manager",
+    "typ": "yrke"
+}, {
+    "id": "6534",
+    "label": "Accounting controller",
+    "typ": "yrke"
+}, {
+    "id": "3826",
+    "label": "AD-assistent",
+    "typ": "yrke"
+}, {
+    "id": "2787",
+    "label": "Administrativ assistent",
+    "typ": "yrke"
+}, {
+    "id": "5373",
+    "label": "Administrativ chef",
+    "typ": "yrke"
+}, {
+    "id": "4713",
+    "label": "Administrativ utvecklare",
+    "typ": "yrke"
+}, {
+    "id": "6032",
+    "label": "Advokat",
+    "typ": "yrke"
+}, {
+    "id": "4421",
+    "label": "Advokatfiskal",
+    "typ": "yrke"
+}, {
+    "id": "2799",
+    "label": "Advokatsekreterare",
+    "typ": "yrke"
+}, {
+    "id": "6670",
+    "label": "Affischör/Affischuppsättare",
+    "typ": "yrke"
+}, {
+    "id": "7319",
+    "label": "Affärsarkitekt",
+    "typ": "yrke"
+}, {
+    "id": "4004",
+    "label": "Affärsjurist",
+    "typ": "yrke"
+}, {
+    "id": "7579",
+    "label": "Affärskonsult, IT",
+    "typ": "yrke"
+}, {
+    "id": "4880",
+    "label": "Affärsområdeschef",
+    "typ": "yrke"
+}, {
+    "id": "683",
+    "label": "Affärsresesäljare",
+    "typ": "yrke"
+}, {
+    "id": "7661",
+    "label": "Affärsutvecklare",
+    "typ": "yrke"
+}, {
+    "id": "6264",
+    "label": "Agronom",
+    "typ": "yrke"
+}, {
+    "id": "5165",
+    "label": "Akademisekreterare",
+    "typ": "yrke"
+}, {
+    "id": "3581",
+    "label": "Akrobat",
+    "typ": "yrke"
+}, {
+    "id": "2526",
+    "label": "Aktieanalytiker",
+    "typ": "yrke"
+}, {
+    "id": "7554",
+    "label": "Aktiechef",
+    "typ": "yrke"
+}, {
+    "id": "2527",
+    "label": "Aktiemäklare",
+    "typ": "yrke"
+}, {
+    "id": "6655",
+    "label": "Aktuarie",
+    "typ": "yrke"
+}, {
+    "id": "7472",
+    "label": "Akupressör",
+    "typ": "yrke"
+}, {
+    "id": "1623",
+    "label": "Akupunktör",
+    "typ": "yrke"
+}, {
+    "id": "5758",
+    "label": "Akutsjuksköterska/Sjuksköterska, akutmottagning",
+    "typ": "yrke"
+}, {
+    "id": "2373",
+    "label": "Akvariefiskuppfödare",
+    "typ": "yrke"
+}, {
+    "id": "1482",
+    "label": "Alkohol- och drogterapeut",
+    "typ": "yrke"
+}, {
+    "id": "3143",
+    "label": "Allmän åklagare",
+    "typ": "yrke"
+}, {
+    "id": "4462",
+    "label": "Ambassadråd",
+    "typ": "yrke"
+}, {
+    "id": "4463",
+    "label": "Ambassadsekreterare",
+    "typ": "yrke"
+}, {
+    "id": "2005",
+    "label": "Ambassadör",
+    "typ": "yrke"
+}, {
+    "id": "1811",
+    "label": "Ambulanssjuksköterska",
+    "typ": "yrke"
+}, {
+    "id": "5708",
+    "label": "Ambulanssjukvårdare",
+    "typ": "yrke"
+}, {
+    "id": "1126",
+    "label": "Ammoniakkokare",
+    "typ": "yrke"
+}, {
+    "id": "1836",
+    "label": "Analytisk kemist",
+    "typ": "yrke"
+}, {
+    "id": "1812",
+    "label": "Anestesisjuksköterska",
+    "typ": "yrke"
+}, {
+    "id": "3920",
+    "label": "Anfångare",
+    "typ": "yrke"
+}, {
+    "id": "7638",
+    "label": "Anhörigkonsulent",
+    "typ": "yrke"
+}, {
+    "id": "4804",
+    "label": "Animationsoperatör",
+    "typ": "yrke"
+}, {
+    "id": "3829",
+    "label": "Animatör",
+    "typ": "yrke"
+}, {
+    "id": "5871",
+    "label": "Anläggningsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "7168",
+    "label": "Anläggningsarbetare, utan yrkesbevis",
+    "typ": "yrke"
+}, {
+    "id": "2855",
+    "label": "Anläggningsdykare",
+    "typ": "yrke"
+}, {
+    "id": "4221",
+    "label": "Anläggningsingenjör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "4898",
+    "label": "Annonsassistent",
+    "typ": "yrke"
+}, {
+    "id": "2303",
+    "label": "Annonschef",
+    "typ": "yrke"
+}, {
+    "id": "4652",
+    "label": "Annonsgrafiker",
+    "typ": "yrke"
+}, {
+    "id": "2304",
+    "label": "Annonskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "4900",
+    "label": "Annonsmottagare",
+    "typ": "yrke"
+}, {
+    "id": "3866",
+    "label": "Annonsproducent",
+    "typ": "yrke"
+}, {
+    "id": "4901",
+    "label": "Annonssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "7316",
+    "label": "Anonym konsument",
+    "typ": "yrke"
+}, {
+    "id": "2864",
+    "label": "Anrikningsarbetare, malm",
+    "typ": "yrke"
+}, {
+    "id": "6654",
+    "label": "Antagningschef, utbildning",
+    "typ": "yrke"
+}, {
+    "id": "1884",
+    "label": "Antagningssekreterare, utbildning",
+    "typ": "yrke"
+}, {
+    "id": "2456",
+    "label": "Antikvarie",
+    "typ": "yrke"
+}, {
+    "id": "4036",
+    "label": "Antropolog",
+    "typ": "yrke"
+}, {
+    "id": "6528",
+    "label": "Användbarhetsdesigner",
+    "typ": "yrke"
+}, {
+    "id": "6529",
+    "label": "Användbarhetsexpert",
+    "typ": "yrke"
+}, {
+    "id": "5056",
+    "label": "Apoteksassistent",
+    "typ": "yrke"
+}, {
+    "id": "7508",
+    "label": "Apotekschef",
+    "typ": "yrke"
+}, {
+    "id": "6359",
+    "label": "Apotekstekniker",
+    "typ": "yrke"
+}, {
+    "id": "84",
+    "label": "Applikationsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "7577",
+    "label": "Applikationskonsult",
+    "typ": "yrke"
+}, {
+    "id": "7576",
+    "label": "Applikationsutvecklare/Apputvecklare",
+    "typ": "yrke"
+}, {
+    "id": "6653",
+    "label": "Arbetsförmedlare",
+    "typ": "yrke"
+}, {
+    "id": "5127",
+    "label": "Arbetsförmedlingschef",
+    "typ": "yrke"
+}, {
+    "id": "4205",
+    "label": "Arbetsledare, anläggning",
+    "typ": "yrke"
+}, {
+    "id": "4227",
+    "label": "Arbetsledare, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "7111",
+    "label": "Arbetsledare, golv",
+    "typ": "yrke"
+}, {
+    "id": "4296",
+    "label": "Arbetsledare, gruvbrytning-metallproduktion",
+    "typ": "yrke"
+}, {
+    "id": "4185",
+    "label": "Arbetsledare, husbyggnad",
+    "typ": "yrke"
+}, {
+    "id": "7573",
+    "label": "Arbetsledare, lager",
+    "typ": "yrke"
+}, {
+    "id": "4263",
+    "label": "Arbetsledare, maskintillv.-verkstadsprodukter",
+    "typ": "yrke"
+}, {
+    "id": "7110",
+    "label": "Arbetsledare, mureri",
+    "typ": "yrke"
+}, {
+    "id": "7109",
+    "label": "Arbetsledare, måleri",
+    "typ": "yrke"
+}, {
+    "id": "7404",
+    "label": "Arbetsledare, rivning",
+    "typ": "yrke"
+}, {
+    "id": "4640",
+    "label": "Arbetsledare, skogsbruk",
+    "typ": "yrke"
+}, {
+    "id": "444",
+    "label": "Arbetsledare, städ/Städledare",
+    "typ": "yrke"
+}, {
+    "id": "4249",
+    "label": "Arbetsledare, tillverkning elektroniska prod.",
+    "typ": "yrke"
+}, {
+    "id": "4228",
+    "label": "Arbetsledare, tillverkning elkrafttekniska prod.",
+    "typ": "yrke"
+}, {
+    "id": "4282",
+    "label": "Arbetsledare, tillverkning kemiska produkter",
+    "typ": "yrke"
+}, {
+    "id": "4309",
+    "label": "Arbetsledare, tillverkning textil-träprod.",
+    "typ": "yrke"
+}, {
+    "id": "7372",
+    "label": "Arbetsledare, tryckeri",
+    "typ": "yrke"
+}, {
+    "id": "7141",
+    "label": "Arbetsledare, ventilation",
+    "typ": "yrke"
+}, {
+    "id": "7142",
+    "label": "Arbetsledare, VVS",
+    "typ": "yrke"
+}, {
+    "id": "4563",
+    "label": "Arbetsledare,trädgård/Trädgårdsanläggningsförman",
+    "typ": "yrke"
+}, {
+    "id": "4465",
+    "label": "Arbetsmarknadsråd",
+    "typ": "yrke"
+}, {
+    "id": "610",
+    "label": "Arbetsmiljöingenjör",
+    "typ": "yrke"
+}, {
+    "id": "6652",
+    "label": "Arbetsmiljöinspektör",
+    "typ": "yrke"
+}, {
+    "id": "1467",
+    "label": "Arbetspsykolog",
+    "typ": "yrke"
+}, {
+    "id": "6254",
+    "label": "Arbetsrättsjurist",
+    "typ": "yrke"
+}, {
+    "id": "5728",
+    "label": "Arbetsterapeut",
+    "typ": "yrke"
+}, {
+    "id": "1546",
+    "label": "Arbetsterapibiträde",
+    "typ": "yrke"
+}, {
+    "id": "6769",
+    "label": "Arborist/Trädvårdare",
+    "typ": "yrke"
+}, {
+    "id": "5999",
+    "label": "Arborrare",
+    "typ": "yrke"
+}, {
+    "id": "1339",
+    "label": "Arkare",
+    "typ": "yrke"
+}, {
+    "id": "6041",
+    "label": "Arkeolog",
+    "typ": "yrke"
+}, {
+    "id": "5445",
+    "label": "Arkitekt",
+    "typ": "yrke"
+}, {
+    "id": "5898",
+    "label": "Arkivarie",
+    "typ": "yrke"
+}, {
+    "id": "5902",
+    "label": "Arkivassistent",
+    "typ": "yrke"
+}, {
+    "id": "4454",
+    "label": "Arkivchef",
+    "typ": "yrke"
+}, {
+    "id": "2435",
+    "label": "Arkivföreståndare",
+    "typ": "yrke"
+}, {
+    "id": "2466",
+    "label": "Arkivkanslist",
+    "typ": "yrke"
+}, {
+    "id": "2436",
+    "label": "Arkivråd",
+    "typ": "yrke"
+}, {
+    "id": "7364",
+    "label": "Arkoffsettryckare",
+    "typ": "yrke"
+}, {
+    "id": "4154",
+    "label": "Armerare, betongvaruindustri",
+    "typ": "yrke"
+}, {
+    "id": "7606",
+    "label": "Aromaterapeut",
+    "typ": "yrke"
+}, {
+    "id": "3351",
+    "label": "Arrangör, musik",
+    "typ": "yrke"
+}, {
+    "id": "4625",
+    "label": "Arrendator, blandad drift",
+    "typ": "yrke"
+}, {
+    "id": "6434",
+    "label": "Arrendator, djuruppfödning",
+    "typ": "yrke"
+}, {
+    "id": "7459",
+    "label": "Arrendator, växtodling",
+    "typ": "yrke"
+}, {
+    "id": "7443",
+    "label": "Arrestantvakt/Arrestvakt",
+    "typ": "yrke"
+}, {
+    "id": "6193",
+    "label": "Art Director/AD",
+    "typ": "yrke"
+}, {
+    "id": "2994",
+    "label": "Artistagent",
+    "typ": "yrke"
+}, {
+    "id": "2995",
+    "label": "Artistbokare",
+    "typ": "yrke"
+}, {
+    "id": "6015",
+    "label": "Artistförmedlare",
+    "typ": "yrke"
+}, {
+    "id": "6897",
+    "label": "ARU, ansvarig reklamutgivare",
+    "typ": "yrke"
+}, {
+    "id": "4079",
+    "label": "Asbestsanerare",
+    "typ": "yrke"
+}, {
+    "id": "4147",
+    "label": "Asfaltarbetare",
+    "typ": "yrke"
+}, {
+    "id": "4148",
+    "label": "Asfaltkokare",
+    "typ": "yrke"
+}, {
+    "id": "4149",
+    "label": "Asfaltmaskinist",
+    "typ": "yrke"
+}, {
+    "id": "6205",
+    "label": "Asfaltverksskötare",
+    "typ": "yrke"
+}, {
+    "id": "3118",
+    "label": "Assessor",
+    "typ": "yrke"
+}, {
+    "id": "1780",
+    "label": "Assistent i församlingsarbete",
+    "typ": "yrke"
+}, {
+    "id": "4888",
+    "label": "Assistent, bostadsförmedling",
+    "typ": "yrke"
+}, {
+    "id": "3144",
+    "label": "Assistentåklagare",
+    "typ": "yrke"
+}, {
+    "id": "1766",
+    "label": "Astronom",
+    "typ": "yrke"
+}, {
+    "id": "4924",
+    "label": "Ateljéchef",
+    "typ": "yrke"
+}, {
+    "id": "1414",
+    "label": "Ateljésömmerska",
+    "typ": "yrke"
+}, {
+    "id": "7236",
+    "label": "AT-läkare",
+    "typ": "yrke"
+}, {
+    "id": "1767",
+    "label": "Atomfysiker",
+    "typ": "yrke"
+}, {
+    "id": "4466",
+    "label": "Attaché",
+    "typ": "yrke"
+}, {
+    "id": "3900",
+    "label": "Attributör",
+    "typ": "yrke"
+}, {
+    "id": "1548",
+    "label": "Audiometris",
+    "typ": "yrke"
+}, {
+    "id": "5732",
+    "label": "Audionom",
+    "typ": "yrke"
+}, {
+    "id": "5947",
+    "label": "Auktionist",
+    "typ": "yrke"
+}, {
+    "id": "4117",
+    "label": "Auktionsbiträde",
+    "typ": "yrke"
+}, {
+    "id": "2736",
+    "label": "Auktionskommissarie",
+    "typ": "yrke"
+}, {
+    "id": "2737",
+    "label": "Auktionsutropare",
+    "typ": "yrke"
+}, {
+    "id": "7133",
+    "label": "Automationselektriker",
+    "typ": "yrke"
+}, {
+    "id": "7284",
+    "label": "Automationsingenjör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "7289",
+    "label": "Automationsingenjör, maskin",
+    "typ": "yrke"
+}, {
+    "id": "7286",
+    "label": "Automationstekniker, el",
+    "typ": "yrke"
+}, {
+    "id": "7287",
+    "label": "Automationstekniker, elektronik",
+    "typ": "yrke"
+}, {
+    "id": "7288",
+    "label": "Automationstekniker, maskin",
+    "typ": "yrke"
+}, {
+    "id": "7496",
+    "label": "Automationstekniker, tillverkningsindustri",
+    "typ": "yrke"
+}, {
+    "id": "2700",
+    "label": "Automatpressare, metall",
+    "typ": "yrke"
+}, {
+    "id": "5985",
+    "label": "Automatskötare",
+    "typ": "yrke"
+}, {
+    "id": "2639",
+    "label": "Automatställare",
+    "typ": "yrke"
+}, {
+    "id": "2692",
+    "label": "Automatsvarvare",
+    "typ": "yrke"
+}, {
+    "id": "6280",
+    "label": "Avbytare, jordbruk",
+    "typ": "yrke"
+}, {
+    "id": "2962",
+    "label": "Avdelningschef, bank",
+    "typ": "yrke"
+}, {
+    "id": "4925",
+    "label": "Avdelningschef, butik",
+    "typ": "yrke"
+}, {
+    "id": "6392",
+    "label": "Avdelningschef, kommun",
+    "typ": "yrke"
+}, {
+    "id": "7302",
+    "label": "Avdelningschef, landsting",
+    "typ": "yrke"
+}, {
+    "id": "7406",
+    "label": "Avdelningschef, smältverk",
+    "typ": "yrke"
+}, {
+    "id": "6263",
+    "label": "Avdelningschef, statlig",
+    "typ": "yrke"
+}, {
+    "id": "3000",
+    "label": "Avgjutare",
+    "typ": "yrke"
+}, {
+    "id": "1217",
+    "label": "Avionikmekaniker",
+    "typ": "yrke"
+}, {
+    "id": "516",
+    "label": "Avisningsmaskinförare",
+    "typ": "yrke"
+}, {
+    "id": "2883",
+    "label": "Avloppstekniker",
+    "typ": "yrke"
+}, {
+    "id": "3081",
+    "label": "Avlöningskontorist",
+    "typ": "yrke"
+}, {
+    "id": "3966",
+    "label": "Avplockare, keramikbränning",
+    "typ": "yrke"
+}, {
+    "id": "378",
+    "label": "Avsmakare",
+    "typ": "yrke"
+}, {
+    "id": "4155",
+    "label": "Avsynare, betongvaror",
+    "typ": "yrke"
+}, {
+    "id": "305",
+    "label": "Avsynare, elkrafttekniska produkter",
+    "typ": "yrke"
+}, {
+    "id": "306",
+    "label": "Avsynare, elteknik",
+    "typ": "yrke"
+}, {
+    "id": "304",
+    "label": "Avsynare, el-tele",
+    "typ": "yrke"
+}, {
+    "id": "2935",
+    "label": "Avsynare, gjutgods",
+    "typ": "yrke"
+}, {
+    "id": "3239",
+    "label": "Avsynare, glas- och keramikprodukter",
+    "typ": "yrke"
+}, {
+    "id": "6003",
+    "label": "Avsynare, metallprodukter",
+    "typ": "yrke"
+}, {
+    "id": "964",
+    "label": "Avsynare, musikinstrument",
+    "typ": "yrke"
+}, {
+    "id": "4392",
+    "label": "Avsynare, pappersprodukter",
+    "typ": "yrke"
+}, {
+    "id": "1318",
+    "label": "Avsynare, tyger",
+    "typ": "yrke"
+}, {
+    "id": "5208",
+    "label": "AV-tekniker",
+    "typ": "yrke"
+}, {
+    "id": "6943",
+    "label": "Avverkningsledare, skogsbruk",
+    "typ": "yrke"
+}, {
+    "id": "7607",
+    "label": "Ayurvedamassör/Ayurvedaterapeut",
+    "typ": "yrke"
+}, {
+    "id": "7632",
+    "label": "Backend-utvecklare",
+    "typ": "yrke"
+}, {
+    "id": "7557",
+    "label": "Backofficepersonal",
+    "typ": "yrke"
+}, {
+    "id": "2901",
+    "label": "Badbevakare",
+    "typ": "yrke"
+}, {
+    "id": "1549",
+    "label": "Baderska, sjukhem",
+    "typ": "yrke"
+}, {
+    "id": "386",
+    "label": "Badföreståndare",
+    "typ": "yrke"
+}, {
+    "id": "5496",
+    "label": "Badmästare",
+    "typ": "yrke"
+}, {
+    "id": "5990",
+    "label": "Badvakt",
+    "typ": "yrke"
+}, {
+    "id": "7371",
+    "label": "Badvaktmästare",
+    "typ": "yrke"
+}, {
+    "id": "5504",
+    "label": "Bagare/Konditor",
+    "typ": "yrke"
+}, {
+    "id": "7447",
+    "label": "Bagerichef",
+    "typ": "yrke"
+}, {
+    "id": "4742",
+    "label": "Bakteriolog",
+    "typ": "yrke"
+}, {
+    "id": "5406",
+    "label": "Balettmästare",
+    "typ": "yrke"
+}, {
+    "id": "5564",
+    "label": "Ballongflygare",
+    "typ": "yrke"
+}, {
+    "id": "5286",
+    "label": "Balpressare",
+    "typ": "yrke"
+}, {
+    "id": "7170",
+    "label": "Banarbetare, utan behörighetsbevis",
+    "typ": "yrke"
+}, {
+    "id": "7214",
+    "label": "Bandlastarförare",
+    "typ": "yrke"
+}, {
+    "id": "7213",
+    "label": "Bandschaktarförare",
+    "typ": "yrke"
+}, {
+    "id": "4351",
+    "label": "Bandsågare",
+    "typ": "yrke"
+}, {
+    "id": "2707",
+    "label": "Bandsågare, metall",
+    "typ": "yrke"
+}, {
+    "id": "1341",
+    "label": "Bandsågare, träfiberskivor",
+    "typ": "yrke"
+}, {
+    "id": "1303",
+    "label": "Bandvävare",
+    "typ": "yrke"
+}, {
+    "id": "6650",
+    "label": "Bangårdsoperatör",
+    "typ": "yrke"
+}, {
+    "id": "4881",
+    "label": "Bankdirektör",
+    "typ": "yrke"
+}, {
+    "id": "6178",
+    "label": "Bankjurist",
+    "typ": "yrke"
+}, {
+    "id": "5033",
+    "label": "Banområdeschef",
+    "typ": "yrke"
+}, {
+    "id": "2319",
+    "label": "Bantekniker",
+    "typ": "yrke"
+}, {
+    "id": "2122",
+    "label": "Baptistpastor",
+    "typ": "yrke"
+}, {
+    "id": "7339",
+    "label": "Barchef",
+    "typ": "yrke"
+}, {
+    "id": "6762",
+    "label": "Barista/Kaffebartender",
+    "typ": "yrke"
+}, {
+    "id": "496",
+    "label": "Barkmaskinskötare, skogsbruk",
+    "typ": "yrke"
+}, {
+    "id": "744",
+    "label": "Barkmaskinskötare, sågverk",
+    "typ": "yrke"
+}, {
+    "id": "6763",
+    "label": "Barmästare",
+    "typ": "yrke"
+}, {
+    "id": "438",
+    "label": "Barnflicka/Barnvakt",
+    "typ": "yrke"
+}, {
+    "id": "5701",
+    "label": "Barnmorska",
+    "typ": "yrke"
+}, {
+    "id": "6648",
+    "label": "Barnmorska, förlossning",
+    "typ": "yrke"
+}, {
+    "id": "7272",
+    "label": "Barnmorska, ungdomsmottagning",
+    "typ": "yrke"
+}, {
+    "id": "1433",
+    "label": "Barnmorska, vårdavdelning/BB-avdelning",
+    "typ": "yrke"
+}, {
+    "id": "1434",
+    "label": "Barnmorska, öppen vård/mödravård",
+    "typ": "yrke"
+}, {
+    "id": "6473",
+    "label": "Barnombudsman",
+    "typ": "yrke"
+}, {
+    "id": "1468",
+    "label": "Barnpsykolog",
+    "typ": "yrke"
+}, {
+    "id": "5759",
+    "label": "Barnsjuksköterska",
+    "typ": "yrke"
+}, {
+    "id": "7273",
+    "label": "Barnsjuksköterska, akutmottagning",
+    "typ": "yrke"
+}, {
+    "id": "1820",
+    "label": "Barnsjuksköterska, mottagning/vårdcentral",
+    "typ": "yrke"
+}, {
+    "id": "1821",
+    "label": "Barnsjuksköterska, vårdavdelning",
+    "typ": "yrke"
+}, {
+    "id": "5716",
+    "label": "Barnskötare",
+    "typ": "yrke"
+}, {
+    "id": "7419",
+    "label": "Barnsköterska",
+    "typ": "yrke"
+}, {
+    "id": "1475",
+    "label": "Barnterapeut",
+    "typ": "yrke"
+}, {
+    "id": "1777",
+    "label": "Barntimmeledare",
+    "typ": "yrke"
+}, {
+    "id": "5488",
+    "label": "Bartender",
+    "typ": "yrke"
+}, {
+    "id": "314",
+    "label": "Batteriarbetare/Ackumulatorarbetare",
+    "typ": "yrke"
+}, {
+    "id": "7271",
+    "label": "Baxare",
+    "typ": "yrke"
+}, {
+    "id": "5313",
+    "label": "Bebyggelseantikvarie",
+    "typ": "yrke"
+}, {
+    "id": "7648",
+    "label": "Befaren maskinpersonal, sjöfart",
+    "typ": "yrke"
+}, {
+    "id": "1443",
+    "label": "Befolkningsstatistiker",
+    "typ": "yrke"
+}, {
+    "id": "2774",
+    "label": "Befraktare",
+    "typ": "yrke"
+}, {
+    "id": "5368",
+    "label": "Befälhavare",
+    "typ": "yrke"
+}, {
+    "id": "1205",
+    "label": "Befälhavare, kustbevakningen",
+    "typ": "yrke"
+}, {
+    "id": "257",
+    "label": "Begravningsassistent",
+    "typ": "yrke"
+}, {
+    "id": "258",
+    "label": "Begravningsbyråföreståndare",
+    "typ": "yrke"
+}, {
+    "id": "5497",
+    "label": "Begravningsentreprenör",
+    "typ": "yrke"
+}, {
+    "id": "6880",
+    "label": "Begravningsrådgivare",
+    "typ": "yrke"
+}, {
+    "id": "5711",
+    "label": "Behandlingsassistent/Socialpedagog",
+    "typ": "yrke"
+}, {
+    "id": "4031",
+    "label": "Belysningsmästare",
+    "typ": "yrke"
+}, {
+    "id": "3535",
+    "label": "Belysningstekniker",
+    "typ": "yrke"
+}, {
+    "id": "2325",
+    "label": "Beläggningsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "7169",
+    "label": "Beläggningsarbetare, utan yrkesbevis",
+    "typ": "yrke"
+}, {
+    "id": "505",
+    "label": "Beläggningsmaskinförare",
+    "typ": "yrke"
+}, {
+    "id": "3921",
+    "label": "Ben- och fotanfångare",
+    "typ": "yrke"
+}, {
+    "id": "3922",
+    "label": "Benmakare",
+    "typ": "yrke"
+}, {
+    "id": "5852",
+    "label": "Bensinstationsbiträde/Servicebiträde",
+    "typ": "yrke"
+}, {
+    "id": "7161",
+    "label": "Bensinstationsföreståndare/Stationschef",
+    "typ": "yrke"
+}, {
+    "id": "5694",
+    "label": "Bergarbetare",
+    "typ": "yrke"
+}, {
+    "id": "1376",
+    "label": "Bergarbetare, gruva",
+    "typ": "yrke"
+}, {
+    "id": "7171",
+    "label": "Bergarbetare, utan yrkesbevis",
+    "typ": "yrke"
+}, {
+    "id": "7256",
+    "label": "Bergförstärkare",
+    "typ": "yrke"
+}, {
+    "id": "1826",
+    "label": "Berggrundsgeolog",
+    "typ": "yrke"
+}, {
+    "id": "7250",
+    "label": "Berglastare",
+    "typ": "yrke"
+}, {
+    "id": "187",
+    "label": "Bergsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "1389",
+    "label": "Bergsprängare",
+    "typ": "yrke"
+}, {
+    "id": "4222",
+    "label": "Beräkningsingenjör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "77",
+    "label": "Beräkningsingenjör, el-tele",
+    "typ": "yrke"
+}, {
+    "id": "377",
+    "label": "Besiktningsassistent",
+    "typ": "yrke"
+}, {
+    "id": "164",
+    "label": "Besiktningsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "625",
+    "label": "Besiktningsingenjör, bilprovning",
+    "typ": "yrke"
+}, {
+    "id": "4243",
+    "label": "Besiktningsingenjör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "96",
+    "label": "Besiktningsingenjör, el-tele",
+    "typ": "yrke"
+}, {
+    "id": "2565",
+    "label": "Besiktningsingenjör, försäkring",
+    "typ": "yrke"
+}, {
+    "id": "5920",
+    "label": "Besiktningsman/Skadeinspektör, försäkring",
+    "typ": "yrke"
+}, {
+    "id": "624",
+    "label": "Besiktningstekniker, bilprovning",
+    "typ": "yrke"
+}, {
+    "id": "470",
+    "label": "Bespisningsbiträde/Skolmåltidsbiträde",
+    "typ": "yrke"
+}, {
+    "id": "2982",
+    "label": "Beställningsfaktor",
+    "typ": "yrke"
+}, {
+    "id": "4903",
+    "label": "Beställningskontorist",
+    "typ": "yrke"
+}, {
+    "id": "5375",
+    "label": "Besöksbokare/Kundbokare",
+    "typ": "yrke"
+}, {
+    "id": "5499",
+    "label": "Betjänt",
+    "typ": "yrke"
+}, {
+    "id": "5810",
+    "label": "Betongarbetare",
+    "typ": "yrke"
+}, {
+    "id": "7172",
+    "label": "Betongarbetare, utan yrkesbevis",
+    "typ": "yrke"
+}, {
+    "id": "6204",
+    "label": "Betongblandare",
+    "typ": "yrke"
+}, {
+    "id": "7191",
+    "label": "Betongelementmontör",
+    "typ": "yrke"
+}, {
+    "id": "4143",
+    "label": "Betongstationskötare",
+    "typ": "yrke"
+}, {
+    "id": "6207",
+    "label": "Betongvaruarbetare",
+    "typ": "yrke"
+}, {
+    "id": "5899",
+    "label": "Bibliotekarie",
+    "typ": "yrke"
+}, {
+    "id": "5901",
+    "label": "Biblioteksassistent",
+    "typ": "yrke"
+}, {
+    "id": "6262",
+    "label": "Bibliotekschef",
+    "typ": "yrke"
+}, {
+    "id": "2446",
+    "label": "Bibliotekskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "5673",
+    "label": "Bilbärgare",
+    "typ": "yrke"
+}, {
+    "id": "4653",
+    "label": "Bild- och reprografiker",
+    "typ": "yrke"
+}, {
+    "id": "2438",
+    "label": "Bildarkivarie",
+    "typ": "yrke"
+}, {
+    "id": "2959",
+    "label": "Bildemontör",
+    "typ": "yrke"
+}, {
+    "id": "6257",
+    "label": "Bildingenjör",
+    "typ": "yrke"
+}, {
+    "id": "6186",
+    "label": "Bildmixer",
+    "typ": "yrke"
+}, {
+    "id": "7022",
+    "label": "Bildpedagog",
+    "typ": "yrke"
+}, {
+    "id": "4806",
+    "label": "Bildproducent",
+    "typ": "yrke"
+}, {
+    "id": "3890",
+    "label": "Bildredaktör",
+    "typ": "yrke"
+}, {
+    "id": "1624",
+    "label": "Bildterapeut",
+    "typ": "yrke"
+}, {
+    "id": "5854",
+    "label": "Bilförsäljare",
+    "typ": "yrke"
+}, {
+    "id": "2361",
+    "label": "Bilglasmontör",
+    "typ": "yrke"
+}, {
+    "id": "5580",
+    "label": "Bilinspektör",
+    "typ": "yrke"
+}, {
+    "id": "5973",
+    "label": "Bilplåtslagare/Bilskade- och karosserireparatör",
+    "typ": "yrke"
+}, {
+    "id": "396",
+    "label": "Bilrekonditionerare",
+    "typ": "yrke"
+}, {
+    "id": "2566",
+    "label": "Bilskadeinspektör, försäkring",
+    "typ": "yrke"
+}, {
+    "id": "2559",
+    "label": "Bilskadereglerare",
+    "typ": "yrke"
+}, {
+    "id": "4348",
+    "label": "Biltapetserare",
+    "typ": "yrke"
+}, {
+    "id": "7363",
+    "label": "Biltestkoordinator",
+    "typ": "yrke"
+}, {
+    "id": "2306",
+    "label": "Biluthyrare",
+    "typ": "yrke"
+}, {
+    "id": "397",
+    "label": "Bilvårdare/Garagearbetare",
+    "typ": "yrke"
+}, {
+    "id": "7074",
+    "label": "BING, film/TV",
+    "typ": "yrke"
+}, {
+    "id": "2250",
+    "label": "Bingofunktionär/Bingovärd/Bingovärdinna",
+    "typ": "yrke"
+}, {
+    "id": "5044",
+    "label": "Biodlare/Biskötare",
+    "typ": "yrke"
+}, {
+    "id": "6119",
+    "label": "Biografmaskinist",
+    "typ": "yrke"
+}, {
+    "id": "4126",
+    "label": "Biografvaktmästare",
+    "typ": "yrke"
+}, {
+    "id": "6902",
+    "label": "Bioinformatiker",
+    "typ": "yrke"
+}, {
+    "id": "1837",
+    "label": "Biokemist",
+    "typ": "yrke"
+}, {
+    "id": "6305",
+    "label": "Biolog",
+    "typ": "yrke"
+}, {
+    "id": "6906",
+    "label": "Biomedicinare",
+    "typ": "yrke"
+}, {
+    "id": "5734",
+    "label": "Biomedicinsk analytiker",
+    "typ": "yrke"
+}, {
+    "id": "1444",
+    "label": "Biostatistiker",
+    "typ": "yrke"
+}, {
+    "id": "6836",
+    "label": "Biståndsbedömare/Biståndshandläggare",
+    "typ": "yrke"
+}, {
+    "id": "7450",
+    "label": "Biträdande butikschef",
+    "typ": "yrke"
+}, {
+    "id": "7563",
+    "label": "Biträdande förskolechef",
+    "typ": "yrke"
+}, {
+    "id": "5399",
+    "label": "Biträdande jurist",
+    "typ": "yrke"
+}, {
+    "id": "7297",
+    "label": "Biträdande rektor",
+    "typ": "yrke"
+}, {
+    "id": "7466",
+    "label": "Biträdande universitetslektor",
+    "typ": "yrke"
+}, {
+    "id": "925",
+    "label": "Blandarskötare, sprängämnesindustri",
+    "typ": "yrke"
+}, {
+    "id": "926",
+    "label": "Blandningsuppvägare, sprängämnen",
+    "typ": "yrke"
+}, {
+    "id": "876",
+    "label": "Blanksticksgravör",
+    "typ": "yrke"
+}, {
+    "id": "3240",
+    "label": "Blockgjutare",
+    "typ": "yrke"
+}, {
+    "id": "4548",
+    "label": "Blomsterodlare",
+    "typ": "yrke"
+}, {
+    "id": "4655",
+    "label": "Blysättare, tryckeri",
+    "typ": "yrke"
+}, {
+    "id": "3017",
+    "label": "Blåsare, stålverk",
+    "typ": "yrke"
+}, {
+    "id": "5633",
+    "label": "Blåsinstrumentmakare",
+    "typ": "yrke"
+}, {
+    "id": "5838",
+    "label": "Blästrare",
+    "typ": "yrke"
+}, {
+    "id": "3939",
+    "label": "Blästrare, glas",
+    "typ": "yrke"
+}, {
+    "id": "4393",
+    "label": "Blöjmaskinskötare",
+    "typ": "yrke"
+}, {
+    "id": "5222",
+    "label": "Boendechef, kommun",
+    "typ": "yrke"
+}, {
+    "id": "5804",
+    "label": "Boendeföreståndare, kommunal",
+    "typ": "yrke"
+}, {
+    "id": "6686",
+    "label": "Bohags- och flyttbilsförare",
+    "typ": "yrke"
+}, {
+    "id": "4700",
+    "label": "Bokbindare",
+    "typ": "yrke"
+}, {
+    "id": "5672",
+    "label": "Bokbussförare",
+    "typ": "yrke"
+}, {
+    "id": "2895",
+    "label": "Bokförare",
+    "typ": "yrke"
+}, {
+    "id": "3070",
+    "label": "Bokföringskontorist",
+    "typ": "yrke"
+}, {
+    "id": "5063",
+    "label": "Bokförläggare",
+    "typ": "yrke"
+}, {
+    "id": "6181",
+    "label": "Bolagsjurist",
+    "typ": "yrke"
+}, {
+    "id": "6881",
+    "label": "Borgerlig officiant",
+    "typ": "yrke"
+}, {
+    "id": "1377",
+    "label": "Borrare, gruva",
+    "typ": "yrke"
+}, {
+    "id": "5938",
+    "label": "Borrare, metall",
+    "typ": "yrke"
+}, {
+    "id": "4352",
+    "label": "Borrare, trä",
+    "typ": "yrke"
+}, {
+    "id": "1390",
+    "label": "Borrförman, berg",
+    "typ": "yrke"
+}, {
+    "id": "370",
+    "label": "Borrledare, petroleumutvinning",
+    "typ": "yrke"
+}, {
+    "id": "7610",
+    "label": "Borrtekniker",
+    "typ": "yrke"
+}, {
+    "id": "6325",
+    "label": "Bostadsförmedlare",
+    "typ": "yrke"
+}, {
+    "id": "2578",
+    "label": "Bostadsförvaltare",
+    "typ": "yrke"
+}, {
+    "id": "2580",
+    "label": "Bostadsintendent",
+    "typ": "yrke"
+}, {
+    "id": "4743",
+    "label": "Botaniker",
+    "typ": "yrke"
+}, {
+    "id": "2791",
+    "label": "Boupptecknare",
+    "typ": "yrke"
+}, {
+    "id": "5964",
+    "label": "Boutredare",
+    "typ": "yrke"
+}, {
+    "id": "2792",
+    "label": "Boutredningsman",
+    "typ": "yrke"
+}, {
+    "id": "6858",
+    "label": "Bovärd/Fastighetsvärd/Husvärd",
+    "typ": "yrke"
+}, {
+    "id": "5905",
+    "label": "Brandbefäl/Räddningsledare/Insatsledare",
+    "typ": "yrke"
+}, {
+    "id": "6647",
+    "label": "Brandchef",
+    "typ": "yrke"
+}, {
+    "id": "5567",
+    "label": "Brandingenjör",
+    "typ": "yrke"
+}, {
+    "id": "562",
+    "label": "Brandinspektör",
+    "typ": "yrke"
+}, {
+    "id": "5904",
+    "label": "Brandman",
+    "typ": "yrke"
+}, {
+    "id": "2560",
+    "label": "Brandskadereglerare",
+    "typ": "yrke"
+}, {
+    "id": "4080",
+    "label": "Brandskadesanerare",
+    "typ": "yrke"
+}, {
+    "id": "7513",
+    "label": "Brandskyddsmålare",
+    "typ": "yrke"
+}, {
+    "id": "564",
+    "label": "Brandtekniker",
+    "typ": "yrke"
+}, {
+    "id": "7623",
+    "label": "Bredbandsinstallatör",
+    "typ": "yrke"
+}, {
+    "id": "5830",
+    "label": "Brevbärare",
+    "typ": "yrke"
+}, {
+    "id": "3224",
+    "label": "Brodös",
+    "typ": "yrke"
+}, {
+    "id": "1395",
+    "label": "Brottarbetare",
+    "typ": "yrke"
+}, {
+    "id": "3156",
+    "label": "Brottmålsadvokat",
+    "typ": "yrke"
+}, {
+    "id": "2506",
+    "label": "Brovakt",
+    "typ": "yrke"
+}, {
+    "id": "5982",
+    "label": "Brunnsborrare",
+    "typ": "yrke"
+}, {
+    "id": "5661",
+    "label": "Bryggeriarbetare",
+    "typ": "yrke"
+}, {
+    "id": "1176",
+    "label": "Brygghusarbetare",
+    "typ": "yrke"
+}, {
+    "id": "5423",
+    "label": "Bryggmästare",
+    "typ": "yrke"
+}, {
+    "id": "1378",
+    "label": "Brytare, gruva",
+    "typ": "yrke"
+}, {
+    "id": "1396",
+    "label": "Brytare, stenbrott",
+    "typ": "yrke"
+}, {
+    "id": "3976",
+    "label": "Brännare, glas, keramik",
+    "typ": "yrke"
+}, {
+    "id": "1178",
+    "label": "Brännmästare",
+    "typ": "yrke"
+}, {
+    "id": "1179",
+    "label": "Brännvinsbrännare",
+    "typ": "yrke"
+}, {
+    "id": "4332",
+    "label": "Budbilsförare",
+    "typ": "yrke"
+}, {
+    "id": "6841",
+    "label": "Buddhistpräst",
+    "typ": "yrke"
+}, {
+    "id": "7467",
+    "label": "Budget- och skuldrådgivare",
+    "typ": "yrke"
+}, {
+    "id": "3071",
+    "label": "Budgetassistent",
+    "typ": "yrke"
+}, {
+    "id": "5069",
+    "label": "Budgetchef",
+    "typ": "yrke"
+}, {
+    "id": "4844",
+    "label": "Budgetplanerare",
+    "typ": "yrke"
+}, {
+    "id": "4845",
+    "label": "Budgetsekreterare",
+    "typ": "yrke"
+}, {
+    "id": "6533",
+    "label": "Business controller",
+    "typ": "yrke"
+}, {
+    "id": "5561",
+    "label": "Bussförare/Busschaufför",
+    "typ": "yrke"
+}, {
+    "id": "698",
+    "label": "Bussguide",
+    "typ": "yrke"
+}, {
+    "id": "598",
+    "label": "Bussmekaniker",
+    "typ": "yrke"
+}, {
+    "id": "4927",
+    "label": "Butiksansvarig",
+    "typ": "yrke"
+}, {
+    "id": "6646",
+    "label": "Butikschef",
+    "typ": "yrke"
+}, {
+    "id": "2289",
+    "label": "Butiksdemonstratör",
+    "typ": "yrke"
+}, {
+    "id": "4171",
+    "label": "Butiksinspektör",
+    "typ": "yrke"
+}, {
+    "id": "7211",
+    "label": "Butikskommunikatör/Visual merchandiser",
+    "typ": "yrke"
+}, {
+    "id": "5950",
+    "label": "Butikskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "2475",
+    "label": "Butikskontrollant",
+    "typ": "yrke"
+}, {
+    "id": "5357",
+    "label": "Butikssäljare, fackhandel",
+    "typ": "yrke"
+}, {
+    "id": "2284",
+    "label": "Butikssäljare/Medarbetare, dagligvaror",
+    "typ": "yrke"
+}, {
+    "id": "6687",
+    "label": "Bygg- och anläggningsförare",
+    "typ": "yrke"
+}, {
+    "id": "7483",
+    "label": "Byggledare",
+    "typ": "yrke"
+}, {
+    "id": "7628",
+    "label": "Bygglovshandläggare",
+    "typ": "yrke"
+}, {
+    "id": "6369",
+    "label": "Byggmästare",
+    "typ": "yrke"
+}, {
+    "id": "4179",
+    "label": "Byggnadsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "5586",
+    "label": "Byggnadsinspektör",
+    "typ": "yrke"
+}, {
+    "id": "2983",
+    "label": "Byggnadskalkylator/Anbudsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "6645",
+    "label": "Byggnadskonstruktör",
+    "typ": "yrke"
+}, {
+    "id": "4180",
+    "label": "Byggnadskonsult",
+    "typ": "yrke"
+}, {
+    "id": "642",
+    "label": "Byggnadskontrollant",
+    "typ": "yrke"
+}, {
+    "id": "5972",
+    "label": "Byggnadsplåtslagare",
+    "typ": "yrke"
+}, {
+    "id": "4467",
+    "label": "Byggnadsråd",
+    "typ": "yrke"
+}, {
+    "id": "2615",
+    "label": "Byggnadssmed",
+    "typ": "yrke"
+}, {
+    "id": "449",
+    "label": "Byggstädare",
+    "typ": "yrke"
+}, {
+    "id": "4468",
+    "label": "Byråchef",
+    "typ": "yrke"
+}, {
+    "id": "2567",
+    "label": "Båtbesiktningsman",
+    "typ": "yrke"
+}, {
+    "id": "5815",
+    "label": "Båtbyggare",
+    "typ": "yrke"
+}, {
+    "id": "2282",
+    "label": "Båtförsäljare",
+    "typ": "yrke"
+}, {
+    "id": "2092",
+    "label": "Båtinredare",
+    "typ": "yrke"
+}, {
+    "id": "4047",
+    "label": "Båtman, sjöfartsverket",
+    "typ": "yrke"
+}, {
+    "id": "2568",
+    "label": "Båtskadeinspektör",
+    "typ": "yrke"
+}, {
+    "id": "4086",
+    "label": "Båtsman/Bås",
+    "typ": "yrke"
+}, {
+    "id": "786",
+    "label": "Båtvärdinna",
+    "typ": "yrke"
+}, {
+    "id": "2629",
+    "label": "Bänkarbetare",
+    "typ": "yrke"
+}, {
+    "id": "2856",
+    "label": "Bärgningsdykare",
+    "typ": "yrke"
+}, {
+    "id": "4536",
+    "label": "Bärodlare",
+    "typ": "yrke"
+}, {
+    "id": "6810",
+    "label": "Bärplockare",
+    "typ": "yrke"
+}, {
+    "id": "4328",
+    "label": "Bössmakare",
+    "typ": "yrke"
+}, {
+    "id": "463",
+    "label": "Cabin stewardess/Hyttvärdinna",
+    "typ": "yrke"
+}, {
+    "id": "4929",
+    "label": "Campingplatsföreståndare",
+    "typ": "yrke"
+}, {
+    "id": "5936",
+    "label": "Cateringarbetare",
+    "typ": "yrke"
+}, {
+    "id": "4152",
+    "label": "Cementbrännare",
+    "typ": "yrke"
+}, {
+    "id": "3953",
+    "label": "Centrifugoperatör, glas",
+    "typ": "yrke"
+}, {
+    "id": "7449",
+    "label": "Centrumledare",
+    "typ": "yrke"
+}, {
+    "id": "7489",
+    "label": "Centrumutvecklare/Handelsutvecklare",
+    "typ": "yrke"
+}, {
+    "id": "2285",
+    "label": "Charkuteriarbetare, butik",
+    "typ": "yrke"
+}, {
+    "id": "7592",
+    "label": "Charkuteriarbetare, slakteri",
+    "typ": "yrke"
+}, {
+    "id": "5502",
+    "label": "Charkuterist",
+    "typ": "yrke"
+}, {
+    "id": "688",
+    "label": "Charterresesäljare",
+    "typ": "yrke"
+}, {
+    "id": "7555",
+    "label": "Chef för valuta och fixed income",
+    "typ": "yrke"
+}, {
+    "id": "7517",
+    "label": "Chef inom kyrkogårdsförvaltningen",
+    "typ": "yrke"
+}, {
+    "id": "7553",
+    "label": "Chef, Corporate Finance",
+    "typ": "yrke"
+}, {
+    "id": "6363",
+    "label": "Chefredaktör",
+    "typ": "yrke"
+}, {
+    "id": "1593",
+    "label": "Chefsarbetsterapeut",
+    "typ": "yrke"
+}, {
+    "id": "7560",
+    "label": "Chefsbarnmorska",
+    "typ": "yrke"
+}, {
+    "id": "217",
+    "label": "Chefskock",
+    "typ": "yrke"
+}, {
+    "id": "5960",
+    "label": "Chefssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "1451",
+    "label": "Chefssjuksköterska",
+    "typ": "yrke"
+}, {
+    "id": "3145",
+    "label": "Chefsåklagare",
+    "typ": "yrke"
+}, {
+    "id": "5425",
+    "label": "CIO, Chief Information Officer/IT-chef",
+    "typ": "yrke"
+}, {
+    "id": "6106",
+    "label": "Cirkelledare/Studiecirkelledare",
+    "typ": "yrke"
+}, {
+    "id": "6095",
+    "label": "Cirkusartist",
+    "typ": "yrke"
+}, {
+    "id": "5622",
+    "label": "Ciselör",
+    "typ": "yrke"
+}, {
+    "id": "5975",
+    "label": "Cisternreparatör",
+    "typ": "yrke"
+}, {
+    "id": "2835",
+    "label": "Cisternvårdare",
+    "typ": "yrke"
+}, {
+    "id": "7448",
+    "label": "Cityledare",
+    "typ": "yrke"
+}, {
+    "id": "6644",
+    "label": "Civilförsvarschef",
+    "typ": "yrke"
+}, {
+    "id": "6497",
+    "label": "Civilingenjör, anläggning",
+    "typ": "yrke"
+}, {
+    "id": "6472",
+    "label": "Civilingenjör, anläggning, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "7106",
+    "label": "Civilingenjör, bioteknik",
+    "typ": "yrke"
+}, {
+    "id": "6508",
+    "label": "Civilingenjör, bygg",
+    "typ": "yrke"
+}, {
+    "id": "6494",
+    "label": "Civilingenjör, byggnadskonstruktion",
+    "typ": "yrke"
+}, {
+    "id": "6470",
+    "label": "Civilingenjör, drift och underhåll, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "6506",
+    "label": "Civilingenjör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "6505",
+    "label": "Civilingenjör, el-tele",
+    "typ": "yrke"
+}, {
+    "id": "6900",
+    "label": "Civilingenjör, energi",
+    "typ": "yrke"
+}, {
+    "id": "7427",
+    "label": "Civilingenjör, farkostteknik",
+    "typ": "yrke"
+}, {
+    "id": "7263",
+    "label": "Civilingenjör, forskning inom bygg/anläggning",
+    "typ": "yrke"
+}, {
+    "id": "6804",
+    "label": "Civilingenjör, forskning/utveckling, kemi",
+    "typ": "yrke"
+}, {
+    "id": "6491",
+    "label": "Civilingenjör, hamn",
+    "typ": "yrke"
+}, {
+    "id": "7268",
+    "label": "Civilingenjör, järnväg",
+    "typ": "yrke"
+}, {
+    "id": "6894",
+    "label": "Civilingenjör, kemi",
+    "typ": "yrke"
+}, {
+    "id": "6500",
+    "label": "Civilingenjör, kemiteknik",
+    "typ": "yrke"
+}, {
+    "id": "6460",
+    "label": "Civilingenjör, konstruktion, elektronik",
+    "typ": "yrke"
+}, {
+    "id": "6468",
+    "label": "Civilingenjör, konstruktion, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "6456",
+    "label": "Civilingenjör, konstruktion, maskin",
+    "typ": "yrke"
+}, {
+    "id": "6467",
+    "label": "Civilingenjör, kontroll, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "6458",
+    "label": "Civilingenjör, kvalitet, elektronik",
+    "typ": "yrke"
+}, {
+    "id": "6466",
+    "label": "Civilingenjör, kvalitet, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "6449",
+    "label": "Civilingenjör, kvalitet, kemiteknik",
+    "typ": "yrke"
+}, {
+    "id": "6446",
+    "label": "Civilingenjör, kvalitet, metallurgi",
+    "typ": "yrke"
+}, {
+    "id": "6502",
+    "label": "Civilingenjör, lantmäteri",
+    "typ": "yrke"
+}, {
+    "id": "6504",
+    "label": "Civilingenjör, maskin",
+    "typ": "yrke"
+}, {
+    "id": "7378",
+    "label": "Civilingenjör, medicinsk teknik",
+    "typ": "yrke"
+}, {
+    "id": "4720",
+    "label": "Civilingenjör, organisationsutveckling",
+    "typ": "yrke"
+}, {
+    "id": "6447",
+    "label": "Civilingenjör, process, kemiteknik",
+    "typ": "yrke"
+}, {
+    "id": "6459",
+    "label": "Civilingenjör, produktion, elektronik",
+    "typ": "yrke"
+}, {
+    "id": "6463",
+    "label": "Civilingenjör, produktion, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "6445",
+    "label": "Civilingenjör, produktion, gruv, metallurgi",
+    "typ": "yrke"
+}, {
+    "id": "6453",
+    "label": "Civilingenjör, produktion, maskin",
+    "typ": "yrke"
+}, {
+    "id": "6509",
+    "label": "Civilingenjör, systemutveckling",
+    "typ": "yrke"
+}, {
+    "id": "7318",
+    "label": "Civilingenjör, teknisk fysik",
+    "typ": "yrke"
+}, {
+    "id": "7491",
+    "label": "Civilingenjör, tillverkningsindustri",
+    "typ": "yrke"
+}, {
+    "id": "6485",
+    "label": "Civilingenjör, trafik",
+    "typ": "yrke"
+}, {
+    "id": "6450",
+    "label": "Civilingenjör, VVS",
+    "typ": "yrke"
+}, {
+    "id": "6483",
+    "label": "Civilingenjör, väg",
+    "typ": "yrke"
+}, {
+    "id": "6484",
+    "label": "Civilingenjör, väg- och vattenbyggnad",
+    "typ": "yrke"
+}, {
+    "id": "2569",
+    "label": "Civilskadeinspektör",
+    "typ": "yrke"
+}, {
+    "id": "2561",
+    "label": "Civilskadereglerare",
+    "typ": "yrke"
+}, {
+    "id": "3582",
+    "label": "Clown",
+    "typ": "yrke"
+}, {
+    "id": "7614",
+    "label": "CNC-operatör, trä",
+    "typ": "yrke"
+}, {
+    "id": "6004",
+    "label": "CNC-operatör/FMS-operatör",
+    "typ": "yrke"
+}, {
+    "id": "6850",
+    "label": "Coldsettryckare",
+    "typ": "yrke"
+}, {
+    "id": "6318",
+    "label": "Controller",
+    "typ": "yrke"
+}, {
+    "id": "6156",
+    "label": "Copywriter",
+    "typ": "yrke"
+}, {
+    "id": "7204",
+    "label": "Creativ director",
+    "typ": "yrke"
+}, {
+    "id": "5846",
+    "label": "Croupier",
+    "typ": "yrke"
+}, {
+    "id": "6882",
+    "label": "Curator",
+    "typ": "yrke"
+}, {
+    "id": "5577",
+    "label": "Cykel- och mopedreparatör",
+    "typ": "yrke"
+}, {
+    "id": "3470",
+    "label": "Cykelbud",
+    "typ": "yrke"
+}, {
+    "id": "4689",
+    "label": "Cylindergravör",
+    "typ": "yrke"
+}, {
+    "id": "6731",
+    "label": "Cytodiagnostiker",
+    "typ": "yrke"
+}, {
+    "id": "5717",
+    "label": "Dagbarnvårdare",
+    "typ": "yrke"
+}, {
+    "id": "240",
+    "label": "Damfrisör",
+    "typ": "yrke"
+}, {
+    "id": "2374",
+    "label": "Dammskötare, fiskodling",
+    "typ": "yrke"
+}, {
+    "id": "1415",
+    "label": "Damskräddare",
+    "typ": "yrke"
+}, {
+    "id": "6050",
+    "label": "Dansare",
+    "typ": "yrke"
+}, {
+    "id": "6383",
+    "label": "Dansare, show",
+    "typ": "yrke"
+}, {
+    "id": "6099",
+    "label": "Danspedagog",
+    "typ": "yrke"
+}, {
+    "id": "1625",
+    "label": "Dansterapeut",
+    "typ": "yrke"
+}, {
+    "id": "7135",
+    "label": "Data Warehouse specialist",
+    "typ": "yrke"
+}, {
+    "id": "5896",
+    "label": "Databasadministratör",
+    "typ": "yrke"
+}, {
+    "id": "2421",
+    "label": "Databasdesigner",
+    "typ": "yrke"
+}, {
+    "id": "2422",
+    "label": "Databastekniker",
+    "typ": "yrke"
+}, {
+    "id": "2423",
+    "label": "Databasutvecklare",
+    "typ": "yrke"
+}, {
+    "id": "7338",
+    "label": "Dataingenjör",
+    "typ": "yrke"
+}, {
+    "id": "3635",
+    "label": "Datainstruktör",
+    "typ": "yrke"
+}, {
+    "id": "6677",
+    "label": "Datalingvist",
+    "typ": "yrke"
+}, {
+    "id": "6027",
+    "label": "Dataoperatör",
+    "typ": "yrke"
+}, {
+    "id": "3637",
+    "label": "Datapedagog/IT-pedagog/Datautbildare",
+    "typ": "yrke"
+}, {
+    "id": "5965",
+    "label": "Dataregistrerare",
+    "typ": "yrke"
+}, {
+    "id": "5944",
+    "label": "Datasäkerhetsansvarig",
+    "typ": "yrke"
+}, {
+    "id": "2249",
+    "label": "Dealer",
+    "typ": "yrke"
+}, {
+    "id": "1342",
+    "label": "Defibratorskötare",
+    "typ": "yrke"
+}, {
+    "id": "6641",
+    "label": "Degelmakare",
+    "typ": "yrke"
+}, {
+    "id": "7246",
+    "label": "Dekorationsmålare, bygg",
+    "typ": "yrke"
+}, {
+    "id": "4062",
+    "label": "Dekorationsmålare, glas",
+    "typ": "yrke"
+}, {
+    "id": "4063",
+    "label": "Dekorationsmålare, porslin",
+    "typ": "yrke"
+}, {
+    "id": "3849",
+    "label": "Dekorationsmålare, skyltning",
+    "typ": "yrke"
+}, {
+    "id": "6152",
+    "label": "Dekoratör",
+    "typ": "yrke"
+}, {
+    "id": "4064",
+    "label": "Dekoratör, keramik, glas",
+    "typ": "yrke"
+}, {
+    "id": "3853",
+    "label": "Dekormålare",
+    "typ": "yrke"
+}, {
+    "id": "3940",
+    "label": "Dekorslipare, glas",
+    "typ": "yrke"
+}, {
+    "id": "5890",
+    "label": "Delgivningsman",
+    "typ": "yrke"
+}, {
+    "id": "1445",
+    "label": "Demograf",
+    "typ": "yrke"
+}, {
+    "id": "5857",
+    "label": "Demonstratör",
+    "typ": "yrke"
+}, {
+    "id": "6006",
+    "label": "Demontör/Återvinningsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "3722",
+    "label": "Dentaltekniker",
+    "typ": "yrke"
+}, {
+    "id": "6640",
+    "label": "Departementschef",
+    "typ": "yrke"
+}, {
+    "id": "6639",
+    "label": "Departementsråd",
+    "typ": "yrke"
+}, {
+    "id": "1890",
+    "label": "Departementssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "6723",
+    "label": "Deponiarbetare",
+    "typ": "yrke"
+}, {
+    "id": "733",
+    "label": "Depåförare, spårburen trafik",
+    "typ": "yrke"
+}, {
+    "id": "5284",
+    "label": "Depåman/Depåtekniker",
+    "typ": "yrke"
+}, {
+    "id": "7630",
+    "label": "Designassistent",
+    "typ": "yrke"
+}, {
+    "id": "3305",
+    "label": "Designer",
+    "typ": "yrke"
+}, {
+    "id": "4656",
+    "label": "Desktopoperatör",
+    "typ": "yrke"
+}, {
+    "id": "1129",
+    "label": "Destruktionsmaskinist",
+    "typ": "yrke"
+}, {
+    "id": "5808",
+    "label": "Diakon",
+    "typ": "yrke"
+}, {
+    "id": "1955",
+    "label": "Dietetiker",
+    "typ": "yrke"
+}, {
+    "id": "5769",
+    "label": "Dietist",
+    "typ": "yrke"
+}, {
+    "id": "218",
+    "label": "Dietkock/Dietkokerska",
+    "typ": "yrke"
+}, {
+    "id": "6835",
+    "label": "Digitaltryckare",
+    "typ": "yrke"
+}, {
+    "id": "2788",
+    "label": "Direktionssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "4386",
+    "label": "Direktris/Garment technician/Mönsterkonstruktör",
+    "typ": "yrke"
+}, {
+    "id": "6059",
+    "label": "Dirigent",
+    "typ": "yrke"
+}, {
+    "id": "6792",
+    "label": "Discjockey",
+    "typ": "yrke"
+}, {
+    "id": "5556",
+    "label": "Diskare",
+    "typ": "yrke"
+}, {
+    "id": "4949",
+    "label": "Diskrimineringsombudsman",
+    "typ": "yrke"
+}, {
+    "id": "3638",
+    "label": "Dispatcher",
+    "typ": "yrke"
+}, {
+    "id": "2189",
+    "label": "Distributionsassistent",
+    "typ": "yrke"
+}, {
+    "id": "5116",
+    "label": "Distributionschef",
+    "typ": "yrke"
+}, {
+    "id": "384",
+    "label": "Distributionschef, energi",
+    "typ": "yrke"
+}, {
+    "id": "5616",
+    "label": "Distributionselektriker",
+    "typ": "yrke"
+}, {
+    "id": "534",
+    "label": "Distributionsförare",
+    "typ": "yrke"
+}, {
+    "id": "1435",
+    "label": "Distriktsbarnmorska",
+    "typ": "yrke"
+}, {
+    "id": "7308",
+    "label": "Distriktschef, bilprovning",
+    "typ": "yrke"
+}, {
+    "id": "6945",
+    "label": "Distriktschef, skogsbruk",
+    "typ": "yrke"
+}, {
+    "id": "3485",
+    "label": "Distriktsinstruktör/Distriktstränare",
+    "typ": "yrke"
+}, {
+    "id": "3486",
+    "label": "Distriktskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "5760",
+    "label": "Distriktssköterska",
+    "typ": "yrke"
+}, {
+    "id": "3647",
+    "label": "Distriktsstudieledare",
+    "typ": "yrke"
+}, {
+    "id": "1847",
+    "label": "Distriktsveterinär",
+    "typ": "yrke"
+}, {
+    "id": "3146",
+    "label": "Distriktsåklagare",
+    "typ": "yrke"
+}, {
+    "id": "7624",
+    "label": "DIT (Digital Imaging Technician)",
+    "typ": "yrke"
+}, {
+    "id": "5987",
+    "label": "Diversearbetare",
+    "typ": "yrke"
+}, {
+    "id": "4821",
+    "label": "Djuptryckare",
+    "typ": "yrke"
+}, {
+    "id": "4686",
+    "label": "Djuptrycksetsare",
+    "typ": "yrke"
+}, {
+    "id": "4687",
+    "label": "Djuptrycksgalvanisör",
+    "typ": "yrke"
+}, {
+    "id": "1848",
+    "label": "Djurhälsoveterinär",
+    "typ": "yrke"
+}, {
+    "id": "5768",
+    "label": "Djursjukskötare",
+    "typ": "yrke"
+}, {
+    "id": "1914",
+    "label": "Djurskyddsinspektör",
+    "typ": "yrke"
+}, {
+    "id": "6285",
+    "label": "Djurskötare, djurpark",
+    "typ": "yrke"
+}, {
+    "id": "6279",
+    "label": "Djurskötare, djuruppfödning",
+    "typ": "yrke"
+}, {
+    "id": "6282",
+    "label": "Djurskötare, fjäderfä",
+    "typ": "yrke"
+}, {
+    "id": "6433",
+    "label": "Djurskötare, får",
+    "typ": "yrke"
+}, {
+    "id": "6427",
+    "label": "Djurskötare, gris",
+    "typ": "yrke"
+}, {
+    "id": "6281",
+    "label": "Djurskötare, häst",
+    "typ": "yrke"
+}, {
+    "id": "7460",
+    "label": "Djurskötare, mjölk",
+    "typ": "yrke"
+}, {
+    "id": "6694",
+    "label": "Djurtransportförare",
+    "typ": "yrke"
+}, {
+    "id": "7580",
+    "label": "Djurvårdare",
+    "typ": "yrke"
+}, {
+    "id": "4401",
+    "label": "Dockmakare",
+    "typ": "yrke"
+}, {
+    "id": "6053",
+    "label": "Dockspelare",
+    "typ": "yrke"
+}, {
+    "id": "7082",
+    "label": "Dockteaterpedagog",
+    "typ": "yrke"
+}, {
+    "id": "7589",
+    "label": "Doktorand",
+    "typ": "yrke"
+}, {
+    "id": "5903",
+    "label": "Dokumentalist",
+    "typ": "yrke"
+}, {
+    "id": "6030",
+    "label": "Domare",
+    "typ": "yrke"
+}, {
+    "id": "2112",
+    "label": "Domprost",
+    "typ": "yrke"
+}, {
+    "id": "3120",
+    "label": "Domstolsjurist",
+    "typ": "yrke"
+}, {
+    "id": "7401",
+    "label": "Domstolssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "2159",
+    "label": "Dopplackerare",
+    "typ": "yrke"
+}, {
+    "id": "5634",
+    "label": "Dragspelsbyggare",
+    "typ": "yrke"
+}, {
+    "id": "956",
+    "label": "Dragspelsreparatör",
+    "typ": "yrke"
+}, {
+    "id": "3654",
+    "label": "Dramalärare/Dramapedagog",
+    "typ": "yrke"
+}, {
+    "id": "3873",
+    "label": "Dramatiker",
+    "typ": "yrke"
+}, {
+    "id": "3874",
+    "label": "Dramaturg",
+    "typ": "yrke"
+}, {
+    "id": "3242",
+    "label": "Drejare",
+    "typ": "yrke"
+}, {
+    "id": "7262",
+    "label": "Drift- och underhållsingenjör, anläggning",
+    "typ": "yrke"
+}, {
+    "id": "7114",
+    "label": "Drift- och vägunderhållsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "5434",
+    "label": "Driftchef, data",
+    "typ": "yrke"
+}, {
+    "id": "5539",
+    "label": "Driftchef, energi",
+    "typ": "yrke"
+}, {
+    "id": "6811",
+    "label": "Driftchef, fastighet",
+    "typ": "yrke"
+}, {
+    "id": "5097",
+    "label": "Driftchef, lantbruk",
+    "typ": "yrke"
+}, {
+    "id": "7242",
+    "label": "Driftchef, skogsbruk",
+    "typ": "yrke"
+}, {
+    "id": "6378",
+    "label": "Driftchef, trädgård",
+    "typ": "yrke"
+}, {
+    "id": "385",
+    "label": "Driftchef, VA",
+    "typ": "yrke"
+}, {
+    "id": "796",
+    "label": "Driftelektriker",
+    "typ": "yrke"
+}, {
+    "id": "4229",
+    "label": "Driftingenjör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "7279",
+    "label": "Driftingenjör, el-tele",
+    "typ": "yrke"
+}, {
+    "id": "115",
+    "label": "Driftingenjör, maskin",
+    "typ": "yrke"
+}, {
+    "id": "4264",
+    "label": "Driftingenjör, reningsverk",
+    "typ": "yrke"
+}, {
+    "id": "4265",
+    "label": "Driftingenjör, vattenverk",
+    "typ": "yrke"
+}, {
+    "id": "4266",
+    "label": "Driftingenjör, värmeverk",
+    "typ": "yrke"
+}, {
+    "id": "3712",
+    "label": "Driftkopplingstekniker",
+    "typ": "yrke"
+}, {
+    "id": "3097",
+    "label": "Driftledare, IT",
+    "typ": "yrke"
+}, {
+    "id": "5098",
+    "label": "Driftledare, lantbruk",
+    "typ": "yrke"
+}, {
+    "id": "6778",
+    "label": "Driftledare, skogsbruk",
+    "typ": "yrke"
+}, {
+    "id": "278",
+    "label": "Driftmaskinist, reningsverk",
+    "typ": "yrke"
+}, {
+    "id": "5506",
+    "label": "Driftmaskinist, värmeverk",
+    "typ": "yrke"
+}, {
+    "id": "797",
+    "label": "Driftmontör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "5431",
+    "label": "Drifttekniker, data",
+    "typ": "yrke"
+}, {
+    "id": "280",
+    "label": "Drifttekniker, förbränningsstation",
+    "typ": "yrke"
+}, {
+    "id": "6637",
+    "label": "Drifttekniker, värmeverk",
+    "typ": "yrke"
+}, {
+    "id": "3046",
+    "label": "Dykarbiträde",
+    "typ": "yrke"
+}, {
+    "id": "5979",
+    "label": "Dykare",
+    "typ": "yrke"
+}, {
+    "id": "3047",
+    "label": "Dykarskötare",
+    "typ": "yrke"
+}, {
+    "id": "7640",
+    "label": "Dykinstruktör",
+    "typ": "yrke"
+}, {
+    "id": "6019",
+    "label": "Dykledare",
+    "typ": "yrke"
+}, {
+    "id": "294",
+    "label": "Däckmontör/Däck- och hjulmekaniker",
+    "typ": "yrke"
+}, {
+    "id": "5649",
+    "label": "Däcksbyggare",
+    "typ": "yrke"
+}, {
+    "id": "4129",
+    "label": "Dörrvakt",
+    "typ": "yrke"
+}, {
+    "id": "1984",
+    "label": "Dövblindkonsulent",
+    "typ": "yrke"
+}, {
+    "id": "1985",
+    "label": "Dövkonsulent",
+    "typ": "yrke"
+}, {
+    "id": "7043",
+    "label": "Efterbearbetningsredaktör",
+    "typ": "yrke"
+}, {
+    "id": "4744",
+    "label": "Ekolog",
+    "typ": "yrke"
+}, {
+    "id": "3210",
+    "label": "Ekonometriker",
+    "typ": "yrke"
+}, {
+    "id": "6024",
+    "label": "Ekonomiassistent",
+    "typ": "yrke"
+}, {
+    "id": "237",
+    "label": "Ekonomibiträde, fartyg",
+    "typ": "yrke"
+}, {
+    "id": "472",
+    "label": "Ekonomibiträde, storhushåll",
+    "typ": "yrke"
+}, {
+    "id": "6367",
+    "label": "Ekonomichef",
+    "typ": "yrke"
+}, {
+    "id": "5071",
+    "label": "Ekonomidirektör/Finanschef",
+    "typ": "yrke"
+}, {
+    "id": "5478",
+    "label": "Ekonomiföreståndare",
+    "typ": "yrke"
+}, {
+    "id": "4721",
+    "label": "Ekonomikonsult",
+    "typ": "yrke"
+}, {
+    "id": "3072",
+    "label": "Ekonomikontorist",
+    "typ": "yrke"
+}, {
+    "id": "5072",
+    "label": "Ekonomiledare",
+    "typ": "yrke"
+}, {
+    "id": "2356",
+    "label": "Ekotoxikolog",
+    "typ": "yrke"
+}, {
+    "id": "291",
+    "label": "Eldare",
+    "typ": "yrke"
+}, {
+    "id": "4032",
+    "label": "Elektriker, film/TV",
+    "typ": "yrke"
+}, {
+    "id": "7072",
+    "label": "Elektrikerassistent, film/TV",
+    "typ": "yrke"
+}, {
+    "id": "3019",
+    "label": "Elektrodskötare",
+    "typ": "yrke"
+}, {
+    "id": "1130",
+    "label": "Elektrofilterskötare",
+    "typ": "yrke"
+}, {
+    "id": "798",
+    "label": "Elektromekaniker",
+    "typ": "yrke"
+}, {
+    "id": "7327",
+    "label": "Elektronikkonstruktör",
+    "typ": "yrke"
+}, {
+    "id": "307",
+    "label": "Elektronikmontör",
+    "typ": "yrke"
+}, {
+    "id": "842",
+    "label": "Elektronikreparatör",
+    "typ": "yrke"
+}, {
+    "id": "6724",
+    "label": "Elektroniksanerare",
+    "typ": "yrke"
+}, {
+    "id": "363",
+    "label": "Elektrotekniker",
+    "typ": "yrke"
+}, {
+    "id": "5718",
+    "label": "Elevassistent",
+    "typ": "yrke"
+}, {
+    "id": "6415",
+    "label": "Elingenjör",
+    "typ": "yrke"
+}, {
+    "id": "5365",
+    "label": "Elingenjör, fartyg",
+    "typ": "yrke"
+}, {
+    "id": "4223",
+    "label": "Elkonstruktör",
+    "typ": "yrke"
+}, {
+    "id": "4230",
+    "label": "Elkrafttekniker",
+    "typ": "yrke"
+}, {
+    "id": "6412",
+    "label": "Elmontör",
+    "typ": "yrke"
+}, {
+    "id": "799",
+    "label": "Elreparatör",
+    "typ": "yrke"
+}, {
+    "id": "4231",
+    "label": "Eltekniker",
+    "typ": "yrke"
+}, {
+    "id": "7564",
+    "label": "Eltekniker, järnväg/Kontaktledningsmontör",
+    "typ": "yrke"
+}, {
+    "id": "5113",
+    "label": "Elverkschef",
+    "typ": "yrke"
+}, {
+    "id": "857",
+    "label": "Elverksmontör",
+    "typ": "yrke"
+}, {
+    "id": "4065",
+    "label": "Emaljerare, keramik",
+    "typ": "yrke"
+}, {
+    "id": "2160",
+    "label": "Emaljerare, lackering",
+    "typ": "yrke"
+}, {
+    "id": "877",
+    "label": "Emaljör",
+    "typ": "yrke"
+}, {
+    "id": "5265",
+    "label": "Emballerare",
+    "typ": "yrke"
+}, {
+    "id": "7097",
+    "label": "Embryolog",
+    "typ": "yrke"
+}, {
+    "id": "4048",
+    "label": "Endestyrman",
+    "typ": "yrke"
+}, {
+    "id": "7456",
+    "label": "Energideklarerare/Energiexpert",
+    "typ": "yrke"
+}, {
+    "id": "4736",
+    "label": "Energirådgivare",
+    "typ": "yrke"
+}, {
+    "id": "6521",
+    "label": "Enhetschef inom social omsorg",
+    "typ": "yrke"
+}, {
+    "id": "6522",
+    "label": "Enhetschef inom socialtjänst",
+    "typ": "yrke"
+}, {
+    "id": "7305",
+    "label": "Enhetschef, hälso- och sjukvård",
+    "typ": "yrke"
+}, {
+    "id": "7530",
+    "label": "Enhetschef, offentlig förvaltning",
+    "typ": "yrke"
+}, {
+    "id": "7600",
+    "label": "Enterprise Architect",
+    "typ": "yrke"
+}, {
+    "id": "3686",
+    "label": "Entertainer",
+    "typ": "yrke"
+}, {
+    "id": "4745",
+    "label": "Entomolog",
+    "typ": "yrke"
+}, {
+    "id": "7261",
+    "label": "Entreprenadingenjör",
+    "typ": "yrke"
+}, {
+    "id": "1850",
+    "label": "Epizootolog",
+    "typ": "yrke"
+}, {
+    "id": "3243",
+    "label": "Epoxigjutare",
+    "typ": "yrke"
+}, {
+    "id": "5579",
+    "label": "Ergonom/Företagsgymnast",
+    "typ": "yrke"
+}, {
+    "id": "7086",
+    "label": "Estradör",
+    "typ": "yrke"
+}, {
+    "id": "4037",
+    "label": "Etnolog",
+    "typ": "yrke"
+}, {
+    "id": "6825",
+    "label": "Etolog",
+    "typ": "yrke"
+}, {
+    "id": "6298",
+    "label": "Etsare, tryckmedium",
+    "typ": "yrke"
+}, {
+    "id": "7504",
+    "label": "EU-handläggare",
+    "typ": "yrke"
+}, {
+    "id": "5177",
+    "label": "Eurytmist",
+    "typ": "yrke"
+}, {
+    "id": "2123",
+    "label": "Evangelist, resepastor",
+    "typ": "yrke"
+}, {
+    "id": "7153",
+    "label": "Eventproducent",
+    "typ": "yrke"
+}, {
+    "id": "7535",
+    "label": "Eventsäljare/Eventförsäljare",
+    "typ": "yrke"
+}, {
+    "id": "2702",
+    "label": "Excenterpressare",
+    "typ": "yrke"
+}, {
+    "id": "7591",
+    "label": "Excerpist",
+    "typ": "yrke"
+}, {
+    "id": "4470",
+    "label": "Expeditionschef, departement",
+    "typ": "yrke"
+}, {
+    "id": "2804",
+    "label": "Expeditionsföreståndare, sjukvård",
+    "typ": "yrke"
+}, {
+    "id": "4131",
+    "label": "Expeditionsvakt",
+    "typ": "yrke"
+}, {
+    "id": "2173",
+    "label": "Expeditör, spedition",
+    "typ": "yrke"
+}, {
+    "id": "88",
+    "label": "Experimentingenjör, el-tele",
+    "typ": "yrke"
+}, {
+    "id": "181",
+    "label": "Exploateringsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "2753",
+    "label": "Exportspeditör",
+    "typ": "yrke"
+}, {
+    "id": "4104",
+    "label": "Extruderskötare, metall",
+    "typ": "yrke"
+}, {
+    "id": "801",
+    "label": "Fabrikselektriker",
+    "typ": "yrke"
+}, {
+    "id": "7147",
+    "label": "FAD (First assistant director)",
+    "typ": "yrke"
+}, {
+    "id": "3073",
+    "label": "Fakturakontrollant",
+    "typ": "yrke"
+}, {
+    "id": "5267",
+    "label": "Falsare",
+    "typ": "yrke"
+}, {
+    "id": "7375",
+    "label": "Falsare, bokbinderi",
+    "typ": "yrke"
+}, {
+    "id": "1795",
+    "label": "Familjebehandlare",
+    "typ": "yrke"
+}, {
+    "id": "1797",
+    "label": "Familjehemssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "1970",
+    "label": "Familjepedagog",
+    "typ": "yrke"
+}, {
+    "id": "5788",
+    "label": "Familjerådgivare/Familjeterapeut",
+    "typ": "yrke"
+}, {
+    "id": "6251",
+    "label": "Familjerättsjurist",
+    "typ": "yrke"
+}, {
+    "id": "1798",
+    "label": "Familjerättssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "1799",
+    "label": "Familjevårdsinspektör",
+    "typ": "yrke"
+}, {
+    "id": "1343",
+    "label": "Fanerarbetare, fanertillverkning",
+    "typ": "yrke"
+}, {
+    "id": "4353",
+    "label": "Fanerare",
+    "typ": "yrke"
+}, {
+    "id": "1344",
+    "label": "Fanerpressare, fanertillverkning",
+    "typ": "yrke"
+}, {
+    "id": "4354",
+    "label": "Fanerskärare",
+    "typ": "yrke"
+}, {
+    "id": "1597",
+    "label": "Farmacevt/Apotekare",
+    "typ": "yrke"
+}, {
+    "id": "6437",
+    "label": "Farmacevt/Receptarie",
+    "typ": "yrke"
+}, {
+    "id": "6194",
+    "label": "Fartygsbefäl",
+    "typ": "yrke"
+}, {
+    "id": "5618",
+    "label": "Fartygselektriker",
+    "typ": "yrke"
+}, {
+    "id": "5591",
+    "label": "Fartygsinspektör",
+    "typ": "yrke"
+}, {
+    "id": "207",
+    "label": "Fartygsintendent",
+    "typ": "yrke"
+}, {
+    "id": "2758",
+    "label": "Fartygsklarerare",
+    "typ": "yrke"
+}, {
+    "id": "132",
+    "label": "Fartygskonstruktör",
+    "typ": "yrke"
+}, {
+    "id": "2837",
+    "label": "Fartygsplåtslagare",
+    "typ": "yrke"
+}, {
+    "id": "4095",
+    "label": "Fartygsreparatör",
+    "typ": "yrke"
+}, {
+    "id": "451",
+    "label": "Fartygsstädare",
+    "typ": "yrke"
+}, {
+    "id": "2828",
+    "label": "Fasadmontör",
+    "typ": "yrke"
+}, {
+    "id": "7184",
+    "label": "Fasadputsare",
+    "typ": "yrke"
+}, {
+    "id": "7230",
+    "label": "Fasadrengörare",
+    "typ": "yrke"
+}, {
+    "id": "6636",
+    "label": "Fastbränsleeldare",
+    "typ": "yrke"
+}, {
+    "id": "2582",
+    "label": "Fastighetsassistent",
+    "typ": "yrke"
+}, {
+    "id": "6366",
+    "label": "Fastighetschef",
+    "typ": "yrke"
+}, {
+    "id": "5066",
+    "label": "Fastighetsdirektör",
+    "typ": "yrke"
+}, {
+    "id": "419",
+    "label": "Fastighetsekonom",
+    "typ": "yrke"
+}, {
+    "id": "2577",
+    "label": "Fastighetsförmedlare",
+    "typ": "yrke"
+}, {
+    "id": "5923",
+    "label": "Fastighetsförvaltare",
+    "typ": "yrke"
+}, {
+    "id": "6812",
+    "label": "Fastighetsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "2584",
+    "label": "Fastighetsinspektör",
+    "typ": "yrke"
+}, {
+    "id": "2585",
+    "label": "Fastighetsintendent",
+    "typ": "yrke"
+}, {
+    "id": "4005",
+    "label": "Fastighetsjurist",
+    "typ": "yrke"
+}, {
+    "id": "2586",
+    "label": "Fastighetskamrer",
+    "typ": "yrke"
+}, {
+    "id": "7000",
+    "label": "Fastighetsmäklarassistent",
+    "typ": "yrke"
+}, {
+    "id": "5922",
+    "label": "Fastighetsmäklare",
+    "typ": "yrke"
+}, {
+    "id": "2587",
+    "label": "Fastighetssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "5885",
+    "label": "Fastighetsskötare/Fastighetsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "452",
+    "label": "Fastighetsstädare",
+    "typ": "yrke"
+}, {
+    "id": "2386",
+    "label": "Fastighetstekniker/Drifttekniker, fastighet",
+    "typ": "yrke"
+}, {
+    "id": "7362",
+    "label": "FDO (Flight Data Operator)",
+    "typ": "yrke"
+}, {
+    "id": "7507",
+    "label": "Fibertekniker/Optotekniker",
+    "typ": "yrke"
+}, {
+    "id": "2439",
+    "label": "Filmarkivarie",
+    "typ": "yrke"
+}, {
+    "id": "7144",
+    "label": "Filmchef",
+    "typ": "yrke"
+}, {
+    "id": "4813",
+    "label": "Filmklippare",
+    "typ": "yrke"
+}, {
+    "id": "4662",
+    "label": "Filmmontör, tryckeri",
+    "typ": "yrke"
+}, {
+    "id": "3908",
+    "label": "Filmpassare",
+    "typ": "yrke"
+}, {
+    "id": "6313",
+    "label": "Filmredigerare",
+    "typ": "yrke"
+}, {
+    "id": "5209",
+    "label": "Filmtekniker",
+    "typ": "yrke"
+}, {
+    "id": "3817",
+    "label": "Filosof, forskare",
+    "typ": "yrke"
+}, {
+    "id": "6532",
+    "label": "Financial controller",
+    "typ": "yrke"
+}, {
+    "id": "1233",
+    "label": "Finansanalytiker",
+    "typ": "yrke"
+}, {
+    "id": "5669",
+    "label": "Finansekonom",
+    "typ": "yrke"
+}, {
+    "id": "1234",
+    "label": "Finanskonsult",
+    "typ": "yrke"
+}, {
+    "id": "1218",
+    "label": "Finmekaniker",
+    "typ": "yrke"
+}, {
+    "id": "953",
+    "label": "Fiolbyggare",
+    "typ": "yrke"
+}, {
+    "id": "3121",
+    "label": "Fiskal",
+    "typ": "yrke"
+}, {
+    "id": "5883",
+    "label": "Fiskare",
+    "typ": "yrke"
+}, {
+    "id": "699",
+    "label": "Fiskeguide",
+    "typ": "yrke"
+}, {
+    "id": "4746",
+    "label": "Fiskeribiolog",
+    "typ": "yrke"
+}, {
+    "id": "4533",
+    "label": "Fiskeriinspektör",
+    "typ": "yrke"
+}, {
+    "id": "4534",
+    "label": "Fiskeriintendent",
+    "typ": "yrke"
+}, {
+    "id": "6270",
+    "label": "Fiskerikonsulent",
+    "typ": "yrke"
+}, {
+    "id": "2379",
+    "label": "Fiskerikontrollant",
+    "typ": "yrke"
+}, {
+    "id": "2380",
+    "label": "Fiskeskeppare",
+    "typ": "yrke"
+}, {
+    "id": "2375",
+    "label": "Fiskmästare",
+    "typ": "yrke"
+}, {
+    "id": "5882",
+    "label": "Fiskodlare",
+    "typ": "yrke"
+}, {
+    "id": "2376",
+    "label": "Fiskodlingsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "6704",
+    "label": "Fjärrbilsförare",
+    "typ": "yrke"
+}, {
+    "id": "7013",
+    "label": "Fjärrtågklarerare",
+    "typ": "yrke"
+}, {
+    "id": "4823",
+    "label": "Flexotryckare",
+    "typ": "yrke"
+}, {
+    "id": "6962",
+    "label": "Flismaskinförare, skogsbruk",
+    "typ": "yrke"
+}, {
+    "id": "6696",
+    "label": "Floormanager",
+    "typ": "yrke"
+}, {
+    "id": "5863",
+    "label": "Florist",
+    "typ": "yrke"
+}, {
+    "id": "133",
+    "label": "Flygingenjör",
+    "typ": "yrke"
+}, {
+    "id": "4733",
+    "label": "Flyginstruktör/Flyglärare",
+    "typ": "yrke"
+}, {
+    "id": "1220",
+    "label": "Flyginstrumentmekaniker",
+    "typ": "yrke"
+}, {
+    "id": "6348",
+    "label": "Flygklarerare",
+    "typ": "yrke"
+}, {
+    "id": "7361",
+    "label": "Flygledarassistent",
+    "typ": "yrke"
+}, {
+    "id": "559",
+    "label": "Flygledare",
+    "typ": "yrke"
+}, {
+    "id": "5584",
+    "label": "Flygmekaniker",
+    "typ": "yrke"
+}, {
+    "id": "2766",
+    "label": "Flygmäklare",
+    "typ": "yrke"
+}, {
+    "id": "5585",
+    "label": "Flygplanselektriker",
+    "typ": "yrke"
+}, {
+    "id": "5277",
+    "label": "Flygplanslastare",
+    "typ": "yrke"
+}, {
+    "id": "286",
+    "label": "Flygplansmontör",
+    "typ": "yrke"
+}, {
+    "id": "7559",
+    "label": "Flygplansplåtslagare",
+    "typ": "yrke"
+}, {
+    "id": "4883",
+    "label": "Flygplatschef",
+    "typ": "yrke"
+}, {
+    "id": "2477",
+    "label": "Flygplatskontrollant",
+    "typ": "yrke"
+}, {
+    "id": "6587",
+    "label": "Flygplatsman/Ramppersonal",
+    "typ": "yrke"
+}, {
+    "id": "2754",
+    "label": "Flygspeditör",
+    "typ": "yrke"
+}, {
+    "id": "5574",
+    "label": "Flygtekniker",
+    "typ": "yrke"
+}, {
+    "id": "782",
+    "label": "Flygvärd/Flygvärdinna/Flygsteward",
+    "typ": "yrke"
+}, {
+    "id": "7120",
+    "label": "Flyktingassistent",
+    "typ": "yrke"
+}, {
+    "id": "2059",
+    "label": "Flyktingsamordnare/Flyktingkonsulent",
+    "typ": "yrke"
+}, {
+    "id": "5278",
+    "label": "Flyttkarl/Stadsbud",
+    "typ": "yrke"
+}, {
+    "id": "7540",
+    "label": "Flödesoperatör",
+    "typ": "yrke"
+}, {
+    "id": "7192",
+    "label": "Fogarbetare, hus och anläggning",
+    "typ": "yrke"
+}, {
+    "id": "4355",
+    "label": "Fogare, faner",
+    "typ": "yrke"
+}, {
+    "id": "4066",
+    "label": "Folierare",
+    "typ": "yrke"
+}, {
+    "id": "2183",
+    "label": "Folkbokföringshandläggare",
+    "typ": "yrke"
+}, {
+    "id": "6681",
+    "label": "Folkhälsoplanerare",
+    "typ": "yrke"
+}, {
+    "id": "6796",
+    "label": "Folkhälsosekreterare",
+    "typ": "yrke"
+}, {
+    "id": "6682",
+    "label": "Folkhälsoutvecklare",
+    "typ": "yrke"
+}, {
+    "id": "6184",
+    "label": "Folkhögskolelärare",
+    "typ": "yrke"
+}, {
+    "id": "2010",
+    "label": "Fondchef, statlig",
+    "typ": "yrke"
+}, {
+    "id": "5317",
+    "label": "Fondförvaltare/Portföljförvaltare",
+    "typ": "yrke"
+}, {
+    "id": "5609",
+    "label": "Fordonselektriker",
+    "typ": "yrke"
+}, {
+    "id": "6632",
+    "label": "Fordonsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "622",
+    "label": "Fordonsingenjör, Trafikverket",
+    "typ": "yrke"
+}, {
+    "id": "5316",
+    "label": "Fordonslackerare",
+    "typ": "yrke"
+}, {
+    "id": "5508",
+    "label": "Fordonsmontör",
+    "typ": "yrke"
+}, {
+    "id": "600",
+    "label": "Fordonstekniker/Bilmekaniker/Personbilsmekaniker",
+    "typ": "yrke"
+}, {
+    "id": "7645",
+    "label": "Forensiker, biologi",
+    "typ": "yrke"
+}, {
+    "id": "6712",
+    "label": "Forensiker, biomedicinsk analytiker",
+    "typ": "yrke"
+}, {
+    "id": "6711",
+    "label": "Forensiker, fysiker",
+    "typ": "yrke"
+}, {
+    "id": "6710",
+    "label": "Forensiker, kemist",
+    "typ": "yrke"
+}, {
+    "id": "4161",
+    "label": "Formare, gipsplattor",
+    "typ": "yrke"
+}, {
+    "id": "6046",
+    "label": "Formare, keramik",
+    "typ": "yrke"
+}, {
+    "id": "1347",
+    "label": "Formatsågare, fiberskivor",
+    "typ": "yrke"
+}, {
+    "id": "6250",
+    "label": "Formgivare",
+    "typ": "yrke"
+}, {
+    "id": "3244",
+    "label": "Formgjutare, keramik",
+    "typ": "yrke"
+}, {
+    "id": "968",
+    "label": "Formmaskinskötare, plast",
+    "typ": "yrke"
+}, {
+    "id": "1348",
+    "label": "Formpressare, skiktträ",
+    "typ": "yrke"
+}, {
+    "id": "4156",
+    "label": "Formsättare",
+    "typ": "yrke"
+}, {
+    "id": "7465",
+    "label": "Forskarassistent",
+    "typ": "yrke"
+}, {
+    "id": "2357",
+    "label": "Forskare, farmakologi",
+    "typ": "yrke"
+}, {
+    "id": "7294",
+    "label": "Forskare, IT",
+    "typ": "yrke"
+}, {
+    "id": "7665",
+    "label": "Forskare, samhällsvetenskap",
+    "typ": "yrke"
+}, {
+    "id": "5803",
+    "label": "Forskningschef",
+    "typ": "yrke"
+}, {
+    "id": "7546",
+    "label": "Forskningschef, museum",
+    "typ": "yrke"
+}, {
+    "id": "347",
+    "label": "Forskningsingenjör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "350",
+    "label": "Forskningsingenjör, el-tele",
+    "typ": "yrke"
+}, {
+    "id": "7407",
+    "label": "Forskningsingenjör, kemi",
+    "typ": "yrke"
+}, {
+    "id": "353",
+    "label": "Forskningsingenjör, maskin",
+    "typ": "yrke"
+}, {
+    "id": "185",
+    "label": "Forskningsingenjör, metallurgi",
+    "typ": "yrke"
+}, {
+    "id": "324",
+    "label": "Forskningslaborant, fysik",
+    "typ": "yrke"
+}, {
+    "id": "319",
+    "label": "Forskningslaborant, kemi",
+    "typ": "yrke"
+}, {
+    "id": "3594",
+    "label": "Fortbildningskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "2778",
+    "label": "Fortbildningssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "3942",
+    "label": "Fotoetsare",
+    "typ": "yrke"
+}, {
+    "id": "4790",
+    "label": "Fotograf",
+    "typ": "yrke"
+}, {
+    "id": "7207",
+    "label": "Fotografagent",
+    "typ": "yrke"
+}, {
+    "id": "4791",
+    "label": "Fotografassistent",
+    "typ": "yrke"
+}, {
+    "id": "5877",
+    "label": "Fotomodell",
+    "typ": "yrke"
+}, {
+    "id": "253",
+    "label": "Fotterapeut/Fotvårdsspecialist",
+    "typ": "yrke"
+}, {
+    "id": "6375",
+    "label": "Fraktchef",
+    "typ": "yrke"
+}, {
+    "id": "6321",
+    "label": "Fraktexpeditör, flyg",
+    "typ": "yrke"
+}, {
+    "id": "3818",
+    "label": "Framtidsforskare",
+    "typ": "yrke"
+}, {
+    "id": "3819",
+    "label": "Fredsforskare",
+    "typ": "yrke"
+}, {
+    "id": "5726",
+    "label": "Friskvårdskonsult",
+    "typ": "yrke"
+}, {
+    "id": "1584",
+    "label": "Friskvårdsledare",
+    "typ": "yrke"
+}, {
+    "id": "5491",
+    "label": "Frisör",
+    "typ": "yrke"
+}, {
+    "id": "7574",
+    "label": "Frisöraspirant",
+    "typ": "yrke"
+}, {
+    "id": "1575",
+    "label": "Fritidsassistent",
+    "typ": "yrke"
+}, {
+    "id": "5226",
+    "label": "Fritidschef",
+    "typ": "yrke"
+}, {
+    "id": "1577",
+    "label": "Fritidsinstruktör",
+    "typ": "yrke"
+}, {
+    "id": "1578",
+    "label": "Fritidskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "5725",
+    "label": "Fritidsledare",
+    "typ": "yrke"
+}, {
+    "id": "1779",
+    "label": "Fritidsledare/Ungdomsledare, församling",
+    "typ": "yrke"
+}, {
+    "id": "2550",
+    "label": "Fritidsombud, försäkringar",
+    "typ": "yrke"
+}, {
+    "id": "1971",
+    "label": "Frivårdschef",
+    "typ": "yrke"
+}, {
+    "id": "1972",
+    "label": "Frivårdshandläggare",
+    "typ": "yrke"
+}, {
+    "id": "5789",
+    "label": "Frivårdsinspektör",
+    "typ": "yrke"
+}, {
+    "id": "7633",
+    "label": "Frontend-utvecklare",
+    "typ": "yrke"
+}, {
+    "id": "7568",
+    "label": "Frontofficepersonal",
+    "typ": "yrke"
+}, {
+    "id": "474",
+    "label": "Frukostvärd/Frukostvärdinna",
+    "typ": "yrke"
+}, {
+    "id": "4537",
+    "label": "Fruktodlare",
+    "typ": "yrke"
+}, {
+    "id": "4507",
+    "label": "Fruktodlingsrådgivare/Fruktodlingskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "5937",
+    "label": "Fräsare",
+    "typ": "yrke"
+}, {
+    "id": "4356",
+    "label": "Fräsare, trä",
+    "typ": "yrke"
+}, {
+    "id": "7629",
+    "label": "Fukttekniker",
+    "typ": "yrke"
+}, {
+    "id": "5752",
+    "label": "Fysiker",
+    "typ": "yrke"
+}, {
+    "id": "4747",
+    "label": "Fysiolog, allmän",
+    "typ": "yrke"
+}, {
+    "id": "331",
+    "label": "Fysiologassistent, laborant",
+    "typ": "yrke"
+}, {
+    "id": "5727",
+    "label": "Fysioterapeut/Sjukgymnast",
+    "typ": "yrke"
+}, {
+    "id": "1801",
+    "label": "Fältassistent",
+    "typ": "yrke"
+}, {
+    "id": "2562",
+    "label": "Fältskadereglerare",
+    "typ": "yrke"
+}, {
+    "id": "2551",
+    "label": "Fälttjänsteman, försäkringar",
+    "typ": "yrke"
+}, {
+    "id": "1008",
+    "label": "Färdigmatlagare",
+    "typ": "yrke"
+}, {
+    "id": "695",
+    "label": "Färdledare/Turledare",
+    "typ": "yrke"
+}, {
+    "id": "530",
+    "label": "Färdtjänstbussförare",
+    "typ": "yrke"
+}, {
+    "id": "531",
+    "label": "Färdtjänstförare",
+    "typ": "yrke"
+}, {
+    "id": "1052",
+    "label": "Färgare",
+    "typ": "yrke"
+}, {
+    "id": "4824",
+    "label": "Färgblandare, tryckeri",
+    "typ": "yrke"
+}, {
+    "id": "247",
+    "label": "Färgkonsulent",
+    "typ": "yrke"
+}, {
+    "id": "4067",
+    "label": "Färgtryckspåläggare, porslin",
+    "typ": "yrke"
+}, {
+    "id": "6631",
+    "label": "Fögderidirektör",
+    "typ": "yrke"
+}, {
+    "id": "5684",
+    "label": "Fönsterputsare",
+    "typ": "yrke"
+}, {
+    "id": "2022",
+    "label": "Förbundschef",
+    "typ": "yrke"
+}, {
+    "id": "6630",
+    "label": "Förbundsdirektör",
+    "typ": "yrke"
+}, {
+    "id": "4431",
+    "label": "Förbundsjurist",
+    "typ": "yrke"
+}, {
+    "id": "4848",
+    "label": "Förbundskassör",
+    "typ": "yrke"
+}, {
+    "id": "2024",
+    "label": "Förbundsordförande",
+    "typ": "yrke"
+}, {
+    "id": "5774",
+    "label": "Förbundssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "3490",
+    "label": "Förbundstränare",
+    "typ": "yrke"
+}, {
+    "id": "7424",
+    "label": "Föredragande/Beredningsjurist",
+    "typ": "yrke"
+}, {
+    "id": "1786",
+    "label": "Föreningsinstruktör",
+    "typ": "yrke"
+}, {
+    "id": "5754",
+    "label": "Föreningskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "4931",
+    "label": "Föreståndare, stugby",
+    "typ": "yrke"
+}, {
+    "id": "2050",
+    "label": "Föreståndare, äldreboende",
+    "typ": "yrke"
+}, {
+    "id": "700",
+    "label": "Företagsguide",
+    "typ": "yrke"
+}, {
+    "id": "4006",
+    "label": "Företagsjurist",
+    "typ": "yrke"
+}, {
+    "id": "4722",
+    "label": "Företagskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "4723",
+    "label": "Företagskonsult",
+    "typ": "yrke"
+}, {
+    "id": "6324",
+    "label": "Företagsledare",
+    "typ": "yrke"
+}, {
+    "id": "1469",
+    "label": "Företagspsykolog",
+    "typ": "yrke"
+}, {
+    "id": "2969",
+    "label": "Företagsrådgivare",
+    "typ": "yrke"
+}, {
+    "id": "7277",
+    "label": "Företagssjuksköterska/Företagssköterska",
+    "typ": "yrke"
+}, {
+    "id": "6158",
+    "label": "Författare",
+    "typ": "yrke"
+}, {
+    "id": "2025",
+    "label": "Förhandlingschef, organisation",
+    "typ": "yrke"
+}, {
+    "id": "4473",
+    "label": "Förhandlingschef, statlig",
+    "typ": "yrke"
+}, {
+    "id": "4474",
+    "label": "Förhandlingssekreterare, statlig",
+    "typ": "yrke"
+}, {
+    "id": "6154",
+    "label": "Förlagsredaktör",
+    "typ": "yrke"
+}, {
+    "id": "4863",
+    "label": "Förman, snickeri",
+    "typ": "yrke"
+}, {
+    "id": "5419",
+    "label": "Förrådsarbetare, bygg",
+    "typ": "yrke"
+}, {
+    "id": "5021",
+    "label": "Förrådschef",
+    "typ": "yrke"
+}, {
+    "id": "6747",
+    "label": "Församlingsdiakon",
+    "typ": "yrke"
+}, {
+    "id": "2125",
+    "label": "Församlingsföreståndare, frikyrka",
+    "typ": "yrke"
+}, {
+    "id": "2128",
+    "label": "Församlingsföreståndare, Frälsningsarmén",
+    "typ": "yrke"
+}, {
+    "id": "5753",
+    "label": "Församlingspedagog",
+    "typ": "yrke"
+}, {
+    "id": "6798",
+    "label": "Församlingspräst med specialuppgifter",
+    "typ": "yrke"
+}, {
+    "id": "7420",
+    "label": "Förskolechef",
+    "typ": "yrke"
+}, {
+    "id": "3596",
+    "label": "Förskolekonsulent",
+    "typ": "yrke"
+}, {
+    "id": "1439",
+    "label": "Försvarsmeteorolog",
+    "typ": "yrke"
+}, {
+    "id": "1833",
+    "label": "Försäkringsaktuarie",
+    "typ": "yrke"
+}, {
+    "id": "7158",
+    "label": "Försäkringsförmedlarassistent",
+    "typ": "yrke"
+}, {
+    "id": "6876",
+    "label": "Försäkringsförmedlare/Försäkringsmäklare",
+    "typ": "yrke"
+}, {
+    "id": "2557",
+    "label": "Försäkringshandläggare",
+    "typ": "yrke"
+}, {
+    "id": "5570",
+    "label": "Försäkringshandläggare, försäkringskassa",
+    "typ": "yrke"
+}, {
+    "id": "3990",
+    "label": "Försäkringsjurist",
+    "typ": "yrke"
+}, {
+    "id": "2552",
+    "label": "Försäkringskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "1834",
+    "label": "Försäkringsmatematiker",
+    "typ": "yrke"
+}, {
+    "id": "2554",
+    "label": "Försäkringsombud",
+    "typ": "yrke"
+}, {
+    "id": "2555",
+    "label": "Försäkringsrådgivare/Försäkringssäljare",
+    "typ": "yrke"
+}, {
+    "id": "2556",
+    "label": "Försäkringsspecialist",
+    "typ": "yrke"
+}, {
+    "id": "2558",
+    "label": "Försäkringstjänsteman",
+    "typ": "yrke"
+}, {
+    "id": "2563",
+    "label": "Försäkringsutredare",
+    "typ": "yrke"
+}, {
+    "id": "578",
+    "label": "Försäkringsutredare, försäkringskassa",
+    "typ": "yrke"
+}, {
+    "id": "4906",
+    "label": "Försäljningsassistent",
+    "typ": "yrke"
+}, {
+    "id": "6368",
+    "label": "Försäljningschef",
+    "typ": "yrke"
+}, {
+    "id": "4907",
+    "label": "Försäljningssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "6343",
+    "label": "Försöksdjurskötare/Försöksdjurstekniker",
+    "typ": "yrke"
+}, {
+    "id": "2174",
+    "label": "Förtullare",
+    "typ": "yrke"
+}, {
+    "id": "3103",
+    "label": "Förvalsare",
+    "typ": "yrke"
+}, {
+    "id": "6806",
+    "label": "Förvaltare, skogsbruk",
+    "typ": "yrke"
+}, {
+    "id": "3074",
+    "label": "Förvaltningsassistent",
+    "typ": "yrke"
+}, {
+    "id": "5228",
+    "label": "Förvaltningschef, kommun",
+    "typ": "yrke"
+}, {
+    "id": "7303",
+    "label": "Förvaltningschef, landsting",
+    "typ": "yrke"
+}, {
+    "id": "5800",
+    "label": "Förvaltningsdirektör, statlig",
+    "typ": "yrke"
+}, {
+    "id": "422",
+    "label": "Förvaltningsekonom",
+    "typ": "yrke"
+}, {
+    "id": "6179",
+    "label": "Förvaltningsjurist",
+    "typ": "yrke"
+}, {
+    "id": "2494",
+    "label": "Garagevakt",
+    "typ": "yrke"
+}, {
+    "id": "4890",
+    "label": "Garantihandläggare",
+    "typ": "yrke"
+}, {
+    "id": "6012",
+    "label": "Garderobiär/Garderobvaktmästare",
+    "typ": "yrke"
+}, {
+    "id": "3410",
+    "label": "Garvare/Skinnberedare",
+    "typ": "yrke"
+}, {
+    "id": "3411",
+    "label": "Garvarmästare",
+    "typ": "yrke"
+}, {
+    "id": "5354",
+    "label": "Gaspåfyllare",
+    "typ": "yrke"
+}, {
+    "id": "5946",
+    "label": "Gasskärare",
+    "typ": "yrke"
+}, {
+    "id": "2727",
+    "label": "Gassvetsare",
+    "typ": "yrke"
+}, {
+    "id": "5229",
+    "label": "Gatuchef",
+    "typ": "yrke"
+}, {
+    "id": "3726",
+    "label": "Gatuförsäljare",
+    "typ": "yrke"
+}, {
+    "id": "2970",
+    "label": "Gelbgjutare",
+    "typ": "yrke"
+}, {
+    "id": "5623",
+    "label": "Gemmolog",
+    "typ": "yrke"
+}, {
+    "id": "3820",
+    "label": "Genealog",
+    "typ": "yrke"
+}, {
+    "id": "2011",
+    "label": "Generaldirektör",
+    "typ": "yrke"
+}, {
+    "id": "2012",
+    "label": "Generalkonsul",
+    "typ": "yrke"
+}, {
+    "id": "2026",
+    "label": "Generalsekreterare",
+    "typ": "yrke"
+}, {
+    "id": "4748",
+    "label": "Genetiker",
+    "typ": "yrke"
+}, {
+    "id": "5477",
+    "label": "Geodet",
+    "typ": "yrke"
+}, {
+    "id": "5762",
+    "label": "Geofysiker",
+    "typ": "yrke"
+}, {
+    "id": "6190",
+    "label": "Geograf",
+    "typ": "yrke"
+}, {
+    "id": "1827",
+    "label": "Geokemist",
+    "typ": "yrke"
+}, {
+    "id": "5761",
+    "label": "Geolog",
+    "typ": "yrke"
+}, {
+    "id": "332",
+    "label": "Geologassistent",
+    "typ": "yrke"
+}, {
+    "id": "5475",
+    "label": "Geotekniker",
+    "typ": "yrke"
+}, {
+    "id": "3245",
+    "label": "Gipsgjutare",
+    "typ": "yrke"
+}, {
+    "id": "1364",
+    "label": "Gipstekniker",
+    "typ": "yrke"
+}, {
+    "id": "5397",
+    "label": "GIS-ingenjör",
+    "typ": "yrke"
+}, {
+    "id": "7534",
+    "label": "GIS-samordnare",
+    "typ": "yrke"
+}, {
+    "id": "7533",
+    "label": "GIS-utvecklare",
+    "typ": "yrke"
+}, {
+    "id": "954",
+    "label": "Gitarrbyggare",
+    "typ": "yrke"
+}, {
+    "id": "955",
+    "label": "Gitarrtekniker",
+    "typ": "yrke"
+}, {
+    "id": "6011",
+    "label": "Gjutare",
+    "typ": "yrke"
+}, {
+    "id": "4158",
+    "label": "Gjutare, betongvaruindustri",
+    "typ": "yrke"
+}, {
+    "id": "3246",
+    "label": "Gjutare, keramik",
+    "typ": "yrke"
+}, {
+    "id": "7470",
+    "label": "Gjutberedare",
+    "typ": "yrke"
+}, {
+    "id": "6016",
+    "label": "Gjuterioperatör",
+    "typ": "yrke"
+}, {
+    "id": "5142",
+    "label": "Gjutgodsrensare",
+    "typ": "yrke"
+}, {
+    "id": "2973",
+    "label": "Gjutmästare",
+    "typ": "yrke"
+}, {
+    "id": "2364",
+    "label": "Glas- och metallmontör",
+    "typ": "yrke"
+}, {
+    "id": "6195",
+    "label": "Glas- och porslinsmålare",
+    "typ": "yrke"
+}, {
+    "id": "3954",
+    "label": "Glasarbetare",
+    "typ": "yrke"
+}, {
+    "id": "3924",
+    "label": "Glasblåsare",
+    "typ": "yrke"
+}, {
+    "id": "6172",
+    "label": "Glasbruksarbetare",
+    "typ": "yrke"
+}, {
+    "id": "4068",
+    "label": "Glaserare, keramik",
+    "typ": "yrke"
+}, {
+    "id": "3943",
+    "label": "Glasetsare",
+    "typ": "yrke"
+}, {
+    "id": "6173",
+    "label": "Glasgravör",
+    "typ": "yrke"
+}, {
+    "id": "3955",
+    "label": "Glashärdare",
+    "typ": "yrke"
+}, {
+    "id": "3956",
+    "label": "Glasmaskinskötare",
+    "typ": "yrke"
+}, {
+    "id": "4069",
+    "label": "Glasmålare",
+    "typ": "yrke"
+}, {
+    "id": "7311",
+    "label": "Glaspolerare",
+    "typ": "yrke"
+}, {
+    "id": "3957",
+    "label": "Glaspressare",
+    "typ": "yrke"
+}, {
+    "id": "1191",
+    "label": "Glassberedare",
+    "typ": "yrke"
+}, {
+    "id": "3926",
+    "label": "Glasslipare",
+    "typ": "yrke"
+}, {
+    "id": "3958",
+    "label": "Glassmältare",
+    "typ": "yrke"
+}, {
+    "id": "5878",
+    "label": "Glastekniker/Glasmästare",
+    "typ": "yrke"
+}, {
+    "id": "3959",
+    "label": "Glastryckare",
+    "typ": "yrke"
+}, {
+    "id": "3927",
+    "label": "Glasverksarbetare",
+    "typ": "yrke"
+}, {
+    "id": "3960",
+    "label": "Glasögonslipare",
+    "typ": "yrke"
+}, {
+    "id": "6201",
+    "label": "Gnistare",
+    "typ": "yrke"
+}, {
+    "id": "2223",
+    "label": "Godsmottagare",
+    "typ": "yrke"
+}, {
+    "id": "4570",
+    "label": "Golfbanearbetare",
+    "typ": "yrke"
+}, {
+    "id": "387",
+    "label": "Golfbaneföreståndare",
+    "typ": "yrke"
+}, {
+    "id": "7643",
+    "label": "Golfinstruktör/Golftränare",
+    "typ": "yrke"
+}, {
+    "id": "7193",
+    "label": "Golvbeläggningsarbetare, industri",
+    "typ": "yrke"
+}, {
+    "id": "5861",
+    "label": "Golvläggare",
+    "typ": "yrke"
+}, {
+    "id": "7174",
+    "label": "Golvläggare, utan yrkesbevis",
+    "typ": "yrke"
+}, {
+    "id": "7186",
+    "label": "Golvslipare/trä",
+    "typ": "yrke"
+}, {
+    "id": "2656",
+    "label": "Gradare",
+    "typ": "yrke"
+}, {
+    "id": "4382",
+    "label": "Gradör",
+    "typ": "yrke"
+}, {
+    "id": "7440",
+    "label": "Grafiker, game concept artist",
+    "typ": "yrke"
+}, {
+    "id": "7442",
+    "label": "Grafiker, texturerare",
+    "typ": "yrke"
+}, {
+    "id": "4039",
+    "label": "Grafisk formgivare",
+    "typ": "yrke"
+}, {
+    "id": "7376",
+    "label": "Grafisk operatör, digital produktion",
+    "typ": "yrke"
+}, {
+    "id": "2891",
+    "label": "Granskare, revision",
+    "typ": "yrke"
+}, {
+    "id": "2892",
+    "label": "Granskningsman",
+    "typ": "yrke"
+}, {
+    "id": "1399",
+    "label": "Gravstenhuggare",
+    "typ": "yrke"
+}, {
+    "id": "6185",
+    "label": "Gravör",
+    "typ": "yrke"
+}, {
+    "id": "4017",
+    "label": "Gravör, metall",
+    "typ": "yrke"
+}, {
+    "id": "6299",
+    "label": "Gravör, tryckmedier",
+    "typ": "yrke"
+}, {
+    "id": "878",
+    "label": "Gravör, ädelmetall",
+    "typ": "yrke"
+}, {
+    "id": "4571",
+    "label": "Greenkeeper",
+    "typ": "yrke"
+}, {
+    "id": "4572",
+    "label": "Griftegårdsarbetare/Kyrkogårdsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "7017",
+    "label": "Grillbiträde/Gatuköksbiträde",
+    "typ": "yrke"
+}, {
+    "id": "225",
+    "label": "Grillkock, snabbmat",
+    "typ": "yrke"
+}, {
+    "id": "5874",
+    "label": "Grovarbetare, bygg och anläggning",
+    "typ": "yrke"
+}, {
+    "id": "2839",
+    "label": "Grovplåtnitare",
+    "typ": "yrke"
+}, {
+    "id": "5976",
+    "label": "Grovplåtslagare",
+    "typ": "yrke"
+}, {
+    "id": "7444",
+    "label": "Gruppchef, teknik",
+    "typ": "yrke"
+}, {
+    "id": "2963",
+    "label": "Gruppföreståndare, bank",
+    "typ": "yrke"
+}, {
+    "id": "7588",
+    "label": "Gruppledare för kontorspersonal",
+    "typ": "yrke"
+}, {
+    "id": "1477",
+    "label": "Gruppterapeut",
+    "typ": "yrke"
+}, {
+    "id": "7543",
+    "label": "Gruvbyggare",
+    "typ": "yrke"
+}, {
+    "id": "1828",
+    "label": "Gruvgeolog",
+    "typ": "yrke"
+}, {
+    "id": "4214",
+    "label": "Gruvmätare",
+    "typ": "yrke"
+}, {
+    "id": "2483",
+    "label": "Gränskontrollant/Passkontrollant",
+    "typ": "yrke"
+}, {
+    "id": "7216",
+    "label": "Grävlastarförare, anläggning",
+    "typ": "yrke"
+}, {
+    "id": "507",
+    "label": "Grävmaskinförare",
+    "typ": "yrke"
+}, {
+    "id": "6963",
+    "label": "Grävmaskinförare, skogsbruk",
+    "typ": "yrke"
+}, {
+    "id": "4538",
+    "label": "Grönsaksodlare",
+    "typ": "yrke"
+}, {
+    "id": "6775",
+    "label": "Grönsaksodling, förman",
+    "typ": "yrke"
+}, {
+    "id": "5594",
+    "label": "Guide",
+    "typ": "yrke"
+}, {
+    "id": "5621",
+    "label": "Guldsmed",
+    "typ": "yrke"
+}, {
+    "id": "6272",
+    "label": "Gårdsmästare, växtodling/Rättare, växtodling",
+    "typ": "yrke"
+}, {
+    "id": "6288",
+    "label": "Gårdsmästare,blandad drift/Rättare,blandad drift",
+    "typ": "yrke"
+}, {
+    "id": "1493",
+    "label": "Habiliteringsassistent",
+    "typ": "yrke"
+}, {
+    "id": "7511",
+    "label": "Habiliteringspedagog",
+    "typ": "yrke"
+}, {
+    "id": "5540",
+    "label": "Hallföreståndare",
+    "typ": "yrke"
+}, {
+    "id": "5144",
+    "label": "Halmvaruarbetare",
+    "typ": "yrke"
+}, {
+    "id": "2616",
+    "label": "Hammarsmed",
+    "typ": "yrke"
+}, {
+    "id": "5280",
+    "label": "Hamnarbetare/Stuveriarbetare",
+    "typ": "yrke"
+}, {
+    "id": "4884",
+    "label": "Hamnchef",
+    "typ": "yrke"
+}, {
+    "id": "5037",
+    "label": "Hamnkapten",
+    "typ": "yrke"
+}, {
+    "id": "2752",
+    "label": "Handelsagent, partihandel",
+    "typ": "yrke"
+}, {
+    "id": "3247",
+    "label": "Handformare",
+    "typ": "yrke"
+}, {
+    "id": "7340",
+    "label": "Handformare, gjuteri",
+    "typ": "yrke"
+}, {
+    "id": "4690",
+    "label": "Handgravör, tryckmedier",
+    "typ": "yrke"
+}, {
+    "id": "5796",
+    "label": "Handikappkonsulent",
+    "typ": "yrke"
+}, {
+    "id": "4858",
+    "label": "Handlingskoordinator",
+    "typ": "yrke"
+}, {
+    "id": "5571",
+    "label": "Handläggare, utredare, arbetslöshetskassa",
+    "typ": "yrke"
+}, {
+    "id": "5776",
+    "label": "Handläggare/Utredare, offentlig förvaltning",
+    "typ": "yrke"
+}, {
+    "id": "6400",
+    "label": "Handpaketerare",
+    "typ": "yrke"
+}, {
+    "id": "1424",
+    "label": "Handsksömmare",
+    "typ": "yrke"
+}, {
+    "id": "3226",
+    "label": "Handstickare",
+    "typ": "yrke"
+}, {
+    "id": "3227",
+    "label": "Handvirkare",
+    "typ": "yrke"
+}, {
+    "id": "3228",
+    "label": "Handvävare",
+    "typ": "yrke"
+}, {
+    "id": "7270",
+    "label": "Hantverkspedagog",
+    "typ": "yrke"
+}, {
+    "id": "1413",
+    "label": "Hattmakare",
+    "typ": "yrke"
+}, {
+    "id": "6839",
+    "label": "Heatsettryckare",
+    "typ": "yrke"
+}, {
+    "id": "7558",
+    "label": "Helikopter, färdmekaniker",
+    "typ": "yrke"
+}, {
+    "id": "554",
+    "label": "Helikopterförare/Helikopterpilot",
+    "typ": "yrke"
+}, {
+    "id": "640",
+    "label": "Helikoptermekaniker",
+    "typ": "yrke"
+}, {
+    "id": "608",
+    "label": "Helikoptertekniker",
+    "typ": "yrke"
+}, {
+    "id": "7020",
+    "label": "Helpdesktekniker/Supporttekniker",
+    "typ": "yrke"
+}, {
+    "id": "3727",
+    "label": "Hemförsäljare",
+    "typ": "yrke"
+}, {
+    "id": "443",
+    "label": "Hemhjälp",
+    "typ": "yrke"
+}, {
+    "id": "1457",
+    "label": "Hemsjukvårdare",
+    "typ": "yrke"
+}, {
+    "id": "6107",
+    "label": "Hemslöjdskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "1494",
+    "label": "Hemterapeut",
+    "typ": "yrke"
+}, {
+    "id": "991",
+    "label": "Hemtextilsömmerska",
+    "typ": "yrke"
+}, {
+    "id": "5713",
+    "label": "Hemtjänstassistent",
+    "typ": "yrke"
+}, {
+    "id": "5799",
+    "label": "Hemvårdare",
+    "typ": "yrke"
+}, {
+    "id": "1509",
+    "label": "Hemvårdsassistent",
+    "typ": "yrke"
+}, {
+    "id": "241",
+    "label": "Herrfrisör",
+    "typ": "yrke"
+}, {
+    "id": "1417",
+    "label": "Herrskräddare",
+    "typ": "yrke"
+}, {
+    "id": "5608",
+    "label": "Hissmontör",
+    "typ": "yrke"
+}, {
+    "id": "3821",
+    "label": "Historiker, forskare",
+    "typ": "yrke"
+}, {
+    "id": "7646",
+    "label": "Hjullastarförare, godshantering",
+    "typ": "yrke"
+}, {
+    "id": "1595",
+    "label": "Hjälpmedelskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "5668",
+    "label": "Hjälpmedelstekniker",
+    "typ": "yrke"
+}, {
+    "id": "1626",
+    "label": "Homeopat",
+    "typ": "yrke"
+}, {
+    "id": "6265",
+    "label": "Hortonom",
+    "typ": "yrke"
+}, {
+    "id": "394",
+    "label": "Hotellchef",
+    "typ": "yrke"
+}, {
+    "id": "213",
+    "label": "Hotellhusfru",
+    "typ": "yrke"
+}, {
+    "id": "5596",
+    "label": "Hotellreceptionist",
+    "typ": "yrke"
+}, {
+    "id": "455",
+    "label": "Hotellstädare",
+    "typ": "yrke"
+}, {
+    "id": "4133",
+    "label": "Hotellvaktmästare/Piccolo",
+    "typ": "yrke"
+}, {
+    "id": "710",
+    "label": "Hotellvärd/Hotellvärdinna",
+    "typ": "yrke"
+}, {
+    "id": "5486",
+    "label": "Hovmästare",
+    "typ": "yrke"
+}, {
+    "id": "3124",
+    "label": "Hovrättsassessor",
+    "typ": "yrke"
+}, {
+    "id": "3126",
+    "label": "Hovrättslagman",
+    "typ": "yrke"
+}, {
+    "id": "4945",
+    "label": "Hovrättspresident",
+    "typ": "yrke"
+}, {
+    "id": "6519",
+    "label": "Hovrättsråd",
+    "typ": "yrke"
+}, {
+    "id": "5928",
+    "label": "Hovslagare",
+    "typ": "yrke"
+}, {
+    "id": "7095",
+    "label": "HR-assistent",
+    "typ": "yrke"
+}, {
+    "id": "6872",
+    "label": "HR-konsult/PA-konsult",
+    "typ": "yrke"
+}, {
+    "id": "6873",
+    "label": "HR-specialist/HR-adviser",
+    "typ": "yrke"
+}, {
+    "id": "3412",
+    "label": "Hudsorterare",
+    "typ": "yrke"
+}, {
+    "id": "5494",
+    "label": "Hudterapeut",
+    "typ": "yrke"
+}, {
+    "id": "3822",
+    "label": "Humanist, forskare",
+    "typ": "yrke"
+}, {
+    "id": "4619",
+    "label": "Hunddressör",
+    "typ": "yrke"
+}, {
+    "id": "6765",
+    "label": "Hundförare",
+    "typ": "yrke"
+}, {
+    "id": "4620",
+    "label": "Hundgårdsförman",
+    "typ": "yrke"
+}, {
+    "id": "1860",
+    "label": "Hundpsykolog",
+    "typ": "yrke"
+}, {
+    "id": "6286",
+    "label": "Hundskötare/Hundvårdare",
+    "typ": "yrke"
+}, {
+    "id": "4621",
+    "label": "Hundtrimmare",
+    "typ": "yrke"
+}, {
+    "id": "4622",
+    "label": "Hunduppfödare",
+    "typ": "yrke"
+}, {
+    "id": "4495",
+    "label": "Husdjursrådgivare/Husdjurskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "6283",
+    "label": "Husdjurstekniker",
+    "typ": "yrke"
+}, {
+    "id": "810",
+    "label": "Hushållsmaskinreparatör/Vitvarureparatör",
+    "typ": "yrke"
+}, {
+    "id": "7187",
+    "label": "Husmontör",
+    "typ": "yrke"
+}, {
+    "id": "211",
+    "label": "Husmor",
+    "typ": "yrke"
+}, {
+    "id": "2283",
+    "label": "Husvagnsförsäljare",
+    "typ": "yrke"
+}, {
+    "id": "7480",
+    "label": "Huvudtillsyningsman, järnväg",
+    "typ": "yrke"
+}, {
+    "id": "859",
+    "label": "Hydraulmontör",
+    "typ": "yrke"
+}, {
+    "id": "860",
+    "label": "Hydraulreparatör",
+    "typ": "yrke"
+}, {
+    "id": "4749",
+    "label": "Hydrobiolog",
+    "typ": "yrke"
+}, {
+    "id": "1829",
+    "label": "Hydrogeolog",
+    "typ": "yrke"
+}, {
+    "id": "5766",
+    "label": "Hydrolog",
+    "typ": "yrke"
+}, {
+    "id": "7344",
+    "label": "Hygiensjuksköterska",
+    "typ": "yrke"
+}, {
+    "id": "2589",
+    "label": "Hyresintendent",
+    "typ": "yrke"
+}, {
+    "id": "2590",
+    "label": "Hyreskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "3929",
+    "label": "Hyttmästare/Produktionsledare, glasbruk",
+    "typ": "yrke"
+}, {
+    "id": "3011",
+    "label": "Hyttskötare, järnbruk",
+    "typ": "yrke"
+}, {
+    "id": "6628",
+    "label": "Hyvelmästare",
+    "typ": "yrke"
+}, {
+    "id": "750",
+    "label": "Hyveloperatör, sågverk",
+    "typ": "yrke"
+}, {
+    "id": "5932",
+    "label": "Hyvlare, metall",
+    "typ": "yrke"
+}, {
+    "id": "4359",
+    "label": "Hyvlare, trä",
+    "typ": "yrke"
+}, {
+    "id": "5862",
+    "label": "Håltagare",
+    "typ": "yrke"
+}, {
+    "id": "7175",
+    "label": "Håltagare, utan yrkesbevis",
+    "typ": "yrke"
+}, {
+    "id": "2810",
+    "label": "Hårdlödare",
+    "typ": "yrke"
+}, {
+    "id": "7609",
+    "label": "Hårdvarukonstruktör",
+    "typ": "yrke"
+}, {
+    "id": "423",
+    "label": "Hälsoekonom",
+    "typ": "yrke"
+}, {
+    "id": "6699",
+    "label": "Hälsoinformatör",
+    "typ": "yrke"
+}, {
+    "id": "6700",
+    "label": "Hälsopedagog",
+    "typ": "yrke"
+}, {
+    "id": "6683",
+    "label": "Hälsoplanerare",
+    "typ": "yrke"
+}, {
+    "id": "1916",
+    "label": "Hälsovårdsinspektör",
+    "typ": "yrke"
+}, {
+    "id": "970",
+    "label": "Härdare, plast",
+    "typ": "yrke"
+}, {
+    "id": "3587",
+    "label": "Hörselvårdsingenjör/Hörselingenjör",
+    "typ": "yrke"
+}, {
+    "id": "3599",
+    "label": "Hörselvårdskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "3588",
+    "label": "Hörselvårdstekniker",
+    "typ": "yrke"
+}, {
+    "id": "6550",
+    "label": "Idéhistoriker",
+    "typ": "yrke"
+}, {
+    "id": "2996",
+    "label": "Idrottsagent/Sportagent",
+    "typ": "yrke"
+}, {
+    "id": "6667",
+    "label": "Idrottsdomare",
+    "typ": "yrke"
+}, {
+    "id": "3494",
+    "label": "Idrottsinstruktör/Idrottstränare",
+    "typ": "yrke"
+}, {
+    "id": "6083",
+    "label": "Idrottskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "3496",
+    "label": "Idrottspedagog",
+    "typ": "yrke"
+}, {
+    "id": "388",
+    "label": "Idrottsplatschef",
+    "typ": "yrke"
+}, {
+    "id": "6294",
+    "label": "Idrottsplatsvaktmästare/Idrottsplatsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "3687",
+    "label": "Illusionist",
+    "typ": "yrke"
+}, {
+    "id": "6150",
+    "label": "Illustratör",
+    "typ": "yrke"
+}, {
+    "id": "2134",
+    "label": "Imam",
+    "typ": "yrke"
+}, {
+    "id": "3688",
+    "label": "Imitatör",
+    "typ": "yrke"
+}, {
+    "id": "6180",
+    "label": "Immaterialrättsjurist",
+    "typ": "yrke"
+}, {
+    "id": "4750",
+    "label": "Immunolog",
+    "typ": "yrke"
+}, {
+    "id": "5111",
+    "label": "Importchef",
+    "typ": "yrke"
+}, {
+    "id": "2755",
+    "label": "Importspeditör",
+    "typ": "yrke"
+}, {
+    "id": "768",
+    "label": "Incheckare",
+    "typ": "yrke"
+}, {
+    "id": "1478",
+    "label": "Individualterapeut",
+    "typ": "yrke"
+}, {
+    "id": "3307",
+    "label": "Industridesigner",
+    "typ": "yrke"
+}, {
+    "id": "5607",
+    "label": "Industrielektriker",
+    "typ": "yrke"
+}, {
+    "id": "5835",
+    "label": "Industrilackerare",
+    "typ": "yrke"
+}, {
+    "id": "5971",
+    "label": "Industriplåtslagare",
+    "typ": "yrke"
+}, {
+    "id": "5993",
+    "label": "Industrirobotoperatör",
+    "typ": "yrke"
+}, {
+    "id": "5818",
+    "label": "Industrirörmontör",
+    "typ": "yrke"
+}, {
+    "id": "6725",
+    "label": "Industrisanerare",
+    "typ": "yrke"
+}, {
+    "id": "458",
+    "label": "Industristädare",
+    "typ": "yrke"
+}, {
+    "id": "997",
+    "label": "Industrisömmerska",
+    "typ": "yrke"
+}, {
+    "id": "2467",
+    "label": "Informatiker",
+    "typ": "yrke"
+}, {
+    "id": "2464",
+    "label": "Informatikerassistent",
+    "typ": "yrke"
+}, {
+    "id": "6732",
+    "label": "Informationsarkitekt",
+    "typ": "yrke"
+}, {
+    "id": "7096",
+    "label": "Informationsassistent",
+    "typ": "yrke"
+}, {
+    "id": "5120",
+    "label": "Informationschef/Kommunikationschef",
+    "typ": "yrke"
+}, {
+    "id": "3883",
+    "label": "Informationskonsult",
+    "typ": "yrke"
+}, {
+    "id": "5321",
+    "label": "Informationsmäklare",
+    "typ": "yrke"
+}, {
+    "id": "3885",
+    "label": "Informationssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "6846",
+    "label": "Informationsspecialist",
+    "typ": "yrke"
+}, {
+    "id": "6159",
+    "label": "Informatör/Kommunikatör",
+    "typ": "yrke"
+}, {
+    "id": "7602",
+    "label": "Infrastrukturarkitekt",
+    "typ": "yrke"
+}, {
+    "id": "196",
+    "label": "Ingenjörsgeolog",
+    "typ": "yrke"
+}, {
+    "id": "2402",
+    "label": "Inkasserare",
+    "typ": "yrke"
+}, {
+    "id": "5891",
+    "label": "Inkassohandläggare",
+    "typ": "yrke"
+}, {
+    "id": "2794",
+    "label": "Inkodare",
+    "typ": "yrke"
+}, {
+    "id": "5915",
+    "label": "Inköpare",
+    "typ": "yrke"
+}, {
+    "id": "4909",
+    "label": "Inköpsassistent",
+    "typ": "yrke"
+}, {
+    "id": "6373",
+    "label": "Inköpschef",
+    "typ": "yrke"
+}, {
+    "id": "2545",
+    "label": "Inköpsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "4910",
+    "label": "Inköpskontorist",
+    "typ": "yrke"
+}, {
+    "id": "2546",
+    "label": "Inköpsledare",
+    "typ": "yrke"
+}, {
+    "id": "2547",
+    "label": "Inköpsplanerare",
+    "typ": "yrke"
+}, {
+    "id": "4911",
+    "label": "Inköpssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "2548",
+    "label": "Inköpstekniker",
+    "typ": "yrke"
+}, {
+    "id": "3105",
+    "label": "Inläggare, valsverk",
+    "typ": "yrke"
+}, {
+    "id": "6112",
+    "label": "Inläsare",
+    "typ": "yrke"
+}, {
+    "id": "2603",
+    "label": "Innesäljare",
+    "typ": "yrke"
+}, {
+    "id": "5449",
+    "label": "Inredningsarkitekt",
+    "typ": "yrke"
+}, {
+    "id": "25",
+    "label": "Inredningsdesigner",
+    "typ": "yrke"
+}, {
+    "id": "5812",
+    "label": "Inredningssnickare/Specialsnickare",
+    "typ": "yrke"
+}, {
+    "id": "6697",
+    "label": "Inspector dealer",
+    "typ": "yrke"
+}, {
+    "id": "2857",
+    "label": "Inspektionsdykare",
+    "typ": "yrke"
+}, {
+    "id": "3465",
+    "label": "Inspektör, Polisen",
+    "typ": "yrke"
+}, {
+    "id": "1909",
+    "label": "Inspektör, Socialstyrelsen",
+    "typ": "yrke"
+}, {
+    "id": "7154",
+    "label": "Inspelningsassistent",
+    "typ": "yrke"
+}, {
+    "id": "7155",
+    "label": "Inspelningskoordinator",
+    "typ": "yrke"
+}, {
+    "id": "4446",
+    "label": "Inspelningsledare",
+    "typ": "yrke"
+}, {
+    "id": "4027",
+    "label": "Inspelningstekniker",
+    "typ": "yrke"
+}, {
+    "id": "6260",
+    "label": "Inspicient",
+    "typ": "yrke"
+}, {
+    "id": "6309",
+    "label": "Installationselektriker",
+    "typ": "yrke"
+}, {
+    "id": "4233",
+    "label": "Installationsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "273",
+    "label": "Installationstekniker",
+    "typ": "yrke"
+}, {
+    "id": "2532",
+    "label": "Institutionsmäklare",
+    "typ": "yrke"
+}, {
+    "id": "5961",
+    "label": "Institutionssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "431",
+    "label": "Instruktionsförare",
+    "typ": "yrke"
+}, {
+    "id": "446",
+    "label": "Instruktionsstädare",
+    "typ": "yrke"
+}, {
+    "id": "7596",
+    "label": "Instruktör/Tränare inom specialidrott",
+    "typ": "yrke"
+}, {
+    "id": "812",
+    "label": "Instrumentelektriker/Instrumenttekniker",
+    "typ": "yrke"
+}, {
+    "id": "326",
+    "label": "Instrumentingenjör, fysik",
+    "typ": "yrke"
+}, {
+    "id": "1224",
+    "label": "Instrumentmekaniker",
+    "typ": "yrke"
+}, {
+    "id": "1225",
+    "label": "Instrumentmontör",
+    "typ": "yrke"
+}, {
+    "id": "1891",
+    "label": "Integrationshandläggare",
+    "typ": "yrke"
+}, {
+    "id": "6526",
+    "label": "Intendenturpersonal, försvaret",
+    "typ": "yrke"
+}, {
+    "id": "6527",
+    "label": "Intendenturpersonal, sjöfart",
+    "typ": "yrke"
+}, {
+    "id": "1813",
+    "label": "Intensivvårdssjuksköterska",
+    "typ": "yrke"
+}, {
+    "id": "7575",
+    "label": "Interaktionsdesigner",
+    "typ": "yrke"
+}, {
+    "id": "5480",
+    "label": "Internatföreståndare",
+    "typ": "yrke"
+}, {
+    "id": "2598",
+    "label": "Internationell säljare",
+    "typ": "yrke"
+}, {
+    "id": "1239",
+    "label": "Internrevisor",
+    "typ": "yrke"
+}, {
+    "id": "6970",
+    "label": "Intervjuare, opinionsundersökning",
+    "typ": "yrke"
+}, {
+    "id": "959",
+    "label": "Intonatör",
+    "typ": "yrke"
+}, {
+    "id": "2061",
+    "label": "Invandrarkonsulent",
+    "typ": "yrke"
+}, {
+    "id": "2062",
+    "label": "Invandrarsekreterare",
+    "typ": "yrke"
+}, {
+    "id": "520",
+    "label": "Ismaskinförare",
+    "typ": "yrke"
+}, {
+    "id": "2367",
+    "label": "Isoleringsmontör",
+    "typ": "yrke"
+}, {
+    "id": "7264",
+    "label": "Isoleringsplåtslagare",
+    "typ": "yrke"
+}, {
+    "id": "6626",
+    "label": "IT-arkitekt/Lösningsarkitekt",
+    "typ": "yrke"
+}, {
+    "id": "7590",
+    "label": "IT-forensiker",
+    "typ": "yrke"
+}, {
+    "id": "4423",
+    "label": "IT-jurist",
+    "typ": "yrke"
+}, {
+    "id": "2910",
+    "label": "IT-metodansvarig",
+    "typ": "yrke"
+}, {
+    "id": "3898",
+    "label": "IT-producent",
+    "typ": "yrke"
+}, {
+    "id": "5398",
+    "label": "IT-revisor",
+    "typ": "yrke"
+}, {
+    "id": "2915",
+    "label": "IT-samordnare",
+    "typ": "yrke"
+}, {
+    "id": "5432",
+    "label": "IT-strateg",
+    "typ": "yrke"
+}, {
+    "id": "2717",
+    "label": "IT-säkerhetschef",
+    "typ": "yrke"
+}, {
+    "id": "6625",
+    "label": "IT-tekniker/Datatekniker",
+    "typ": "yrke"
+}, {
+    "id": "2917",
+    "label": "IT-utredare",
+    "typ": "yrke"
+}, {
+    "id": "4769",
+    "label": "Jaktkonsulent/Viltkonsulent",
+    "typ": "yrke"
+}, {
+    "id": "6307",
+    "label": "Jaktvårdare/Viltvårdare",
+    "typ": "yrke"
+}, {
+    "id": "4770",
+    "label": "Jaktvårdskonsulent/Jaktvårdsrådgivare",
+    "typ": "yrke"
+}, {
+    "id": "7429",
+    "label": "Jobbcoach/Utbildningscoach",
+    "typ": "yrke"
+}, {
+    "id": "3916",
+    "label": "Jockey",
+    "typ": "yrke"
+}, {
+    "id": "3689",
+    "label": "Jonglör",
+    "typ": "yrke"
+}, {
+    "id": "4497",
+    "label": "Jordbruksforskare",
+    "typ": "yrke"
+}, {
+    "id": "4499",
+    "label": "Jordbruksrådgivare/Jordbrukskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "6056",
+    "label": "Journalist/Reporter",
+    "typ": "yrke"
+}, {
+    "id": "4088",
+    "label": "Jungman",
+    "typ": "yrke"
+}, {
+    "id": "4424",
+    "label": "Juridisk ombudsman",
+    "typ": "yrke"
+}, {
+    "id": "6520",
+    "label": "Jurist, allmän domstol",
+    "typ": "yrke"
+}, {
+    "id": "3129",
+    "label": "Jurist, förvaltningsdomstol",
+    "typ": "yrke"
+}, {
+    "id": "3130",
+    "label": "Jurist, specialdomstol",
+    "typ": "yrke"
+}, {
+    "id": "7463",
+    "label": "Juristassistent/Paralegal",
+    "typ": "yrke"
+}, {
+    "id": "4946",
+    "label": "Justitiekansler",
+    "typ": "yrke"
+}, {
+    "id": "4947",
+    "label": "Justitieombudsman",
+    "typ": "yrke"
+}, {
+    "id": "7322",
+    "label": "Justitieråd",
+    "typ": "yrke"
+}, {
+    "id": "873",
+    "label": "Juvelerare",
+    "typ": "yrke"
+}, {
+    "id": "874",
+    "label": "Juvelfattare",
+    "typ": "yrke"
+}, {
+    "id": "6344",
+    "label": "Jägare",
+    "typ": "yrke"
+}, {
+    "id": "6266",
+    "label": "Jägmästare",
+    "typ": "yrke"
+}, {
+    "id": "7488",
+    "label": "Järnvägsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "318",
+    "label": "Kabelmaskinoperatör",
+    "typ": "yrke"
+}, {
+    "id": "850",
+    "label": "Kabelmontör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "783",
+    "label": "Kabinchef/Purser",
+    "typ": "yrke"
+}, {
+    "id": "2013",
+    "label": "Kabinettsekreterare",
+    "typ": "yrke"
+}, {
+    "id": "7635",
+    "label": "Kabininstruktör",
+    "typ": "yrke"
+}, {
+    "id": "5850",
+    "label": "Kaféföreståndare",
+    "typ": "yrke"
+}, {
+    "id": "3250",
+    "label": "Kakelformare",
+    "typ": "yrke"
+}, {
+    "id": "2098",
+    "label": "Kakelugnsmakare",
+    "typ": "yrke"
+}, {
+    "id": "971",
+    "label": "Kalanderskötare, plast",
+    "typ": "yrke"
+}, {
+    "id": "657",
+    "label": "Kalandrerare",
+    "typ": "yrke"
+}, {
+    "id": "7497",
+    "label": "Kalibreringsingenjör, tillverkningsindustri",
+    "typ": "yrke"
+}, {
+    "id": "1401",
+    "label": "Kalkbrottsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "3414",
+    "label": "Kalkhusarbetare, garveri",
+    "typ": "yrke"
+}, {
+    "id": "5485",
+    "label": "Kallskänka",
+    "typ": "yrke"
+}, {
+    "id": "230",
+    "label": "Kallskänka, fartyg",
+    "typ": "yrke"
+}, {
+    "id": "2618",
+    "label": "Kallslagare",
+    "typ": "yrke"
+}, {
+    "id": "2708",
+    "label": "Kallsågare, metall",
+    "typ": "yrke"
+}, {
+    "id": "7062",
+    "label": "Kameraassistent",
+    "typ": "yrke"
+}, {
+    "id": "4808",
+    "label": "Kameraman, TV",
+    "typ": "yrke"
+}, {
+    "id": "3132",
+    "label": "Kammarrättsassessor",
+    "typ": "yrke"
+}, {
+    "id": "3133",
+    "label": "Kammarrättsfiskal",
+    "typ": "yrke"
+}, {
+    "id": "3134",
+    "label": "Kammarrättslagman",
+    "typ": "yrke"
+}, {
+    "id": "4950",
+    "label": "Kammarrättspresident",
+    "typ": "yrke"
+}, {
+    "id": "3135",
+    "label": "Kammarrättsråd",
+    "typ": "yrke"
+}, {
+    "id": "3148",
+    "label": "Kammaråklagare",
+    "typ": "yrke"
+}, {
+    "id": "2897",
+    "label": "Kamrer",
+    "typ": "yrke"
+}, {
+    "id": "6624",
+    "label": "Kanslichef, kommun",
+    "typ": "yrke"
+}, {
+    "id": "2027",
+    "label": "Kanslichef, organisation",
+    "typ": "yrke"
+}, {
+    "id": "6623",
+    "label": "Kanslichef, statlig",
+    "typ": "yrke"
+}, {
+    "id": "7518",
+    "label": "Kanslichef/verksamhetschef, församling",
+    "typ": "yrke"
+}, {
+    "id": "5168",
+    "label": "Kanslijurist",
+    "typ": "yrke"
+}, {
+    "id": "2184",
+    "label": "Kanslist",
+    "typ": "yrke"
+}, {
+    "id": "3362",
+    "label": "Kantor",
+    "typ": "yrke"
+}, {
+    "id": "7385",
+    "label": "Kantpressare",
+    "typ": "yrke"
+}, {
+    "id": "3931",
+    "label": "Kantslipare, glas",
+    "typ": "yrke"
+}, {
+    "id": "752",
+    "label": "Kantsågare",
+    "typ": "yrke"
+}, {
+    "id": "3670",
+    "label": "Kapellmästare",
+    "typ": "yrke"
+}, {
+    "id": "259",
+    "label": "Kapellvaktmästare",
+    "typ": "yrke"
+}, {
+    "id": "2130",
+    "label": "Kaplan",
+    "typ": "yrke"
+}, {
+    "id": "4865",
+    "label": "Karosserisnickare",
+    "typ": "yrke"
+}, {
+    "id": "5518",
+    "label": "Kartingenjör",
+    "typ": "yrke"
+}, {
+    "id": "338",
+    "label": "Kartograf",
+    "typ": "yrke"
+}, {
+    "id": "4395",
+    "label": "Kartongmaskinskötare",
+    "typ": "yrke"
+}, {
+    "id": "339",
+    "label": "Kartritare",
+    "typ": "yrke"
+}, {
+    "id": "340",
+    "label": "Karttekniker",
+    "typ": "yrke"
+}, {
+    "id": "2923",
+    "label": "Karusellsvarvare",
+    "typ": "yrke"
+}, {
+    "id": "6684",
+    "label": "Kasinopersonal",
+    "typ": "yrke"
+}, {
+    "id": "587",
+    "label": "Kassaföreståndare, arbetslöshetskassa",
+    "typ": "yrke"
+}, {
+    "id": "6658",
+    "label": "Kassaledare, butik",
+    "typ": "yrke"
+}, {
+    "id": "2155",
+    "label": "Kassapersonal",
+    "typ": "yrke"
+}, {
+    "id": "7421",
+    "label": "Kategorichef/Kategoriansvarig",
+    "typ": "yrke"
+}, {
+    "id": "4294",
+    "label": "Kemiingenjör",
+    "typ": "yrke"
+}, {
+    "id": "631",
+    "label": "Kemikalieinspektör",
+    "typ": "yrke"
+}, {
+    "id": "5764",
+    "label": "Kemist",
+    "typ": "yrke"
+}, {
+    "id": "6414",
+    "label": "Kemitekniker",
+    "typ": "yrke"
+}, {
+    "id": "1099",
+    "label": "Kemtvättare",
+    "typ": "yrke"
+}, {
+    "id": "4624",
+    "label": "Kennelföreståndare",
+    "typ": "yrke"
+}, {
+    "id": "4406",
+    "label": "Keramiker",
+    "typ": "yrke"
+}, {
+    "id": "3252",
+    "label": "Keramikpressare",
+    "typ": "yrke"
+}, {
+    "id": "6729",
+    "label": "Key account manager",
+    "typ": "yrke"
+}, {
+    "id": "1403",
+    "label": "Kilare, stenbrott",
+    "typ": "yrke"
+}, {
+    "id": "6995",
+    "label": "Kinesiolog",
+    "typ": "yrke"
+}, {
+    "id": "2275",
+    "label": "Kioskbiträde",
+    "typ": "yrke"
+}, {
+    "id": "5748",
+    "label": "Kiropraktor",
+    "typ": "yrke"
+}, {
+    "id": "2619",
+    "label": "Klensmed",
+    "typ": "yrke"
+}, {
+    "id": "4659",
+    "label": "Klichémontör",
+    "typ": "yrke"
+}, {
+    "id": "6874",
+    "label": "Klinikapotekare",
+    "typ": "yrke"
+}, {
+    "id": "2033",
+    "label": "Klinikchef, tandvård",
+    "typ": "yrke"
+}, {
+    "id": "1853",
+    "label": "Klinikveterinär",
+    "typ": "yrke"
+}, {
+    "id": "6968",
+    "label": "Klinisk farmakolog",
+    "typ": "yrke"
+}, {
+    "id": "1473",
+    "label": "Klinisk psykolog",
+    "typ": "yrke"
+}, {
+    "id": "5963",
+    "label": "Klockare",
+    "typ": "yrke"
+}, {
+    "id": "4081",
+    "label": "Klottersanerare",
+    "typ": "yrke"
+}, {
+    "id": "264",
+    "label": "Klubbvärdinna",
+    "typ": "yrke"
+}, {
+    "id": "1419",
+    "label": "Klänningssömmerska",
+    "typ": "yrke"
+}, {
+    "id": "7663",
+    "label": "Kock, à la carte",
+    "typ": "yrke"
+}, {
+    "id": "5359",
+    "label": "Kock, fartyg",
+    "typ": "yrke"
+}, {
+    "id": "7664",
+    "label": "Kock, storhushåll",
+    "typ": "yrke"
+}, {
+    "id": "5484",
+    "label": "Kocksteward",
+    "typ": "yrke"
+}, {
+    "id": "3003",
+    "label": "Kokillgjutare",
+    "typ": "yrke"
+}, {
+    "id": "3025",
+    "label": "Kokillskötare",
+    "typ": "yrke"
+}, {
+    "id": "1133",
+    "label": "Kolare",
+    "typ": "yrke"
+}, {
+    "id": "5660",
+    "label": "Kolonnarbetare",
+    "typ": "yrke"
+}, {
+    "id": "6871",
+    "label": "Kolportör",
+    "typ": "yrke"
+}, {
+    "id": "2113",
+    "label": "Komminister",
+    "typ": "yrke"
+}, {
+    "id": "3466",
+    "label": "Kommissarie, Polisen",
+    "typ": "yrke"
+}, {
+    "id": "6362",
+    "label": "Kommunchef",
+    "typ": "yrke"
+}, {
+    "id": "6818",
+    "label": "Kommundirektör",
+    "typ": "yrke"
+}, {
+    "id": "1892",
+    "label": "Kommunhandläggare",
+    "typ": "yrke"
+}, {
+    "id": "827",
+    "label": "Kommunikationselektriker",
+    "typ": "yrke"
+}, {
+    "id": "7626",
+    "label": "Kommunikationsstrateg",
+    "typ": "yrke"
+}, {
+    "id": "2514",
+    "label": "Kommunikationstekniker",
+    "typ": "yrke"
+}, {
+    "id": "3994",
+    "label": "Kommunjurist",
+    "typ": "yrke"
+}, {
+    "id": "6621",
+    "label": "Kommunrevisor",
+    "typ": "yrke"
+}, {
+    "id": "1893",
+    "label": "Kommunsekreterare",
+    "typ": "yrke"
+}, {
+    "id": "6058",
+    "label": "Kompositör",
+    "typ": "yrke"
+}, {
+    "id": "4851",
+    "label": "Koncerncontroller",
+    "typ": "yrke"
+}, {
+    "id": "2276",
+    "label": "Konditoribiträde",
+    "typ": "yrke"
+}, {
+    "id": "6668",
+    "label": "Konduktör",
+    "typ": "yrke"
+}, {
+    "id": "993",
+    "label": "Konfektionssömmerska",
+    "typ": "yrke"
+}, {
+    "id": "3700",
+    "label": "Konferencier",
+    "typ": "yrke"
+}, {
+    "id": "708",
+    "label": "Konferenschef",
+    "typ": "yrke"
+}, {
+    "id": "4134",
+    "label": "Konferenstekniker",
+    "typ": "yrke"
+}, {
+    "id": "3194",
+    "label": "Konferenstolk",
+    "typ": "yrke"
+}, {
+    "id": "712",
+    "label": "Konferensvärd/Konferensvärdinna",
+    "typ": "yrke"
+}, {
+    "id": "7203",
+    "label": "Konsertarrangör",
+    "typ": "yrke"
+}, {
+    "id": "3377",
+    "label": "Konsertmästare",
+    "typ": "yrke"
+}, {
+    "id": "7030",
+    "label": "Konservator",
+    "typ": "yrke"
+}, {
+    "id": "2974",
+    "label": "Konstgjutare",
+    "typ": "yrke"
+}, {
+    "id": "6044",
+    "label": "Konsthantverkare",
+    "typ": "yrke"
+}, {
+    "id": "4878",
+    "label": "Konstinramare/Rammakare",
+    "typ": "yrke"
+}, {
+    "id": "2440",
+    "label": "Konstintendent",
+    "typ": "yrke"
+}, {
+    "id": "7023",
+    "label": "Konstkonsult",
+    "typ": "yrke"
+}, {
+    "id": "3272",
+    "label": "Konstnär",
+    "typ": "yrke"
+}, {
+    "id": "4856",
+    "label": "Konstnärsmodell",
+    "typ": "yrke"
+}, {
+    "id": "7156",
+    "label": "Konstpedagog",
+    "typ": "yrke"
+}, {
+    "id": "6620",
+    "label": "Konstruktör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "5455",
+    "label": "Konstruktör, el-tele",
+    "typ": "yrke"
+}, {
+    "id": "6619",
+    "label": "Konstruktör, textil, trä, glas, förpackningar",
+    "typ": "yrke"
+}, {
+    "id": "7495",
+    "label": "Konstruktör, tillverkningsindustri",
+    "typ": "yrke"
+}, {
+    "id": "4412",
+    "label": "Konstsmed",
+    "typ": "yrke"
+}, {
+    "id": "4162",
+    "label": "Konststensgjutare",
+    "typ": "yrke"
+}, {
+    "id": "1782",
+    "label": "Konsulent på stifts-/nationell nivå",
+    "typ": "yrke"
+}, {
+    "id": "4951",
+    "label": "Konsumentombudsman",
+    "typ": "yrke"
+}, {
+    "id": "6304",
+    "label": "Konsumentvägledare",
+    "typ": "yrke"
+}, {
+    "id": "6548",
+    "label": "Kontakttolk/Dialogtolk",
+    "typ": "yrke"
+}, {
+    "id": "5841",
+    "label": "Kontorist",
+    "typ": "yrke"
+}, {
+    "id": "2198",
+    "label": "Kontorsbiträde",
+    "typ": "yrke"
+}, {
+    "id": "6365",
+    "label": "Kontorschef, bank",
+    "typ": "yrke"
+}, {
+    "id": "6379",
+    "label": "Kontorschef, offentlig förvaltning",
+    "typ": "yrke"
+}, {
+    "id": "6395",
+    "label": "Kontorschef, utbildningsföretag",
+    "typ": "yrke"
+}, {
+    "id": "6026",
+    "label": "Kontorskassör",
+    "typ": "yrke"
+}, {
+    "id": "721",
+    "label": "Kontorsreceptionist",
+    "typ": "yrke"
+}, {
+    "id": "459",
+    "label": "Kontorsstädare",
+    "typ": "yrke"
+}, {
+    "id": "4136",
+    "label": "Kontorsvaktmästare",
+    "typ": "yrke"
+}, {
+    "id": "7515",
+    "label": "Kontraktsadjunkt",
+    "typ": "yrke"
+}, {
+    "id": "167",
+    "label": "Kontrollingenjör",
+    "typ": "yrke"
+}, {
+    "id": "6222",
+    "label": "Kontrollingenjör, elektronik",
+    "typ": "yrke"
+}, {
+    "id": "6219",
+    "label": "Kontrollingenjör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "6235",
+    "label": "Kontrollingenjör, gruv, metallurgi",
+    "typ": "yrke"
+}, {
+    "id": "6232",
+    "label": "Kontrollingenjör, kemiteknik",
+    "typ": "yrke"
+}, {
+    "id": "6227",
+    "label": "Kontrollingenjör, maskin",
+    "typ": "yrke"
+}, {
+    "id": "6238",
+    "label": "Kontrollingenjör, textil, trä, glas, förpackn.",
+    "typ": "yrke"
+}, {
+    "id": "4642",
+    "label": "Kontrollmätare, virke",
+    "typ": "yrke"
+}, {
+    "id": "2938",
+    "label": "Kontrolloperatör, metallprodukter",
+    "typ": "yrke"
+}, {
+    "id": "4256",
+    "label": "Kontrolltekniker, elektronik",
+    "typ": "yrke"
+}, {
+    "id": "4291",
+    "label": "Kontrolltekniker, kemiteknik",
+    "typ": "yrke"
+}, {
+    "id": "4317",
+    "label": "Kontrolltekniker, textil, trä, glas, förpackn.",
+    "typ": "yrke"
+}, {
+    "id": "4360",
+    "label": "Kontursågare, snickeri",
+    "typ": "yrke"
+}, {
+    "id": "5147",
+    "label": "Konverteringsarbetare, papper",
+    "typ": "yrke"
+}, {
+    "id": "5677",
+    "label": "Kopieringsmaskinskötare",
+    "typ": "yrke"
+}, {
+    "id": "5631",
+    "label": "Kopparslagare",
+    "typ": "yrke"
+}, {
+    "id": "4692",
+    "label": "Kopparsticksgravör, tryckmedier",
+    "typ": "yrke"
+}, {
+    "id": "6117",
+    "label": "Kopplingstekniker",
+    "typ": "yrke"
+}, {
+    "id": "3713",
+    "label": "Kopplingstekniker, scanner",
+    "typ": "yrke"
+}, {
+    "id": "3714",
+    "label": "Kopplingstekniker, videoband",
+    "typ": "yrke"
+}, {
+    "id": "6183",
+    "label": "Koreograf",
+    "typ": "yrke"
+}, {
+    "id": "4009",
+    "label": "Koreolog",
+    "typ": "yrke"
+}, {
+    "id": "2403",
+    "label": "Korgmakare",
+    "typ": "yrke"
+}, {
+    "id": "5892",
+    "label": "Korgmakeriarbetare",
+    "typ": "yrke"
+}, {
+    "id": "2404",
+    "label": "Korgmöbelmakare",
+    "typ": "yrke"
+}, {
+    "id": "3870",
+    "label": "Korrekturläsare",
+    "typ": "yrke"
+}, {
+    "id": "208",
+    "label": "Kostchef",
+    "typ": "yrke"
+}, {
+    "id": "6813",
+    "label": "Kostekonom",
+    "typ": "yrke"
+}, {
+    "id": "1865",
+    "label": "Kostkonsulent",
+    "typ": "yrke"
+}, {
+    "id": "3911",
+    "label": "Kostymassistent",
+    "typ": "yrke"
+}, {
+    "id": "6169",
+    "label": "Kostymmästare",
+    "typ": "yrke"
+}, {
+    "id": "6151",
+    "label": "Kostymtecknare",
+    "typ": "yrke"
+}, {
+    "id": "3912",
+    "label": "Kostymör",
+    "typ": "yrke"
+}, {
+    "id": "274",
+    "label": "Kraftstationsmaskinist",
+    "typ": "yrke"
+}, {
+    "id": "275",
+    "label": "Kraftverksoperatör",
+    "typ": "yrke"
+}, {
+    "id": "7594",
+    "label": "Kran- och hisstekniker",
+    "typ": "yrke"
+}, {
+    "id": "6688",
+    "label": "Kranbilsförare",
+    "typ": "yrke"
+}, {
+    "id": "7621",
+    "label": "Kravanalytiker",
+    "typ": "yrke"
+}, {
+    "id": "2738",
+    "label": "Kreditberedare",
+    "typ": "yrke"
+}, {
+    "id": "2739",
+    "label": "Kreditbevakare",
+    "typ": "yrke"
+}, {
+    "id": "2740",
+    "label": "Kreditchef",
+    "typ": "yrke"
+}, {
+    "id": "5948",
+    "label": "Kredithandläggare",
+    "typ": "yrke"
+}, {
+    "id": "2741",
+    "label": "Kreditman",
+    "typ": "yrke"
+}, {
+    "id": "2742",
+    "label": "Kreditrådgivare",
+    "typ": "yrke"
+}, {
+    "id": "5498",
+    "label": "Krematoriemästare/Föreståndare",
+    "typ": "yrke"
+}, {
+    "id": "263",
+    "label": "Krematorievaktmästare",
+    "typ": "yrke"
+}, {
+    "id": "312",
+    "label": "Kretskortsmontör",
+    "typ": "yrke"
+}, {
+    "id": "2441",
+    "label": "Krigsarkivarie",
+    "typ": "yrke"
+}, {
+    "id": "2503",
+    "label": "Kriminalvårdare",
+    "typ": "yrke"
+}, {
+    "id": "4475",
+    "label": "Kriminalvårdsdirektör",
+    "typ": "yrke"
+}, {
+    "id": "1894",
+    "label": "Kriminalvårdsinspektör",
+    "typ": "yrke"
+}, {
+    "id": "3302",
+    "label": "Kriminolog",
+    "typ": "yrke"
+}, {
+    "id": "2399",
+    "label": "Kronoassistent",
+    "typ": "yrke"
+}, {
+    "id": "6832",
+    "label": "Kronodirektör",
+    "typ": "yrke"
+}, {
+    "id": "6072",
+    "label": "Kronofogde",
+    "typ": "yrke"
+}, {
+    "id": "5889",
+    "label": "Kronoinspektör",
+    "typ": "yrke"
+}, {
+    "id": "2869",
+    "label": "Krosskötare, malmkross",
+    "typ": "yrke"
+}, {
+    "id": "2859",
+    "label": "Krossverksmaskinist",
+    "typ": "yrke"
+}, {
+    "id": "3253",
+    "label": "Krukmakare",
+    "typ": "yrke"
+}, {
+    "id": "3933",
+    "label": "Kulare, glas",
+    "typ": "yrke"
+}, {
+    "id": "2870",
+    "label": "Kulkvarnskötare, malmanrikning",
+    "typ": "yrke"
+}, {
+    "id": "5231",
+    "label": "Kulturchef",
+    "typ": "yrke"
+}, {
+    "id": "4033",
+    "label": "Kulturgeograf",
+    "typ": "yrke"
+}, {
+    "id": "1896",
+    "label": "Kultursekreterare",
+    "typ": "yrke"
+}, {
+    "id": "5572",
+    "label": "Kundmottagare/Verkmästare, bilverkstad",
+    "typ": "yrke"
+}, {
+    "id": "7552",
+    "label": "Kundmäklare",
+    "typ": "yrke"
+}, {
+    "id": "7522",
+    "label": "Kundserviceingenjör, tillverkningsindustri",
+    "typ": "yrke"
+}, {
+    "id": "7627",
+    "label": "Kundtjänstchef",
+    "typ": "yrke"
+}, {
+    "id": "5918",
+    "label": "Kundtjänsteman, försäkring",
+    "typ": "yrke"
+}, {
+    "id": "2291",
+    "label": "Kundtjänstmedarbetare",
+    "typ": "yrke"
+}, {
+    "id": "5994",
+    "label": "Kundvagnsuppsamlare",
+    "typ": "yrke"
+}, {
+    "id": "5787",
+    "label": "Kurator",
+    "typ": "yrke"
+}, {
+    "id": "2779",
+    "label": "Kursadministratör",
+    "typ": "yrke"
+}, {
+    "id": "212",
+    "label": "Kursgårdsföreståndare",
+    "typ": "yrke"
+}, {
+    "id": "3625",
+    "label": "Kursutvecklare",
+    "typ": "yrke"
+}, {
+    "id": "5664",
+    "label": "Kustbevakningstjänsteman",
+    "typ": "yrke"
+}, {
+    "id": "4396",
+    "label": "Kuvertmaskinskötare",
+    "typ": "yrke"
+}, {
+    "id": "1371",
+    "label": "Kvalificerad skattehandläggare",
+    "typ": "yrke"
+}, {
+    "id": "5537",
+    "label": "Kvalitetsbedömare, livsmedel",
+    "typ": "yrke"
+}, {
+    "id": "4726",
+    "label": "Kvalitetschef",
+    "typ": "yrke"
+}, {
+    "id": "5457",
+    "label": "Kvalitetsingenjör, el-tele",
+    "typ": "yrke"
+}, {
+    "id": "4318",
+    "label": "Kvalitetsingenjör, textil, trä, glas, förpackn.",
+    "typ": "yrke"
+}, {
+    "id": "4257",
+    "label": "Kvalitetsingenjör/-tekniker, elektronik",
+    "typ": "yrke"
+}, {
+    "id": "4246",
+    "label": "Kvalitetsingenjör/-tekniker, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "4292",
+    "label": "Kvalitetsingenjör/-tekniker, kemiteknik",
+    "typ": "yrke"
+}, {
+    "id": "4276",
+    "label": "Kvalitetsingenjör/-tekniker, maskin",
+    "typ": "yrke"
+}, {
+    "id": "4305",
+    "label": "Kvalitetsingenjör/-tekniker, metallurgi",
+    "typ": "yrke"
+}, {
+    "id": "4728",
+    "label": "Kvalitetskoordinator",
+    "typ": "yrke"
+}, {
+    "id": "2939",
+    "label": "Kvalitetsmätare, metallprodukter",
+    "typ": "yrke"
+}, {
+    "id": "4729",
+    "label": "Kvalitetsrevisor",
+    "typ": "yrke"
+}, {
+    "id": "4730",
+    "label": "Kvalitetssamordnare",
+    "typ": "yrke"
+}, {
+    "id": "5652",
+    "label": "Kvarnarbetare",
+    "typ": "yrke"
+}, {
+    "id": "1117",
+    "label": "Kvarnmaskinskötare",
+    "typ": "yrke"
+}, {
+    "id": "1118",
+    "label": "Kvarnoperatör",
+    "typ": "yrke"
+}, {
+    "id": "2860",
+    "label": "Kvarnskötare, stenkross",
+    "typ": "yrke"
+}, {
+    "id": "1830",
+    "label": "Kvartärgeolog",
+    "typ": "yrke"
+}, {
+    "id": "1495",
+    "label": "Kvinnojoursarbetare",
+    "typ": "yrke"
+}, {
+    "id": "7611",
+    "label": "Kyl- och värmepumpsmontör",
+    "typ": "yrke"
+}, {
+    "id": "7612",
+    "label": "Kyl- och värmepumpstekniker",
+    "typ": "yrke"
+}, {
+    "id": "281",
+    "label": "Kylmaskinist, kyl- och frysanläggning",
+    "typ": "yrke"
+}, {
+    "id": "5819",
+    "label": "Kylmontör/Kyltekniker",
+    "typ": "yrke"
+}, {
+    "id": "4565",
+    "label": "Kyrkogårdsförman",
+    "typ": "yrke"
+}, {
+    "id": "2115",
+    "label": "Kyrkoherde",
+    "typ": "yrke"
+}, {
+    "id": "7519",
+    "label": "Kyrkokamrer",
+    "typ": "yrke"
+}, {
+    "id": "2393",
+    "label": "Kyrkvaktmästare",
+    "typ": "yrke"
+}, {
+    "id": "395",
+    "label": "Källarmästare",
+    "typ": "yrke"
+}, {
+    "id": "2906",
+    "label": "Kärnborrare",
+    "typ": "yrke"
+}, {
+    "id": "1769",
+    "label": "Kärnfysiker",
+    "typ": "yrke"
+}, {
+    "id": "6726",
+    "label": "Kärnkraftsanerare",
+    "typ": "yrke"
+}, {
+    "id": "7341",
+    "label": "Kärnmakare",
+    "typ": "yrke"
+}, {
+    "id": "483",
+    "label": "Köksbiträde",
+    "typ": "yrke"
+}, {
+    "id": "221",
+    "label": "Kökschef",
+    "typ": "yrke"
+}, {
+    "id": "209",
+    "label": "Köksföreståndare",
+    "typ": "yrke"
+}, {
+    "id": "222",
+    "label": "Köksmästare",
+    "typ": "yrke"
+}, {
+    "id": "3614",
+    "label": "Körledare",
+    "typ": "yrke"
+}, {
+    "id": "6243",
+    "label": "Körsnär/Pälsmodellör",
+    "typ": "yrke"
+}, {
+    "id": "5536",
+    "label": "Köttklassificerare",
+    "typ": "yrke"
+}, {
+    "id": "266",
+    "label": "Köttmästare",
+    "typ": "yrke"
+}, {
+    "id": "7644",
+    "label": "Laborant, biologi",
+    "typ": "yrke"
+}, {
+    "id": "327",
+    "label": "Laborant, fysik",
+    "typ": "yrke"
+}, {
+    "id": "322",
+    "label": "Laborant, kemi",
+    "typ": "yrke"
+}, {
+    "id": "1642",
+    "label": "Laboratorieassistent",
+    "typ": "yrke"
+}, {
+    "id": "5786",
+    "label": "Laboratoriebiträde",
+    "typ": "yrke"
+}, {
+    "id": "1960",
+    "label": "Laboratoriebiträde, fys.lab.",
+    "typ": "yrke"
+}, {
+    "id": "1961",
+    "label": "Laboratoriebiträde, kem.lab.",
+    "typ": "yrke"
+}, {
+    "id": "1962",
+    "label": "Laboratoriebiträde, sjukhus",
+    "typ": "yrke"
+}, {
+    "id": "2046",
+    "label": "Laboratoriechef",
+    "typ": "yrke"
+}, {
+    "id": "493",
+    "label": "Laboratoriediskare",
+    "typ": "yrke"
+}, {
+    "id": "5516",
+    "label": "Laboratorieingenjör, fysik",
+    "typ": "yrke"
+}, {
+    "id": "5515",
+    "label": "Laboratorieingenjör, kemi",
+    "typ": "yrke"
+}, {
+    "id": "7408",
+    "label": "Laboratorieingenjör, metallurgi",
+    "typ": "yrke"
+}, {
+    "id": "3723",
+    "label": "Laboratorietandtekniker",
+    "typ": "yrke"
+}, {
+    "id": "328",
+    "label": "Laboratorietekniker, fysik",
+    "typ": "yrke"
+}, {
+    "id": "323",
+    "label": "Laboratorietekniker, kemi",
+    "typ": "yrke"
+}, {
+    "id": "1855",
+    "label": "Laboratorieveterinär",
+    "typ": "yrke"
+}, {
+    "id": "2161",
+    "label": "Lackerare",
+    "typ": "yrke"
+}, {
+    "id": "4070",
+    "label": "Lackerare, porslin",
+    "typ": "yrke"
+}, {
+    "id": "1134",
+    "label": "Lackkokare",
+    "typ": "yrke"
+}, {
+    "id": "1381",
+    "label": "Laddare, gruva",
+    "typ": "yrke"
+}, {
+    "id": "6430",
+    "label": "Ladugårdsföreståndare/Ladugårdsförman, djuruppf.",
+    "typ": "yrke"
+}, {
+    "id": "6423",
+    "label": "Ladugårdsförman, blandad drift",
+    "typ": "yrke"
+}, {
+    "id": "6422",
+    "label": "Ladugårdsskötare, blandad drift",
+    "typ": "yrke"
+}, {
+    "id": "5842",
+    "label": "Lagerarbetare",
+    "typ": "yrke"
+}, {
+    "id": "6353",
+    "label": "Lagerchef",
+    "typ": "yrke"
+}, {
+    "id": "2200",
+    "label": "Lagerkontorist",
+    "typ": "yrke"
+}, {
+    "id": "2243",
+    "label": "Lagerplanerare",
+    "typ": "yrke"
+}, {
+    "id": "3136",
+    "label": "Lagman",
+    "typ": "yrke"
+}, {
+    "id": "972",
+    "label": "Laminatpressare",
+    "typ": "yrke"
+}, {
+    "id": "973",
+    "label": "Laminerare, plast",
+    "typ": "yrke"
+}, {
+    "id": "4827",
+    "label": "Laminerare, tryckeri",
+    "typ": "yrke"
+}, {
+    "id": "6616",
+    "label": "Landsantikvarie",
+    "typ": "yrke"
+}, {
+    "id": "6615",
+    "label": "Landsarkivarie",
+    "typ": "yrke"
+}, {
+    "id": "4501",
+    "label": "Landsbygdsutvecklare",
+    "typ": "yrke"
+}, {
+    "id": "2016",
+    "label": "Landshövding",
+    "typ": "yrke"
+}, {
+    "id": "5447",
+    "label": "Landskapsarkitekt",
+    "typ": "yrke"
+}, {
+    "id": "6269",
+    "label": "Landskapsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "7304",
+    "label": "Landstingsdirektör",
+    "typ": "yrke"
+}, {
+    "id": "3995",
+    "label": "Landstingsjurist",
+    "typ": "yrke"
+}, {
+    "id": "6614",
+    "label": "Landstingsrevisor",
+    "typ": "yrke"
+}, {
+    "id": "1897",
+    "label": "Landstingssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "2138",
+    "label": "Lantbrevbärare",
+    "typ": "yrke"
+}, {
+    "id": "6287",
+    "label": "Lantbrukare, blandad drift",
+    "typ": "yrke"
+}, {
+    "id": "6277",
+    "label": "Lantbrukare, djuruppfödning",
+    "typ": "yrke"
+}, {
+    "id": "6271",
+    "label": "Lantbrukare, växtodling",
+    "typ": "yrke"
+}, {
+    "id": "4476",
+    "label": "Lantbruksdirektör",
+    "typ": "yrke"
+}, {
+    "id": "7354",
+    "label": "Lantbruksekonom",
+    "typ": "yrke"
+}, {
+    "id": "6421",
+    "label": "Lantbruksförman, blandad drift",
+    "typ": "yrke"
+}, {
+    "id": "5102",
+    "label": "Lantbruksförvaltare",
+    "typ": "yrke"
+}, {
+    "id": "6340",
+    "label": "Lantbruksinspektor",
+    "typ": "yrke"
+}, {
+    "id": "3090",
+    "label": "Lantbrukskassör",
+    "typ": "yrke"
+}, {
+    "id": "4503",
+    "label": "Lantbruksrådgivare/Lantbrukskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "6267",
+    "label": "Lantmästare",
+    "typ": "yrke"
+}, {
+    "id": "5472",
+    "label": "Lantmätare/Förrättningslantmätare",
+    "typ": "yrke"
+}, {
+    "id": "4477",
+    "label": "Lantmäteridirektör",
+    "typ": "yrke"
+}, {
+    "id": "341",
+    "label": "Lantmäteriingenjör",
+    "typ": "yrke"
+}, {
+    "id": "5614",
+    "label": "Larminstallatör/Larmtekniker",
+    "typ": "yrke"
+}, {
+    "id": "6116",
+    "label": "Larmoperatör",
+    "typ": "yrke"
+}, {
+    "id": "7637",
+    "label": "Laseroperatör/Laserskärare",
+    "typ": "yrke"
+}, {
+    "id": "6402",
+    "label": "Lastare",
+    "typ": "yrke"
+}, {
+    "id": "5578",
+    "label": "Lastbilsmekaniker",
+    "typ": "yrke"
+}, {
+    "id": "6751",
+    "label": "Lastbilssäljare",
+    "typ": "yrke"
+}, {
+    "id": "509",
+    "label": "Lastmaskinförare",
+    "typ": "yrke"
+}, {
+    "id": "4993",
+    "label": "Lastningsförman/Load master",
+    "typ": "yrke"
+}, {
+    "id": "4041",
+    "label": "Layoutare",
+    "typ": "yrke"
+}, {
+    "id": "4040",
+    "label": "Layoutchef",
+    "typ": "yrke"
+}, {
+    "id": "4042",
+    "label": "Layouttecknare",
+    "typ": "yrke"
+}, {
+    "id": "3026",
+    "label": "LD-operatör",
+    "typ": "yrke"
+}, {
+    "id": "5408",
+    "label": "Ledande montör, el",
+    "typ": "yrke"
+}, {
+    "id": "828",
+    "label": "Ledningsmontör, tele",
+    "typ": "yrke"
+}, {
+    "id": "2001",
+    "label": "Ledsagare",
+    "typ": "yrke"
+}, {
+    "id": "1518",
+    "label": "Lekterapeut",
+    "typ": "yrke"
+}, {
+    "id": "3860",
+    "label": "Lektör",
+    "typ": "yrke"
+}, {
+    "id": "7438",
+    "label": "Leveldesigner",
+    "typ": "yrke"
+}, {
+    "id": "2201",
+    "label": "Leveransbevakare",
+    "typ": "yrke"
+}, {
+    "id": "5027",
+    "label": "Leveranschef",
+    "typ": "yrke"
+}, {
+    "id": "398",
+    "label": "Leveransman",
+    "typ": "yrke"
+}, {
+    "id": "3195",
+    "label": "Lexikograf",
+    "typ": "yrke"
+}, {
+    "id": "6211",
+    "label": "Licenskontrollant",
+    "typ": "yrke"
+}, {
+    "id": "2853",
+    "label": "Liftbyggare/Liftmontör/Montageledare, liftar",
+    "typ": "yrke"
+}, {
+    "id": "6690",
+    "label": "Liftdumper- och lastväxlarförare",
+    "typ": "yrke"
+}, {
+    "id": "1332",
+    "label": "Liftmaskinist",
+    "typ": "yrke"
+}, {
+    "id": "1333",
+    "label": "Liftskötare",
+    "typ": "yrke"
+}, {
+    "id": "1349",
+    "label": "Limberedare, träfiberindustri",
+    "typ": "yrke"
+}, {
+    "id": "1350",
+    "label": "Limmare, fiberskivtillverkning",
+    "typ": "yrke"
+}, {
+    "id": "4361",
+    "label": "Limmare, snickeri",
+    "typ": "yrke"
+}, {
+    "id": "4752",
+    "label": "Limnolog",
+    "typ": "yrke"
+}, {
+    "id": "4339",
+    "label": "Limousineförare",
+    "typ": "yrke"
+}, {
+    "id": "1334",
+    "label": "Linbaneskötare",
+    "typ": "yrke"
+}, {
+    "id": "3583",
+    "label": "Lindansare",
+    "typ": "yrke"
+}, {
+    "id": "6038",
+    "label": "Lingvist",
+    "typ": "yrke"
+}, {
+    "id": "2775",
+    "label": "Linjeagent",
+    "typ": "yrke"
+}, {
+    "id": "853",
+    "label": "Linjemontör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "855",
+    "label": "Linjereparatör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "1427",
+    "label": "Linnesömmerska",
+    "typ": "yrke"
+}, {
+    "id": "3962",
+    "label": "Linsslipare",
+    "typ": "yrke"
+}, {
+    "id": "4362",
+    "label": "Listarbetare",
+    "typ": "yrke"
+}, {
+    "id": "4363",
+    "label": "Listmakare",
+    "typ": "yrke"
+}, {
+    "id": "2997",
+    "label": "Litterär agent",
+    "typ": "yrke"
+}, {
+    "id": "5442",
+    "label": "Livsmedelsarbetare, mejeri",
+    "typ": "yrke"
+}, {
+    "id": "4323",
+    "label": "Livsmedelsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "6819",
+    "label": "Livsmedelsinspektör",
+    "typ": "yrke"
+}, {
+    "id": "6239",
+    "label": "Livsmedelstekniker",
+    "typ": "yrke"
+}, {
+    "id": "3528",
+    "label": "Ljudassistent",
+    "typ": "yrke"
+}, {
+    "id": "3529",
+    "label": "Ljudbandstekniker",
+    "typ": "yrke"
+}, {
+    "id": "7042",
+    "label": "Ljuddatatekniker",
+    "typ": "yrke"
+}, {
+    "id": "7658",
+    "label": "Ljuddesigner",
+    "typ": "yrke"
+}, {
+    "id": "3531",
+    "label": "Ljudingenjör",
+    "typ": "yrke"
+}, {
+    "id": "7597",
+    "label": "Ljudmixeroperatör",
+    "typ": "yrke"
+}, {
+    "id": "6085",
+    "label": "Ljudtekniker",
+    "typ": "yrke"
+}, {
+    "id": "7598",
+    "label": "Ljusbordsoperatör",
+    "typ": "yrke"
+}, {
+    "id": "3537",
+    "label": "Ljusdesigner",
+    "typ": "yrke"
+}, {
+    "id": "1135",
+    "label": "Ljusformare",
+    "typ": "yrke"
+}, {
+    "id": "1136",
+    "label": "Ljusstöpare",
+    "typ": "yrke"
+}, {
+    "id": "6086",
+    "label": "Ljussättare",
+    "typ": "yrke"
+}, {
+    "id": "6189",
+    "label": "Ljustekniker",
+    "typ": "yrke"
+}, {
+    "id": "5118",
+    "label": "Logistikchef",
+    "typ": "yrke"
+}, {
+    "id": "5471",
+    "label": "Logistiker",
+    "typ": "yrke"
+}, {
+    "id": "176",
+    "label": "Logistikingenjör",
+    "typ": "yrke"
+}, {
+    "id": "5721",
+    "label": "Logoped",
+    "typ": "yrke"
+}, {
+    "id": "1627",
+    "label": "Logopedassistent",
+    "typ": "yrke"
+}, {
+    "id": "702",
+    "label": "Lokalguide",
+    "typ": "yrke"
+}, {
+    "id": "5550",
+    "label": "Lokförare/Förare av tåg",
+    "typ": "yrke"
+}, {
+    "id": "5620",
+    "label": "Lokreparatör",
+    "typ": "yrke"
+}, {
+    "id": "5569",
+    "label": "Lots, fartyg",
+    "typ": "yrke"
+}, {
+    "id": "6838",
+    "label": "LSS-handläggare",
+    "typ": "yrke"
+}, {
+    "id": "2965",
+    "label": "Lånechef",
+    "typ": "yrke"
+}, {
+    "id": "5625",
+    "label": "Låssmed/Låstekniker",
+    "typ": "yrke"
+}, {
+    "id": "3415",
+    "label": "Läderfärgare",
+    "typ": "yrke"
+}, {
+    "id": "7383",
+    "label": "Lädervaruarbetare",
+    "typ": "yrke"
+}, {
+    "id": "7239",
+    "label": "Läkare",
+    "typ": "yrke"
+}, {
+    "id": "5967",
+    "label": "Läkarsekreterare/Vårdadmin/Medicinsk sekreterare",
+    "typ": "yrke"
+}, {
+    "id": "7387",
+    "label": "Läkeeurytmist",
+    "typ": "yrke"
+}, {
+    "id": "7475",
+    "label": "Läkemedelsansvarig, apotekare",
+    "typ": "yrke"
+}, {
+    "id": "7476",
+    "label": "Läkemedelsansvarig, receptarie",
+    "typ": "yrke"
+}, {
+    "id": "2358",
+    "label": "Läkemedelsinspektör",
+    "typ": "yrke"
+}, {
+    "id": "2606",
+    "label": "Läkemedelskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "3706",
+    "label": "Läkepedagog",
+    "typ": "yrke"
+}, {
+    "id": "6610",
+    "label": "Länsantikvarie/1:e antikvarie",
+    "typ": "yrke"
+}, {
+    "id": "4480",
+    "label": "Länsarkitekt",
+    "typ": "yrke"
+}, {
+    "id": "5169",
+    "label": "Länsassessor",
+    "typ": "yrke"
+}, {
+    "id": "6609",
+    "label": "Länsbibliotekarie",
+    "typ": "yrke"
+}, {
+    "id": "4481",
+    "label": "Länsbostadsdirektör",
+    "typ": "yrke"
+}, {
+    "id": "3652",
+    "label": "Länshemslöjdskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "6942",
+    "label": "Länsjaktvårdare",
+    "typ": "yrke"
+}, {
+    "id": "4773",
+    "label": "Länsjaktvårdskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "7595",
+    "label": "Länsjurist",
+    "typ": "yrke"
+}, {
+    "id": "4482",
+    "label": "Länsjägmästare",
+    "typ": "yrke"
+}, {
+    "id": "4952",
+    "label": "Länspolismästare",
+    "typ": "yrke"
+}, {
+    "id": "6608",
+    "label": "Länsråd",
+    "typ": "yrke"
+}, {
+    "id": "5171",
+    "label": "Länsrättsassessor",
+    "typ": "yrke"
+}, {
+    "id": "3137",
+    "label": "Länsrättsfiskal",
+    "typ": "yrke"
+}, {
+    "id": "3138",
+    "label": "Länsrättsnotarie",
+    "typ": "yrke"
+}, {
+    "id": "4483",
+    "label": "Länsskattechef",
+    "typ": "yrke"
+}, {
+    "id": "1856",
+    "label": "Länsveterinär",
+    "typ": "yrke"
+}, {
+    "id": "4953",
+    "label": "Länsåklagare",
+    "typ": "yrke"
+}, {
+    "id": "5809",
+    "label": "Lärarassistent",
+    "typ": "yrke"
+}, {
+    "id": "5715",
+    "label": "Lärare i fritidshem/Fritidspedagog",
+    "typ": "yrke"
+}, {
+    "id": "5714",
+    "label": "Lärare i förskola/Förskollärare",
+    "typ": "yrke"
+}, {
+    "id": "7295",
+    "label": "Lärare i förskoleklass",
+    "typ": "yrke"
+}, {
+    "id": "7652",
+    "label": "Lärare i grundskolan, årskurs 1-3",
+    "typ": "yrke"
+}, {
+    "id": "7653",
+    "label": "Lärare i grundskolan, årskurs 4-6",
+    "typ": "yrke"
+}, {
+    "id": "7654",
+    "label": "Lärare i grundskolan, årskurs 7-9",
+    "typ": "yrke"
+}, {
+    "id": "7127",
+    "label": "Lärare i gymnasiet",
+    "typ": "yrke"
+}, {
+    "id": "7128",
+    "label": "Lärare i gymnasiet - yrkesämnen",
+    "typ": "yrke"
+}, {
+    "id": "7165",
+    "label": "Lärare i musik- och kulturskolan",
+    "typ": "yrke"
+}, {
+    "id": "7164",
+    "label": "Lärare i prakt./estet och annat ämne",
+    "typ": "yrke"
+}, {
+    "id": "7126",
+    "label": "Lärare i praktiska och estetiska ämnen",
+    "typ": "yrke"
+}, {
+    "id": "6917",
+    "label": "Lärling, anläggningsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "6918",
+    "label": "Lärling, anläggningsdykare",
+    "typ": "yrke"
+}, {
+    "id": "7219",
+    "label": "Lärling, bandlastarförare",
+    "typ": "yrke"
+}, {
+    "id": "7220",
+    "label": "Lärling, bandschaktarförare",
+    "typ": "yrke"
+}, {
+    "id": "6916",
+    "label": "Lärling, beläggningsarbete",
+    "typ": "yrke"
+}, {
+    "id": "7221",
+    "label": "Lärling, beläggningsmaskinförare",
+    "typ": "yrke"
+}, {
+    "id": "6919",
+    "label": "Lärling, bergarbetare",
+    "typ": "yrke"
+}, {
+    "id": "6920",
+    "label": "Lärling, betongarbetare",
+    "typ": "yrke"
+}, {
+    "id": "6923",
+    "label": "Lärling, byggnadsplåtslagare",
+    "typ": "yrke"
+}, {
+    "id": "7115",
+    "label": "Lärling, drift- och vägunderhållsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "6927",
+    "label": "Lärling, glastekniker",
+    "typ": "yrke"
+}, {
+    "id": "6928",
+    "label": "Lärling, golvläggare",
+    "typ": "yrke"
+}, {
+    "id": "7222",
+    "label": "Lärling, grävlastare",
+    "typ": "yrke"
+}, {
+    "id": "7223",
+    "label": "Lärling, grävmaskinförare",
+    "typ": "yrke"
+}, {
+    "id": "6929",
+    "label": "Lärling, hissmontör",
+    "typ": "yrke"
+}, {
+    "id": "6921",
+    "label": "Lärling, håltagare",
+    "typ": "yrke"
+}, {
+    "id": "7267",
+    "label": "Lärling, industrielektriker",
+    "typ": "yrke"
+}, {
+    "id": "6930",
+    "label": "Lärling, installationselektriker",
+    "typ": "yrke"
+}, {
+    "id": "7266",
+    "label": "Lärling, isoleringsplåtslagare",
+    "typ": "yrke"
+}, {
+    "id": "7225",
+    "label": "Lärling, lastmaskinförare",
+    "typ": "yrke"
+}, {
+    "id": "7196",
+    "label": "Lärling, mobilkranförare",
+    "typ": "yrke"
+}, {
+    "id": "7226",
+    "label": "Lärling, motorschaktvagnförare",
+    "typ": "yrke"
+}, {
+    "id": "6934",
+    "label": "Lärling, murare",
+    "typ": "yrke"
+}, {
+    "id": "6922",
+    "label": "Lärling, målare",
+    "typ": "yrke"
+}, {
+    "id": "6935",
+    "label": "Lärling, plattsättare",
+    "typ": "yrke"
+}, {
+    "id": "7227",
+    "label": "Lärling, pålmaskinförare",
+    "typ": "yrke"
+}, {
+    "id": "7189",
+    "label": "Lärling, stenmontör",
+    "typ": "yrke"
+}, {
+    "id": "6926",
+    "label": "Lärling, ställningsbyggare",
+    "typ": "yrke"
+}, {
+    "id": "6937",
+    "label": "Lärling, takmontör",
+    "typ": "yrke"
+}, {
+    "id": "7248",
+    "label": "Lärling, teleskoptruckförare",
+    "typ": "yrke"
+}, {
+    "id": "7197",
+    "label": "Lärling, tornkranförare",
+    "typ": "yrke"
+}, {
+    "id": "6925",
+    "label": "Lärling, träarbetare",
+    "typ": "yrke"
+}, {
+    "id": "6938",
+    "label": "Lärling, undertaksmontör",
+    "typ": "yrke"
+}, {
+    "id": "6924",
+    "label": "Lärling, ventilationsplåtslagare",
+    "typ": "yrke"
+}, {
+    "id": "7265",
+    "label": "Lärling, VVS-isolerare",
+    "typ": "yrke"
+}, {
+    "id": "6932",
+    "label": "Lärling, VVS-montör",
+    "typ": "yrke"
+}, {
+    "id": "7228",
+    "label": "Lärling, väghyvelförare",
+    "typ": "yrke"
+}, {
+    "id": "7131",
+    "label": "Läromedelsassistent",
+    "typ": "yrke"
+}, {
+    "id": "3602",
+    "label": "Läromedelsintendent",
+    "typ": "yrke"
+}, {
+    "id": "1182",
+    "label": "Läskedrycksberedare",
+    "typ": "yrke"
+}, {
+    "id": "4874",
+    "label": "Lästmodellör",
+    "typ": "yrke"
+}, {
+    "id": "4159",
+    "label": "Lättbetongarbetare",
+    "typ": "yrke"
+}, {
+    "id": "4089",
+    "label": "Lättmatros",
+    "typ": "yrke"
+}, {
+    "id": "3083",
+    "label": "Löneadministratör",
+    "typ": "yrke"
+}, {
+    "id": "3084",
+    "label": "Löneassistent/Lönekontorist",
+    "typ": "yrke"
+}, {
+    "id": "7622",
+    "label": "Lösullsinstallatör",
+    "typ": "yrke"
+}, {
+    "id": "7312",
+    "label": "Make-up artist",
+    "typ": "yrke"
+}, {
+    "id": "6758",
+    "label": "Makroanalytiker",
+    "typ": "yrke"
+}, {
+    "id": "2871",
+    "label": "Malmanrikare",
+    "typ": "yrke"
+}, {
+    "id": "1382",
+    "label": "Malmarbetare",
+    "typ": "yrke"
+}, {
+    "id": "2872",
+    "label": "Malmförädlingsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "2873",
+    "label": "Malmkrosskötare",
+    "typ": "yrke"
+}, {
+    "id": "1383",
+    "label": "Malmlastare, gruva",
+    "typ": "yrke"
+}, {
+    "id": "372",
+    "label": "Malmletare",
+    "typ": "yrke"
+}, {
+    "id": "3407",
+    "label": "Malmvägare",
+    "typ": "yrke"
+}, {
+    "id": "2998",
+    "label": "Manager",
+    "typ": "yrke"
+}, {
+    "id": "249",
+    "label": "Manikyrist/Manikurist",
+    "typ": "yrke"
+}, {
+    "id": "2360",
+    "label": "Mannekäng",
+    "typ": "yrke"
+}, {
+    "id": "3877",
+    "label": "Manusförfattare",
+    "typ": "yrke"
+}, {
+    "id": "3214",
+    "label": "Marinarkeolog",
+    "typ": "yrke"
+}, {
+    "id": "4753",
+    "label": "Marinbiolog",
+    "typ": "yrke"
+}, {
+    "id": "6824",
+    "label": "Marinmekaniker",
+    "typ": "yrke"
+}, {
+    "id": "7325",
+    "label": "Marinmeteorolog",
+    "typ": "yrke"
+}, {
+    "id": "6961",
+    "label": "Markberedningsförare, skogsbruk",
+    "typ": "yrke"
+}, {
+    "id": "183",
+    "label": "Markförhandlare",
+    "typ": "yrke"
+}, {
+    "id": "4216",
+    "label": "Markingenjör",
+    "typ": "yrke"
+}, {
+    "id": "5548",
+    "label": "Marknadsanalytiker",
+    "typ": "yrke"
+}, {
+    "id": "6314",
+    "label": "Marknadsassistent",
+    "typ": "yrke"
+}, {
+    "id": "5090",
+    "label": "Marknadschef",
+    "typ": "yrke"
+}, {
+    "id": "5547",
+    "label": "Marknadsförare",
+    "typ": "yrke"
+}, {
+    "id": "406",
+    "label": "Marknadskommunikatör",
+    "typ": "yrke"
+}, {
+    "id": "407",
+    "label": "Marknadskonsult",
+    "typ": "yrke"
+}, {
+    "id": "408",
+    "label": "Marknadskoordinator",
+    "typ": "yrke"
+}, {
+    "id": "416",
+    "label": "Marknadsplanerare",
+    "typ": "yrke"
+}, {
+    "id": "417",
+    "label": "Marknadsundersökare",
+    "typ": "yrke"
+}, {
+    "id": "7274",
+    "label": "MAS, medicinskt ansvarig sjuksköterska",
+    "typ": "yrke"
+}, {
+    "id": "5590",
+    "label": "Maskinbefäl, fartyg",
+    "typ": "yrke"
+}, {
+    "id": "6300",
+    "label": "Maskinbokbindare/Bokbinderiarbetare",
+    "typ": "yrke"
+}, {
+    "id": "2899",
+    "label": "Maskinbokförare",
+    "typ": "yrke"
+}, {
+    "id": "861",
+    "label": "Maskinbyggare",
+    "typ": "yrke"
+}, {
+    "id": "802",
+    "label": "Maskinelektriker",
+    "typ": "yrke"
+}, {
+    "id": "3005",
+    "label": "Maskinformare, gjuteri",
+    "typ": "yrke"
+}, {
+    "id": "5557",
+    "label": "Maskinförare, lantbruk/Traktorförare, lantbruk",
+    "typ": "yrke"
+}, {
+    "id": "5689",
+    "label": "Maskinförare, träfiberskivor",
+    "typ": "yrke"
+}, {
+    "id": "4018",
+    "label": "Maskingravör, metall",
+    "typ": "yrke"
+}, {
+    "id": "4693",
+    "label": "Maskingravör, tryckmedier",
+    "typ": "yrke"
+}, {
+    "id": "7337",
+    "label": "Maskinist, energi",
+    "typ": "yrke"
+}, {
+    "id": "7326",
+    "label": "Maskinkonstruktör",
+    "typ": "yrke"
+}, {
+    "id": "3006",
+    "label": "Maskinkärnmakare",
+    "typ": "yrke"
+}, {
+    "id": "862",
+    "label": "Maskinmekaniker, industri/varvsindustri",
+    "typ": "yrke"
+}, {
+    "id": "6863",
+    "label": "Maskinmekaniker/Skogsmaskinmekaniker",
+    "typ": "yrke"
+}, {
+    "id": "863",
+    "label": "Maskinmontör",
+    "typ": "yrke"
+}, {
+    "id": "276",
+    "label": "Maskinmästare",
+    "typ": "yrke"
+}, {
+    "id": "1063",
+    "label": "Maskinoperatör, bageri",
+    "typ": "yrke"
+}, {
+    "id": "1005",
+    "label": "Maskinoperatör, fisk",
+    "typ": "yrke"
+}, {
+    "id": "1119",
+    "label": "Maskinoperatör, foder",
+    "typ": "yrke"
+}, {
+    "id": "5663",
+    "label": "Maskinoperatör, fotografiska produkter",
+    "typ": "yrke"
+}, {
+    "id": "1268",
+    "label": "Maskinoperatör, garnberedning",
+    "typ": "yrke"
+}, {
+    "id": "4163",
+    "label": "Maskinoperatör, gipsplattor",
+    "typ": "yrke"
+}, {
+    "id": "1069",
+    "label": "Maskinoperatör, gummiindustri",
+    "typ": "yrke"
+}, {
+    "id": "6389",
+    "label": "Maskinoperatör, hygienteknik",
+    "typ": "yrke"
+}, {
+    "id": "7373",
+    "label": "Maskinoperatör, hårdband",
+    "typ": "yrke"
+}, {
+    "id": "6761",
+    "label": "Maskinoperatör, juice, frukt, grönt o veg. olja",
+    "typ": "yrke"
+}, {
+    "id": "1094",
+    "label": "Maskinoperatör, konfektyrindustri",
+    "typ": "yrke"
+}, {
+    "id": "998",
+    "label": "Maskinoperatör, konservering",
+    "typ": "yrke"
+}, {
+    "id": "1000",
+    "label": "Maskinoperatör, kött",
+    "typ": "yrke"
+}, {
+    "id": "6409",
+    "label": "Maskinoperatör, läkemedel",
+    "typ": "yrke"
+}, {
+    "id": "5305",
+    "label": "Maskinoperatör, mekanisk verkstad",
+    "typ": "yrke"
+}, {
+    "id": "7374",
+    "label": "Maskinoperatör, mjukband",
+    "typ": "yrke"
+}, {
+    "id": "1014",
+    "label": "Maskinoperatör, rökning",
+    "typ": "yrke"
+}, {
+    "id": "1154",
+    "label": "Maskinoperatör, sockerindustri",
+    "typ": "yrke"
+}, {
+    "id": "929",
+    "label": "Maskinoperatör, sprängämnen och pyroteknik",
+    "typ": "yrke"
+}, {
+    "id": "1164",
+    "label": "Maskinoperatör, te-, kaffe- och kakaoberedning",
+    "typ": "yrke"
+}, {
+    "id": "1170",
+    "label": "Maskinoperatör, tobaksindustri",
+    "typ": "yrke"
+}, {
+    "id": "4829",
+    "label": "Maskinoperatör, tryckeri",
+    "typ": "yrke"
+}, {
+    "id": "5629",
+    "label": "Maskinoperatör, ytbehandling",
+    "typ": "yrke"
+}, {
+    "id": "4366",
+    "label": "Maskinoperatör, ytbehandling, trä",
+    "typ": "yrke"
+}, {
+    "id": "5619",
+    "label": "Maskinreparatör",
+    "typ": "yrke"
+}, {
+    "id": "864",
+    "label": "Maskinreparatör, stationära",
+    "typ": "yrke"
+}, {
+    "id": "4504",
+    "label": "Maskinrådgivare/Maskinkonsulent",
+    "typ": "yrke"
+}, {
+    "id": "4384",
+    "label": "Maskinskärare",
+    "typ": "yrke"
+}, {
+    "id": "3963",
+    "label": "Maskinskötare, glas",
+    "typ": "yrke"
+}, {
+    "id": "1193",
+    "label": "Maskinskötare, glasstillverkning",
+    "typ": "yrke"
+}, {
+    "id": "2164",
+    "label": "Maskinskötare, lackering",
+    "typ": "yrke"
+}, {
+    "id": "1194",
+    "label": "Maskinskötare, mejeri",
+    "typ": "yrke"
+}, {
+    "id": "3967",
+    "label": "Maskinskötare, tegelbruk",
+    "typ": "yrke"
+}, {
+    "id": "4364",
+    "label": "Maskinsnickare/Operatör, snickeri, inredning",
+    "typ": "yrke"
+}, {
+    "id": "6606",
+    "label": "Maskinsnickare/Operatör, trävaruindustri",
+    "typ": "yrke"
+}, {
+    "id": "2640",
+    "label": "Maskinställare",
+    "typ": "yrke"
+}, {
+    "id": "1297",
+    "label": "Maskinställare, textil",
+    "typ": "yrke"
+}, {
+    "id": "6752",
+    "label": "Maskinsäljare, entreprenad",
+    "typ": "yrke"
+}, {
+    "id": "279",
+    "label": "Maskintekniker, vattenverk",
+    "typ": "yrke"
+}, {
+    "id": "3107",
+    "label": "Maskinvalsare",
+    "typ": "yrke"
+}, {
+    "id": "5493",
+    "label": "Maskör/Sminkör",
+    "typ": "yrke"
+}, {
+    "id": "3979",
+    "label": "Massaberedare, keramik, tegel",
+    "typ": "yrke"
+}, {
+    "id": "7490",
+    "label": "Massaberedare, papper",
+    "typ": "yrke"
+}, {
+    "id": "645",
+    "label": "Massablekare, processoperatör",
+    "typ": "yrke"
+}, {
+    "id": "646",
+    "label": "Massakokare, processoperatör",
+    "typ": "yrke"
+}, {
+    "id": "647",
+    "label": "Massamaskinförare",
+    "typ": "yrke"
+}, {
+    "id": "6308",
+    "label": "Massör/Massageterapeut",
+    "typ": "yrke"
+}, {
+    "id": "3013",
+    "label": "Masugnsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "1835",
+    "label": "Matematiker",
+    "typ": "yrke"
+}, {
+    "id": "1446",
+    "label": "Matematisk statistiker",
+    "typ": "yrke"
+}, {
+    "id": "6801",
+    "label": "Materialkemist",
+    "typ": "yrke"
+}, {
+    "id": "177",
+    "label": "Materialplanerare",
+    "typ": "yrke"
+}, {
+    "id": "7631",
+    "label": "Materialprovare",
+    "typ": "yrke"
+}, {
+    "id": "329",
+    "label": "Materialprovare, fysik",
+    "typ": "yrke"
+}, {
+    "id": "178",
+    "label": "Materialstyrare",
+    "typ": "yrke"
+}, {
+    "id": "6198",
+    "label": "Matros",
+    "typ": "yrke"
+}, {
+    "id": "7422",
+    "label": "Matros, inre fart",
+    "typ": "yrke"
+}, {
+    "id": "1102",
+    "label": "Mattvättare",
+    "typ": "yrke"
+}, {
+    "id": "6376",
+    "label": "Mediachef",
+    "typ": "yrke"
+}, {
+    "id": "409",
+    "label": "Mediakonsulent",
+    "typ": "yrke"
+}, {
+    "id": "410",
+    "label": "Mediaplanerare",
+    "typ": "yrke"
+}, {
+    "id": "2607",
+    "label": "Mediasäljare",
+    "typ": "yrke"
+}, {
+    "id": "4484",
+    "label": "Medicinalråd",
+    "typ": "yrke"
+}, {
+    "id": "6096",
+    "label": "Medicinteknisk ingenjör",
+    "typ": "yrke"
+}, {
+    "id": "7093",
+    "label": "Mediehanterare",
+    "typ": "yrke"
+}, {
+    "id": "6122",
+    "label": "Mediepedagog",
+    "typ": "yrke"
+}, {
+    "id": "7328",
+    "label": "Medlemsvärvare, intresseorg./Telefonkommunikatör",
+    "typ": "yrke"
+}, {
+    "id": "5662",
+    "label": "Mejeriarbetare",
+    "typ": "yrke"
+}, {
+    "id": "1137",
+    "label": "Mesabrännare",
+    "typ": "yrke"
+}, {
+    "id": "3068",
+    "label": "Metallduksvävare",
+    "typ": "yrke"
+}, {
+    "id": "2849",
+    "label": "Metallkonstruktionsmontör",
+    "typ": "yrke"
+}, {
+    "id": "5942",
+    "label": "Metallsågare",
+    "typ": "yrke"
+}, {
+    "id": "6022",
+    "label": "Metalltryckare",
+    "typ": "yrke"
+}, {
+    "id": "5473",
+    "label": "Metallurg",
+    "typ": "yrke"
+}, {
+    "id": "5702",
+    "label": "Meteorolog",
+    "typ": "yrke"
+}, {
+    "id": "335",
+    "label": "Meteorologassistent/Observatör, flygvapnet",
+    "typ": "yrke"
+}, {
+    "id": "7461",
+    "label": "Meteorologisk observatör",
+    "typ": "yrke"
+}, {
+    "id": "2410",
+    "label": "Metodanalytiker, IT",
+    "typ": "yrke"
+}, {
+    "id": "2126",
+    "label": "Metodistpastor",
+    "typ": "yrke"
+}, {
+    "id": "1447",
+    "label": "Metodstatistiker",
+    "typ": "yrke"
+}, {
+    "id": "4754",
+    "label": "Mikrobiolog",
+    "typ": "yrke"
+}, {
+    "id": "1230",
+    "label": "Mikromekaniker",
+    "typ": "yrke"
+}, {
+    "id": "336",
+    "label": "Mikroskopist",
+    "typ": "yrke"
+}, {
+    "id": "5777",
+    "label": "Miljö- och hälsoskyddsinspektör",
+    "typ": "yrke"
+}, {
+    "id": "7514",
+    "label": "Miljö- och klimatstrateg",
+    "typ": "yrke"
+}, {
+    "id": "5986",
+    "label": "Miljöarbetare/Renhållningsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "6474",
+    "label": "Miljöchef",
+    "typ": "yrke"
+}, {
+    "id": "1927",
+    "label": "Miljöcontroller",
+    "typ": "yrke"
+}, {
+    "id": "427",
+    "label": "Miljöekonom",
+    "typ": "yrke"
+}, {
+    "id": "1919",
+    "label": "Miljöhandläggare",
+    "typ": "yrke"
+}, {
+    "id": "1920",
+    "label": "Miljöingenjör",
+    "typ": "yrke"
+}, {
+    "id": "1921",
+    "label": "Miljöinspektör",
+    "typ": "yrke"
+}, {
+    "id": "6182",
+    "label": "Miljöjurist",
+    "typ": "yrke"
+}, {
+    "id": "6514",
+    "label": "Miljökemist",
+    "typ": "yrke"
+}, {
+    "id": "5778",
+    "label": "Miljörevisor",
+    "typ": "yrke"
+}, {
+    "id": "1922",
+    "label": "Miljösamordnare/Miljökoordinator",
+    "typ": "yrke"
+}, {
+    "id": "1923",
+    "label": "Miljöskyddschef",
+    "typ": "yrke"
+}, {
+    "id": "1448",
+    "label": "Miljöstatistiker",
+    "typ": "yrke"
+}, {
+    "id": "6603",
+    "label": "Miljövårdsdirektör",
+    "typ": "yrke"
+}, {
+    "id": "1925",
+    "label": "Miljövårdsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "6052",
+    "label": "Mimartist",
+    "typ": "yrke"
+}, {
+    "id": "5182",
+    "label": "Mimpedagog",
+    "typ": "yrke"
+}, {
+    "id": "2018",
+    "label": "Minister",
+    "typ": "yrke"
+}, {
+    "id": "6408",
+    "label": "Missionär",
+    "typ": "yrke"
+}, {
+    "id": "3532",
+    "label": "Mixare, ljudtekniker",
+    "typ": "yrke"
+}, {
+    "id": "2813",
+    "label": "Mjuklödare",
+    "typ": "yrke"
+}, {
+    "id": "80",
+    "label": "Mjukvaruutvecklare",
+    "typ": "yrke"
+}, {
+    "id": "379",
+    "label": "Mjölkbedömare",
+    "typ": "yrke"
+}, {
+    "id": "1120",
+    "label": "Mjölnare",
+    "typ": "yrke"
+}, {
+    "id": "1325",
+    "label": "Mobilkranförare",
+    "typ": "yrke"
+}, {
+    "id": "6320",
+    "label": "Modell",
+    "typ": "yrke"
+}, {
+    "id": "4875",
+    "label": "Modellbyggare",
+    "typ": "yrke"
+}, {
+    "id": "3255",
+    "label": "Modellgjutare, keramik",
+    "typ": "yrke"
+}, {
+    "id": "4876",
+    "label": "Modellmakare",
+    "typ": "yrke"
+}, {
+    "id": "2631",
+    "label": "Modellmakare, metall",
+    "typ": "yrke"
+}, {
+    "id": "6323",
+    "label": "Modellsnickare",
+    "typ": "yrke"
+}, {
+    "id": "3256",
+    "label": "Modellör, keramik",
+    "typ": "yrke"
+}, {
+    "id": "7314",
+    "label": "Modersmålslärare i grundskolan",
+    "typ": "yrke"
+}, {
+    "id": "7313",
+    "label": "Modersmålslärare i gymnasiet",
+    "typ": "yrke"
+}, {
+    "id": "7163",
+    "label": "Modersmålslärare/Modersmålspedagog",
+    "typ": "yrke"
+}, {
+    "id": "5697",
+    "label": "Modist",
+    "typ": "yrke"
+}, {
+    "id": "4755",
+    "label": "Molekylärbiolog",
+    "typ": "yrke"
+}, {
+    "id": "5512",
+    "label": "Montör, el- och teleutrustning",
+    "typ": "yrke"
+}, {
+    "id": "5510",
+    "label": "Montör, gummi- och plastprodukter",
+    "typ": "yrke"
+}, {
+    "id": "297",
+    "label": "Montör, metallprodukter",
+    "typ": "yrke"
+}, {
+    "id": "5513",
+    "label": "Montör, papp- och textilprodukter",
+    "typ": "yrke"
+}, {
+    "id": "5511",
+    "label": "Montör, träprodukter",
+    "typ": "yrke"
+}, {
+    "id": "1404",
+    "label": "Monumentstenhuggare",
+    "typ": "yrke"
+}, {
+    "id": "7018",
+    "label": "Mopedbud",
+    "typ": "yrke"
+}, {
+    "id": "3500",
+    "label": "Motionskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "287",
+    "label": "Motorbyggare",
+    "typ": "yrke"
+}, {
+    "id": "3473",
+    "label": "Motorcykelbud",
+    "typ": "yrke"
+}, {
+    "id": "6823",
+    "label": "Motorcykelmekaniker",
+    "typ": "yrke"
+}, {
+    "id": "4098",
+    "label": "Motorelev, fartyg",
+    "typ": "yrke"
+}, {
+    "id": "6199",
+    "label": "Motorman, fartyg",
+    "typ": "yrke"
+}, {
+    "id": "288",
+    "label": "Motormontör",
+    "typ": "yrke"
+}, {
+    "id": "7218",
+    "label": "Motorschaktvagnförare",
+    "typ": "yrke"
+}, {
+    "id": "521",
+    "label": "Mudderverkskötare",
+    "typ": "yrke"
+}, {
+    "id": "5816",
+    "label": "Murare",
+    "typ": "yrke"
+}, {
+    "id": "7176",
+    "label": "Murare, utan yrkesbevis",
+    "typ": "yrke"
+}, {
+    "id": "6200",
+    "label": "Museiassistent",
+    "typ": "yrke"
+}, {
+    "id": "4459",
+    "label": "Museichef/Museidirektör",
+    "typ": "yrke"
+}, {
+    "id": "2459",
+    "label": "Museiintendent",
+    "typ": "yrke"
+}, {
+    "id": "3623",
+    "label": "Museilektor",
+    "typ": "yrke"
+}, {
+    "id": "6101",
+    "label": "Museipedagog/Museilärare",
+    "typ": "yrke"
+}, {
+    "id": "7567",
+    "label": "Museitekniker",
+    "typ": "yrke"
+}, {
+    "id": "2999",
+    "label": "Musikagent",
+    "typ": "yrke"
+}, {
+    "id": "3297",
+    "label": "Musikalartist",
+    "typ": "yrke"
+}, {
+    "id": "7083",
+    "label": "Musiker, folkmusik",
+    "typ": "yrke"
+}, {
+    "id": "7202",
+    "label": "Musiker, klassisk musik",
+    "typ": "yrke"
+}, {
+    "id": "6110",
+    "label": "Musiker, populärmusik",
+    "typ": "yrke"
+}, {
+    "id": "5064",
+    "label": "Musikförläggare",
+    "typ": "yrke"
+}, {
+    "id": "3649",
+    "label": "Musikhandledare",
+    "typ": "yrke"
+}, {
+    "id": "965",
+    "label": "Musikinstrumentmakare",
+    "typ": "yrke"
+}, {
+    "id": "3617",
+    "label": "Musikpedagog/Musiklärare",
+    "typ": "yrke"
+}, {
+    "id": "7200",
+    "label": "Musikproducent",
+    "typ": "yrke"
+}, {
+    "id": "4028",
+    "label": "Musiktekniker",
+    "typ": "yrke"
+}, {
+    "id": "1628",
+    "label": "Musikterapeut",
+    "typ": "yrke"
+}, {
+    "id": "2377",
+    "label": "Musselodlare",
+    "typ": "yrke"
+}, {
+    "id": "4756",
+    "label": "Mykolog",
+    "typ": "yrke"
+}, {
+    "id": "2079",
+    "label": "Målare",
+    "typ": "yrke"
+}, {
+    "id": "7113",
+    "label": "Måleri, servicearbetare",
+    "typ": "yrke"
+}, {
+    "id": "1183",
+    "label": "Mältare",
+    "typ": "yrke"
+}, {
+    "id": "3980",
+    "label": "Mängberedare",
+    "typ": "yrke"
+}, {
+    "id": "5489",
+    "label": "Mässman, fartyg",
+    "typ": "yrke"
+}, {
+    "id": "7309",
+    "label": "Mästare, glasbruk",
+    "typ": "yrke"
+}, {
+    "id": "2881",
+    "label": "Mätaravläsare",
+    "typ": "yrke"
+}, {
+    "id": "1231",
+    "label": "Mätarjusterare",
+    "typ": "yrke"
+}, {
+    "id": "6944",
+    "label": "Mätningschef, virkesmätning",
+    "typ": "yrke"
+}, {
+    "id": "6216",
+    "label": "Mätningsingenjör/MBK-ingenjör",
+    "typ": "yrke"
+}, {
+    "id": "4218",
+    "label": "Mätningstekniker, bygg",
+    "typ": "yrke"
+}, {
+    "id": "330",
+    "label": "Mättekniker, fysik",
+    "typ": "yrke"
+}, {
+    "id": "7411",
+    "label": "Mättekniker, kemi",
+    "typ": "yrke"
+}, {
+    "id": "2940",
+    "label": "Mättekniker, metallprodukter",
+    "typ": "yrke"
+}, {
+    "id": "2165",
+    "label": "Möbellackerare",
+    "typ": "yrke"
+}, {
+    "id": "303",
+    "label": "Möbelmontör/Inredningsmontör",
+    "typ": "yrke"
+}, {
+    "id": "4866",
+    "label": "Möbelrenoverare/Möbelrestauratör",
+    "typ": "yrke"
+}, {
+    "id": "6322",
+    "label": "Möbelsnickare",
+    "typ": "yrke"
+}, {
+    "id": "7499",
+    "label": "Mönsterkonstruktionsassistent",
+    "typ": "yrke"
+}, {
+    "id": "4387",
+    "label": "Mönsterritare, tyger",
+    "typ": "yrke"
+}, {
+    "id": "3947",
+    "label": "Mönsterslipare, glas",
+    "typ": "yrke"
+}, {
+    "id": "5439",
+    "label": "Nagelterapeut/Nagelteknolog",
+    "typ": "yrke"
+}, {
+    "id": "5747",
+    "label": "Naprapat",
+    "typ": "yrke"
+}, {
+    "id": "6040",
+    "label": "Nationalekonom",
+    "typ": "yrke"
+}, {
+    "id": "716",
+    "label": "Nattreceptionist/Nattportier",
+    "typ": "yrke"
+}, {
+    "id": "4034",
+    "label": "Naturgeograf",
+    "typ": "yrke"
+}, {
+    "id": "6104",
+    "label": "Naturskoleföreståndare",
+    "typ": "yrke"
+}, {
+    "id": "1629",
+    "label": "Naturterapeut",
+    "typ": "yrke"
+}, {
+    "id": "1926",
+    "label": "Naturvårdsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "6851",
+    "label": "Neuropsykolog",
+    "typ": "yrke"
+}, {
+    "id": "2967",
+    "label": "Notariatchef, bank",
+    "typ": "yrke"
+}, {
+    "id": "2968",
+    "label": "Notariattjänsteman, bank",
+    "typ": "yrke"
+}, {
+    "id": "3673",
+    "label": "Notskrivare",
+    "typ": "yrke"
+}, {
+    "id": "5785",
+    "label": "Nutritionist/Näringsfysiolog",
+    "typ": "yrke"
+}, {
+    "id": "7235",
+    "label": "Nyhetsgrafiker",
+    "typ": "yrke"
+}, {
+    "id": "7067",
+    "label": "Nyhetstextare",
+    "typ": "yrke"
+}, {
+    "id": "7428",
+    "label": "Nämndsekreterare",
+    "typ": "yrke"
+}, {
+    "id": "1956",
+    "label": "Näringsforskare",
+    "typ": "yrke"
+}, {
+    "id": "4954",
+    "label": "Näringsfrihetsombudsman",
+    "typ": "yrke"
+}, {
+    "id": "1866",
+    "label": "Näringskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "5075",
+    "label": "Näringslivschef",
+    "typ": "yrke"
+}, {
+    "id": "1902",
+    "label": "Näringslivssekreterare/Näringslivsutvecklare",
+    "typ": "yrke"
+}, {
+    "id": "7608",
+    "label": "Näringsterapeut",
+    "typ": "yrke"
+}, {
+    "id": "4236",
+    "label": "Nätplanerare",
+    "typ": "yrke"
+}, {
+    "id": "5645",
+    "label": "Nättillverkare",
+    "typ": "yrke"
+}, {
+    "id": "2515",
+    "label": "Nätverksadministratör",
+    "typ": "yrke"
+}, {
+    "id": "2516",
+    "label": "Nätverksansvarig",
+    "typ": "yrke"
+}, {
+    "id": "6602",
+    "label": "Nätverkskonstruktör",
+    "typ": "yrke"
+}, {
+    "id": "2519",
+    "label": "Nätverksoperatör",
+    "typ": "yrke"
+}, {
+    "id": "5912",
+    "label": "Nätverkstekniker",
+    "typ": "yrke"
+}, {
+    "id": "6118",
+    "label": "OB-assistent",
+    "typ": "yrke"
+}, {
+    "id": "5059",
+    "label": "Obduktionsbiträde",
+    "typ": "yrke"
+}, {
+    "id": "6361",
+    "label": "Obduktionstekniker/Obduktionsassistent",
+    "typ": "yrke"
+}, {
+    "id": "3718",
+    "label": "OB-tekniker",
+    "typ": "yrke"
+}, {
+    "id": "5805",
+    "label": "Oceanograf",
+    "typ": "yrke"
+}, {
+    "id": "3257",
+    "label": "Ocularist",
+    "typ": "yrke"
+}, {
+    "id": "7531",
+    "label": "Oddssättare",
+    "typ": "yrke"
+}, {
+    "id": "2988",
+    "label": "Offertberedare",
+    "typ": "yrke"
+}, {
+    "id": "2989",
+    "label": "Offertchef",
+    "typ": "yrke"
+}, {
+    "id": "2990",
+    "label": "Offertingenjör",
+    "typ": "yrke"
+}, {
+    "id": "2204",
+    "label": "Offertkontorist",
+    "typ": "yrke"
+}, {
+    "id": "5541",
+    "label": "Officer",
+    "typ": "yrke"
+}, {
+    "id": "5825",
+    "label": "Officer, Frälsningsarmén",
+    "typ": "yrke"
+}, {
+    "id": "1846",
+    "label": "Officiell veterinär",
+    "typ": "yrke"
+}, {
+    "id": "4830",
+    "label": "Offsettryckare",
+    "typ": "yrke"
+}, {
+    "id": "4082",
+    "label": "Oljesanerare",
+    "typ": "yrke"
+}, {
+    "id": "5605",
+    "label": "Ombordansvarig, tåg",
+    "typ": "yrke"
+}, {
+    "id": "5775",
+    "label": "Ombudsman",
+    "typ": "yrke"
+}, {
+    "id": "589",
+    "label": "Omprövningshandläggare, arbetslöshetskassa",
+    "typ": "yrke"
+}, {
+    "id": "2034",
+    "label": "Områdeschef, barnomsorg",
+    "typ": "yrke"
+}, {
+    "id": "2035",
+    "label": "Områdeschef, hemtjänst",
+    "typ": "yrke"
+}, {
+    "id": "6807",
+    "label": "Områdeschef, skogsbruk",
+    "typ": "yrke"
+}, {
+    "id": "2036",
+    "label": "Områdeschef, äldre- och handikappomsorg",
+    "typ": "yrke"
+}, {
+    "id": "2591",
+    "label": "Områdesförvaltare",
+    "typ": "yrke"
+}, {
+    "id": "5232",
+    "label": "Omsorgschef",
+    "typ": "yrke"
+}, {
+    "id": "1966",
+    "label": "Omsorgskurator",
+    "typ": "yrke"
+}, {
+    "id": "7351",
+    "label": "Onkologisjuksköterska",
+    "typ": "yrke"
+}, {
+    "id": "6800",
+    "label": "Oorganisk kemist",
+    "typ": "yrke"
+}, {
+    "id": "7146",
+    "label": "Operachef",
+    "typ": "yrke"
+}, {
+    "id": "5781",
+    "label": "Operationssjuksköterska",
+    "typ": "yrke"
+}, {
+    "id": "7541",
+    "label": "Operatör, gruvventilation",
+    "typ": "yrke"
+}, {
+    "id": "7599",
+    "label": "Operatör, scenmaskineri",
+    "typ": "yrke"
+}, {
+    "id": "5704",
+    "label": "Optiker",
+    "typ": "yrke"
+}, {
+    "id": "7501",
+    "label": "Optikerassistent",
+    "typ": "yrke"
+}, {
+    "id": "5949",
+    "label": "Orderadministratör",
+    "typ": "yrke"
+}, {
+    "id": "2744",
+    "label": "Orderfördelare",
+    "typ": "yrke"
+}, {
+    "id": "6329",
+    "label": "Ordermottagare",
+    "typ": "yrke"
+}, {
+    "id": "2747",
+    "label": "Orderplanerare",
+    "typ": "yrke"
+}, {
+    "id": "2482",
+    "label": "Ordningsvakt",
+    "typ": "yrke"
+}, {
+    "id": "5801",
+    "label": "Organisationschef",
+    "typ": "yrke"
+}, {
+    "id": "6597",
+    "label": "Organisationschef, kommun",
+    "typ": "yrke"
+}, {
+    "id": "5172",
+    "label": "Organisationsjurist",
+    "typ": "yrke"
+}, {
+    "id": "4731",
+    "label": "Organisationskonsult",
+    "typ": "yrke"
+}, {
+    "id": "1880",
+    "label": "Organisationssekreterare, intresseorganisation",
+    "typ": "yrke"
+}, {
+    "id": "6302",
+    "label": "Organisationsutvecklare",
+    "typ": "yrke"
+}, {
+    "id": "1840",
+    "label": "Organisk kemist",
+    "typ": "yrke"
+}, {
+    "id": "7516",
+    "label": "Organist",
+    "typ": "yrke"
+}, {
+    "id": "5636",
+    "label": "Orgelbyggare",
+    "typ": "yrke"
+}, {
+    "id": "960",
+    "label": "Orgelpipmakare",
+    "typ": "yrke"
+}, {
+    "id": "961",
+    "label": "Orgelstämmare",
+    "typ": "yrke"
+}, {
+    "id": "6149",
+    "label": "Originalare",
+    "typ": "yrke"
+}, {
+    "id": "4665",
+    "label": "Originalmontör",
+    "typ": "yrke"
+}, {
+    "id": "3827",
+    "label": "Originaltecknare",
+    "typ": "yrke"
+}, {
+    "id": "3358",
+    "label": "Orkesterledare",
+    "typ": "yrke"
+}, {
+    "id": "1375",
+    "label": "Ornamentstenhuggare",
+    "typ": "yrke"
+}, {
+    "id": "1384",
+    "label": "Ortdrivare/Tillredare",
+    "typ": "yrke"
+}, {
+    "id": "7299",
+    "label": "Ortodontiassistent",
+    "typ": "yrke"
+}, {
+    "id": "6120",
+    "label": "Ortopedingenjör",
+    "typ": "yrke"
+}, {
+    "id": "3949",
+    "label": "Ortopedskomakare",
+    "typ": "yrke"
+}, {
+    "id": "3951",
+    "label": "Ortopedskotekniker",
+    "typ": "yrke"
+}, {
+    "id": "3721",
+    "label": "Ortopedtekniker",
+    "typ": "yrke"
+}, {
+    "id": "7386",
+    "label": "Ortoptist",
+    "typ": "yrke"
+}, {
+    "id": "1630",
+    "label": "Osteopat",
+    "typ": "yrke"
+}, {
+    "id": "4326",
+    "label": "Ostmästare",
+    "typ": "yrke"
+}, {
+    "id": "5258",
+    "label": "Packare",
+    "typ": "yrke"
+}, {
+    "id": "5270",
+    "label": "Packmästare",
+    "typ": "yrke"
+}, {
+    "id": "5418",
+    "label": "Paketbilsförare",
+    "typ": "yrke"
+}, {
+    "id": "5193",
+    "label": "Paketläggare",
+    "typ": "yrke"
+}, {
+    "id": "1831",
+    "label": "Paleontolog",
+    "typ": "yrke"
+}, {
+    "id": "2843",
+    "label": "Pannplåtslagare",
+    "typ": "yrke"
+}, {
+    "id": "5888",
+    "label": "Pantlånare",
+    "typ": "yrke"
+}, {
+    "id": "659",
+    "label": "Pappersarbetare",
+    "typ": "yrke"
+}, {
+    "id": "660",
+    "label": "Pappersmaskinförare",
+    "typ": "yrke"
+}, {
+    "id": "4704",
+    "label": "Pappersskärare, bokbinderi",
+    "typ": "yrke"
+}, {
+    "id": "6248",
+    "label": "Pappersvaruarbetare",
+    "typ": "yrke"
+}, {
+    "id": "6717",
+    "label": "Parkarbetare/Utemiljöarbetare/Miljövärd",
+    "typ": "yrke"
+}, {
+    "id": "5047",
+    "label": "Parkchef",
+    "typ": "yrke"
+}, {
+    "id": "5907",
+    "label": "Parkeringsvakt",
+    "typ": "yrke"
+}, {
+    "id": "1351",
+    "label": "Parkettarbetare",
+    "typ": "yrke"
+}, {
+    "id": "2297",
+    "label": "Parkettläggare",
+    "typ": "yrke"
+}, {
+    "id": "4566",
+    "label": "Parkförman",
+    "typ": "yrke"
+}, {
+    "id": "5253",
+    "label": "Parkförvaltare",
+    "typ": "yrke"
+}, {
+    "id": "1771",
+    "label": "Partikelfysiker",
+    "typ": "yrke"
+}, {
+    "id": "7426",
+    "label": "Passagerarkoordinator",
+    "typ": "yrke"
+}, {
+    "id": "5824",
+    "label": "Pastor, frikyrkoförsamling",
+    "typ": "yrke"
+}, {
+    "id": "2117",
+    "label": "Pastorsadjunkt",
+    "typ": "yrke"
+}, {
+    "id": "5469",
+    "label": "Patentingenjör/Patentkonsult",
+    "typ": "yrke"
+}, {
+    "id": "4002",
+    "label": "Patentjurist",
+    "typ": "yrke"
+}, {
+    "id": "3825",
+    "label": "Patinerare",
+    "typ": "yrke"
+}, {
+    "id": "5428",
+    "label": "PC-koordinator",
+    "typ": "yrke"
+}, {
+    "id": "5997",
+    "label": "PC-samordnare",
+    "typ": "yrke"
+}, {
+    "id": "2071",
+    "label": "Pedagogassistent",
+    "typ": "yrke"
+}, {
+    "id": "254",
+    "label": "Pedikyrist/Pedikurist",
+    "typ": "yrke"
+}, {
+    "id": "5417",
+    "label": "Pendeltågsförare/Motorvagnsförare",
+    "typ": "yrke"
+}, {
+    "id": "2536",
+    "label": "Penningmarknadsmäklare",
+    "typ": "yrke"
+}, {
+    "id": "5290",
+    "label": "Penselmakare",
+    "typ": "yrke"
+}, {
+    "id": "7396",
+    "label": "Perfusionist",
+    "typ": "yrke"
+}, {
+    "id": "298",
+    "label": "Persiennmontör",
+    "typ": "yrke"
+}, {
+    "id": "5546",
+    "label": "Personaladministratör/Personalassistent",
+    "typ": "yrke"
+}, {
+    "id": "401",
+    "label": "Personalansvarig",
+    "typ": "yrke"
+}, {
+    "id": "6327",
+    "label": "Personalchef/HR-chef",
+    "typ": "yrke"
+}, {
+    "id": "4892",
+    "label": "Personaldirektör",
+    "typ": "yrke"
+}, {
+    "id": "4894",
+    "label": "Personalintendent",
+    "typ": "yrke"
+}, {
+    "id": "2207",
+    "label": "Personalkontorist",
+    "typ": "yrke"
+}, {
+    "id": "2208",
+    "label": "Personalredogörare",
+    "typ": "yrke"
+}, {
+    "id": "6820",
+    "label": "Personalsekreterare",
+    "typ": "yrke"
+}, {
+    "id": "6102",
+    "label": "Personalutvecklare/Personalutbildare",
+    "typ": "yrke"
+}, {
+    "id": "6241",
+    "label": "Personbilsförare",
+    "typ": "yrke"
+}, {
+    "id": "5798",
+    "label": "Personlig assistent",
+    "typ": "yrke"
+}, {
+    "id": "582",
+    "label": "Personlig handläggare, försäkringskassa",
+    "typ": "yrke"
+}, {
+    "id": "7283",
+    "label": "Personlig tränare/PT",
+    "typ": "yrke"
+}, {
+    "id": "6862",
+    "label": "Personligt ombud",
+    "typ": "yrke"
+}, {
+    "id": "2564",
+    "label": "Personskadereglerare",
+    "typ": "yrke"
+}, {
+    "id": "6669",
+    "label": "Peruk- och tupéfrisör",
+    "typ": "yrke"
+}, {
+    "id": "245",
+    "label": "Perukmakare",
+    "typ": "yrke"
+}, {
+    "id": "957",
+    "label": "Pianobyggare",
+    "typ": "yrke"
+}, {
+    "id": "958",
+    "label": "Pianostämmare",
+    "typ": "yrke"
+}, {
+    "id": "5635",
+    "label": "Pianotekniker",
+    "typ": "yrke"
+}, {
+    "id": "550",
+    "label": "Pilot/Trafikflygare/Flygkapten",
+    "typ": "yrke"
+}, {
+    "id": "553",
+    "label": "Pilot/Trafikflygare/Flygstyrman",
+    "typ": "yrke"
+}, {
+    "id": "522",
+    "label": "Pistmaskinförare",
+    "typ": "yrke"
+}, {
+    "id": "5505",
+    "label": "Pizzabagare",
+    "typ": "yrke"
+}, {
+    "id": "4329",
+    "label": "Pjäsmekaniker",
+    "typ": "yrke"
+}, {
+    "id": "6666",
+    "label": "Placeringsassistent",
+    "typ": "yrke"
+}, {
+    "id": "2537",
+    "label": "Placeringsrådgivare",
+    "typ": "yrke"
+}, {
+    "id": "3934",
+    "label": "Planare, glas",
+    "typ": "yrke"
+}, {
+    "id": "7315",
+    "label": "Planarkitekt",
+    "typ": "yrke"
+}, {
+    "id": "4982",
+    "label": "Planerare, flygbolag",
+    "typ": "yrke"
+}, {
+    "id": "5",
+    "label": "Planeringsarkitekt/Fysisk planerare",
+    "typ": "yrke"
+}, {
+    "id": "5077",
+    "label": "Planeringschef",
+    "typ": "yrke"
+}, {
+    "id": "4251",
+    "label": "Planeringsingenjör, elektronik",
+    "typ": "yrke"
+}, {
+    "id": "4237",
+    "label": "Planeringsingenjör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "91",
+    "label": "Planeringsingenjör, el-tele",
+    "typ": "yrke"
+}, {
+    "id": "4285",
+    "label": "Planeringsingenjör, kemiteknik",
+    "typ": "yrke"
+}, {
+    "id": "4269",
+    "label": "Planeringsingenjör, maskin",
+    "typ": "yrke"
+}, {
+    "id": "4311",
+    "label": "Planeringsingenjör, textil, trä, glas, förpackn.",
+    "typ": "yrke"
+}, {
+    "id": "2209",
+    "label": "Planeringskontorist",
+    "typ": "yrke"
+}, {
+    "id": "4286",
+    "label": "Planeringstekniker, kemiteknik",
+    "typ": "yrke"
+}, {
+    "id": "4298",
+    "label": "Planeringstekniker, metallurgi",
+    "typ": "yrke"
+}, {
+    "id": "4312",
+    "label": "Planeringstekniker, textil, glas, trä, förpackn.",
+    "typ": "yrke"
+}, {
+    "id": "4369",
+    "label": "Planhyvlare, trä",
+    "typ": "yrke"
+}, {
+    "id": "3935",
+    "label": "Planslipare, glas",
+    "typ": "yrke"
+}, {
+    "id": "7243",
+    "label": "Plantskolearbetare, skog",
+    "typ": "yrke"
+}, {
+    "id": "5124",
+    "label": "Plantskolechef",
+    "typ": "yrke"
+}, {
+    "id": "2339",
+    "label": "Plantör",
+    "typ": "yrke"
+}, {
+    "id": "1772",
+    "label": "Plasmafysiker",
+    "typ": "yrke"
+}, {
+    "id": "5640",
+    "label": "Plastarbetare",
+    "typ": "yrke"
+}, {
+    "id": "974",
+    "label": "Plastbåtbyggare",
+    "typ": "yrke"
+}, {
+    "id": "975",
+    "label": "Plastgjutare",
+    "typ": "yrke"
+}, {
+    "id": "976",
+    "label": "Plasthärdare",
+    "typ": "yrke"
+}, {
+    "id": "977",
+    "label": "Plastimpregnerare",
+    "typ": "yrke"
+}, {
+    "id": "978",
+    "label": "Plastmaskinoperatör",
+    "typ": "yrke"
+}, {
+    "id": "299",
+    "label": "Plastmontör",
+    "typ": "yrke"
+}, {
+    "id": "980",
+    "label": "Plastreparatör",
+    "typ": "yrke"
+}, {
+    "id": "983",
+    "label": "Plastsvetsare",
+    "typ": "yrke"
+}, {
+    "id": "984",
+    "label": "Plastvaruarbetare",
+    "typ": "yrke"
+}, {
+    "id": "7254",
+    "label": "Platschef, anläggning",
+    "typ": "yrke"
+}, {
+    "id": "7307",
+    "label": "Platschef, bilprovning",
+    "typ": "yrke"
+}, {
+    "id": "5055",
+    "label": "Platschef, bygg",
+    "typ": "yrke"
+}, {
+    "id": "7234",
+    "label": "Platschef, film/TV",
+    "typ": "yrke"
+}, {
+    "id": "696",
+    "label": "Platschef, reseföretag",
+    "typ": "yrke"
+}, {
+    "id": "5129",
+    "label": "Platschef/Områdeschef, försäkringskassa",
+    "typ": "yrke"
+}, {
+    "id": "7233",
+    "label": "Platskoordinator",
+    "typ": "yrke"
+}, {
+    "id": "7625",
+    "label": "Platsletare, film/Location scout",
+    "typ": "yrke"
+}, {
+    "id": "6407",
+    "label": "Plattsättare",
+    "typ": "yrke"
+}, {
+    "id": "7177",
+    "label": "Plattsättare, utan yrkesbevis",
+    "typ": "yrke"
+}, {
+    "id": "1054",
+    "label": "Plysare",
+    "typ": "yrke"
+}, {
+    "id": "1352",
+    "label": "Plywoodarbetare",
+    "typ": "yrke"
+}, {
+    "id": "7366",
+    "label": "Plåtbearbetare",
+    "typ": "yrke"
+}, {
+    "id": "4107",
+    "label": "Plåtriktare",
+    "typ": "yrke"
+}, {
+    "id": "7430",
+    "label": "Podiater/Podiatriker",
+    "typ": "yrke"
+}, {
+    "id": "4877",
+    "label": "Polerare, trä",
+    "typ": "yrke"
+}, {
+    "id": "7639",
+    "label": "Polisaspirant",
+    "typ": "yrke"
+}, {
+    "id": "3464",
+    "label": "Polisassistent",
+    "typ": "yrke"
+}, {
+    "id": "4486",
+    "label": "Polisintendent",
+    "typ": "yrke"
+}, {
+    "id": "4487",
+    "label": "Polismästare",
+    "typ": "yrke"
+}, {
+    "id": "4488",
+    "label": "Polissekreterare",
+    "typ": "yrke"
+}, {
+    "id": "1326",
+    "label": "Pontonkranförare",
+    "typ": "yrke"
+}, {
+    "id": "4071",
+    "label": "Porslinsdekoratör",
+    "typ": "yrke"
+}, {
+    "id": "3258",
+    "label": "Porslinsgjutare",
+    "typ": "yrke"
+}, {
+    "id": "4072",
+    "label": "Porslinsmålare",
+    "typ": "yrke"
+}, {
+    "id": "3260",
+    "label": "Porslinsputsare",
+    "typ": "yrke"
+}, {
+    "id": "3261",
+    "label": "Porslinsslipare",
+    "typ": "yrke"
+}, {
+    "id": "1327",
+    "label": "Portalkranförare",
+    "typ": "yrke"
+}, {
+    "id": "2141",
+    "label": "Postterminalarbetare",
+    "typ": "yrke"
+}, {
+    "id": "5121",
+    "label": "PR-chef",
+    "typ": "yrke"
+}, {
+    "id": "3234",
+    "label": "Preparator",
+    "typ": "yrke"
+}, {
+    "id": "6857",
+    "label": "Prepressoperatör",
+    "typ": "yrke"
+}, {
+    "id": "1105",
+    "label": "Pressare, kläder",
+    "typ": "yrke"
+}, {
+    "id": "1353",
+    "label": "Pressare, spånskivor",
+    "typ": "yrke"
+}, {
+    "id": "1354",
+    "label": "Pressare, träfiber, spånskivor",
+    "typ": "yrke"
+}, {
+    "id": "4831",
+    "label": "Pressbiträde",
+    "typ": "yrke"
+}, {
+    "id": "5122",
+    "label": "Presschef",
+    "typ": "yrke"
+}, {
+    "id": "3886",
+    "label": "Pressekreterare",
+    "typ": "yrke"
+}, {
+    "id": "3007",
+    "label": "Pressgjutare",
+    "typ": "yrke"
+}, {
+    "id": "2621",
+    "label": "Pressmed",
+    "typ": "yrke"
+}, {
+    "id": "6888",
+    "label": "Pressoperatör",
+    "typ": "yrke"
+}, {
+    "id": "1967",
+    "label": "Primärvårdskurator",
+    "typ": "yrke"
+}, {
+    "id": "2749",
+    "label": "Prissättare",
+    "typ": "yrke"
+}, {
+    "id": "6296",
+    "label": "Privatbokbindare",
+    "typ": "yrke"
+}, {
+    "id": "5911",
+    "label": "Privatdetektiv",
+    "typ": "yrke"
+}, {
+    "id": "428",
+    "label": "Privatekonom",
+    "typ": "yrke"
+}, {
+    "id": "6008",
+    "label": "Privatekonomisk rådgivare",
+    "typ": "yrke"
+}, {
+    "id": "411",
+    "label": "PR-konsult",
+    "typ": "yrke"
+}, {
+    "id": "412",
+    "label": "PR-man",
+    "typ": "yrke"
+}, {
+    "id": "7477",
+    "label": "Processansvarig, ITIL",
+    "typ": "yrke"
+}, {
+    "id": "69",
+    "label": "Processingenjör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "92",
+    "label": "Processingenjör, el-tele",
+    "typ": "yrke"
+}, {
+    "id": "192",
+    "label": "Processingenjör, gruv",
+    "typ": "yrke"
+}, {
+    "id": "6594",
+    "label": "Processingenjör, kemiteknik",
+    "typ": "yrke"
+}, {
+    "id": "120",
+    "label": "Processingenjör, maskin",
+    "typ": "yrke"
+}, {
+    "id": "203",
+    "label": "Processingenjör, metallurgi",
+    "typ": "yrke"
+}, {
+    "id": "1841",
+    "label": "Processkemist",
+    "typ": "yrke"
+}, {
+    "id": "4150",
+    "label": "Processoperatör, asfalt",
+    "typ": "yrke"
+}, {
+    "id": "4146",
+    "label": "Processoperatör, betong",
+    "typ": "yrke"
+}, {
+    "id": "1184",
+    "label": "Processoperatör, bryggeri",
+    "typ": "yrke"
+}, {
+    "id": "6206",
+    "label": "Processoperatör, cementtillverkning",
+    "typ": "yrke"
+}, {
+    "id": "6175",
+    "label": "Processoperatör, glas",
+    "typ": "yrke"
+}, {
+    "id": "5626",
+    "label": "Processoperatör, kemisk industri",
+    "typ": "yrke"
+}, {
+    "id": "1121",
+    "label": "Processoperatör, kvarn",
+    "typ": "yrke"
+}, {
+    "id": "5981",
+    "label": "Processoperatör, malmanrikning",
+    "typ": "yrke"
+}, {
+    "id": "1195",
+    "label": "Processoperatör, mejeri",
+    "typ": "yrke"
+}, {
+    "id": "7520",
+    "label": "Processoperatör, metallindustri",
+    "typ": "yrke"
+}, {
+    "id": "5589",
+    "label": "Processoperatör, papper",
+    "typ": "yrke"
+}, {
+    "id": "5588",
+    "label": "Processoperatör, pappersmassa",
+    "typ": "yrke"
+}, {
+    "id": "7335",
+    "label": "Processoperatör, smältverk",
+    "typ": "yrke"
+}, {
+    "id": "6018",
+    "label": "Processoperatör, stålindustri",
+    "typ": "yrke"
+}, {
+    "id": "6021",
+    "label": "Processoperatör, värmebehandling",
+    "typ": "yrke"
+}, {
+    "id": "7529",
+    "label": "Processtekniker, gjuteri",
+    "typ": "yrke"
+}, {
+    "id": "7521",
+    "label": "Processtekniker, tillverkningsindustri",
+    "typ": "yrke"
+}, {
+    "id": "7321",
+    "label": "Processtekniker, vattenrening",
+    "typ": "yrke"
+}, {
+    "id": "7410",
+    "label": "Processutvecklare, kemi",
+    "typ": "yrke"
+}, {
+    "id": "7047",
+    "label": "Producent: kultur, media, film",
+    "typ": "yrke"
+}, {
+    "id": "413",
+    "label": "Produktchef, marknadsföring",
+    "typ": "yrke"
+}, {
+    "id": "6168",
+    "label": "Produktionsassistent",
+    "typ": "yrke"
+}, {
+    "id": "7255",
+    "label": "Produktionschef, anläggning",
+    "typ": "yrke"
+}, {
+    "id": "6358",
+    "label": "Produktionschef, bygg",
+    "typ": "yrke"
+}, {
+    "id": "7550",
+    "label": "Produktionschef, Posten",
+    "typ": "yrke"
+}, {
+    "id": "5538",
+    "label": "Produktionschef, tillverkning",
+    "typ": "yrke"
+}, {
+    "id": "7064",
+    "label": "Produktionsekonom",
+    "typ": "yrke"
+}, {
+    "id": "6593",
+    "label": "Produktionsingenjör, bygg",
+    "typ": "yrke"
+}, {
+    "id": "6221",
+    "label": "Produktionsingenjör, elektronik",
+    "typ": "yrke"
+}, {
+    "id": "6592",
+    "label": "Produktionsingenjör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "5474",
+    "label": "Produktionsingenjör, gjuteri",
+    "typ": "yrke"
+}, {
+    "id": "193",
+    "label": "Produktionsingenjör, gruv",
+    "typ": "yrke"
+}, {
+    "id": "6234",
+    "label": "Produktionsingenjör, gruv, metallurgi",
+    "typ": "yrke"
+}, {
+    "id": "7409",
+    "label": "Produktionsingenjör, kemi",
+    "typ": "yrke"
+}, {
+    "id": "6591",
+    "label": "Produktionsingenjör, maskin",
+    "typ": "yrke"
+}, {
+    "id": "6590",
+    "label": "Produktionsingenjör, textil, trä, glas, förpackn",
+    "typ": "yrke"
+}, {
+    "id": "7232",
+    "label": "Produktionskoordinator",
+    "typ": "yrke"
+}, {
+    "id": "7551",
+    "label": "Produktionsledare, Posten",
+    "typ": "yrke"
+}, {
+    "id": "7492",
+    "label": "Produktionsledare, tillverkningsindustri",
+    "typ": "yrke"
+}, {
+    "id": "5016",
+    "label": "Produktionsledare: kultur, media, film",
+    "typ": "yrke"
+}, {
+    "id": "7493",
+    "label": "Produktionsplanerare, tillverkningsindustri",
+    "typ": "yrke"
+}, {
+    "id": "3888",
+    "label": "Produktionsplanerare: kultur, media, film",
+    "typ": "yrke"
+}, {
+    "id": "3909",
+    "label": "Produktionssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "7002",
+    "label": "Produktionstekniker, maskin/verkstad",
+    "typ": "yrke"
+}, {
+    "id": "373",
+    "label": "Produktionstekniker, petroleumutvinning",
+    "typ": "yrke"
+}, {
+    "id": "5038",
+    "label": "Produktområdeschef, järnväg",
+    "typ": "yrke"
+}, {
+    "id": "7498",
+    "label": "Produkttekniker, konfektion",
+    "typ": "yrke"
+}, {
+    "id": "161",
+    "label": "Produktutvecklare",
+    "typ": "yrke"
+}, {
+    "id": "7500",
+    "label": "Produktutvecklare, konfektion",
+    "typ": "yrke"
+}, {
+    "id": "6170",
+    "label": "Professionell idrottsutövare",
+    "typ": "yrke"
+}, {
+    "id": "7269",
+    "label": "Professor",
+    "typ": "yrke"
+}, {
+    "id": "1440",
+    "label": "Prognosmeteorolog",
+    "typ": "yrke"
+}, {
+    "id": "3703",
+    "label": "Programledare",
+    "typ": "yrke"
+}, {
+    "id": "7432",
+    "label": "Programmerare, konsolspel",
+    "typ": "yrke"
+}, {
+    "id": "7433",
+    "label": "Programmerare, mobilspel",
+    "typ": "yrke"
+}, {
+    "id": "7570",
+    "label": "Programmerare, onlinespel",
+    "typ": "yrke"
+}, {
+    "id": "7431",
+    "label": "Programmerare, PC-spel",
+    "typ": "yrke"
+}, {
+    "id": "7435",
+    "label": "Programmerare, webbspel",
+    "typ": "yrke"
+}, {
+    "id": "3704",
+    "label": "Programpresentatör",
+    "typ": "yrke"
+}, {
+    "id": "3910",
+    "label": "Programsekreterare",
+    "typ": "yrke"
+}, {
+    "id": "6113",
+    "label": "Programvärd/Programvärdinna",
+    "typ": "yrke"
+}, {
+    "id": "7484",
+    "label": "Projekteringsingenjör, bygg och anläggning",
+    "typ": "yrke"
+}, {
+    "id": "57",
+    "label": "Projekteringsingenjör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "7485",
+    "label": "Projekteringsingenjör, el-tele och elektronik",
+    "typ": "yrke"
+}, {
+    "id": "7487",
+    "label": "Projekteringsingenjör, gruv och metallurgi",
+    "typ": "yrke"
+}, {
+    "id": "7486",
+    "label": "Projekteringsingenjör, maskin",
+    "typ": "yrke"
+}, {
+    "id": "3719",
+    "label": "Projektionist",
+    "typ": "yrke"
+}, {
+    "id": "7649",
+    "label": "Projektledare, bygg och anläggning",
+    "typ": "yrke"
+}, {
+    "id": "5388",
+    "label": "Projektledare, IT",
+    "typ": "yrke"
+}, {
+    "id": "5324",
+    "label": "Projektledare, reklam",
+    "typ": "yrke"
+}, {
+    "id": "7148",
+    "label": "Projektledare: kultur, media, film",
+    "typ": "yrke"
+}, {
+    "id": "7116",
+    "label": "Prorektor",
+    "typ": "yrke"
+}, {
+    "id": "4225",
+    "label": "Provningsingenjör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "101",
+    "label": "Provningsingenjör, el-tele",
+    "typ": "yrke"
+}, {
+    "id": "127",
+    "label": "Provningsingenjör, maskin",
+    "typ": "yrke"
+}, {
+    "id": "6411",
+    "label": "Provsmakare",
+    "typ": "yrke"
+}, {
+    "id": "6777",
+    "label": "Prydnadsväxtodlare",
+    "typ": "yrke"
+}, {
+    "id": "2706",
+    "label": "Präglare, metall",
+    "typ": "yrke"
+}, {
+    "id": "5829",
+    "label": "Präst, annat trossamfund",
+    "typ": "yrke"
+}, {
+    "id": "5827",
+    "label": "Präst, grekisk-ortodox kyrka",
+    "typ": "yrke"
+}, {
+    "id": "5826",
+    "label": "Präst, romersk-katolsk kyrka",
+    "typ": "yrke"
+}, {
+    "id": "1479",
+    "label": "Psykoanalytiker",
+    "typ": "yrke"
+}, {
+    "id": "5709",
+    "label": "Psykolog",
+    "typ": "yrke"
+}, {
+    "id": "5710",
+    "label": "Psykoterapeut",
+    "typ": "yrke"
+}, {
+    "id": "7292",
+    "label": "PTP-psykolog",
+    "typ": "yrke"
+}, {
+    "id": "7662",
+    "label": "Publikvärd",
+    "typ": "yrke"
+}, {
+    "id": "2880",
+    "label": "Pumpman, oljeborrning",
+    "typ": "yrke"
+}, {
+    "id": "866",
+    "label": "Pumpmontör",
+    "typ": "yrke"
+}, {
+    "id": "867",
+    "label": "Pumpreparatör",
+    "typ": "yrke"
+}, {
+    "id": "2210",
+    "label": "Punktskriftskontorist",
+    "typ": "yrke"
+}, {
+    "id": "2695",
+    "label": "Punktsvetsare",
+    "typ": "yrke"
+}, {
+    "id": "265",
+    "label": "Påklädare",
+    "typ": "yrke"
+}, {
+    "id": "511",
+    "label": "Pålmaskinförare",
+    "typ": "yrke"
+}, {
+    "id": "4398",
+    "label": "Påsmaskinskötare",
+    "typ": "yrke"
+}, {
+    "id": "6342",
+    "label": "Pälsdjursskötare",
+    "typ": "yrke"
+}, {
+    "id": "4971",
+    "label": "Pälsdjursuppfödare",
+    "typ": "yrke"
+}, {
+    "id": "3413",
+    "label": "Pälsskinnberedare",
+    "typ": "yrke"
+}, {
+    "id": "4344",
+    "label": "Pälssömmerska",
+    "typ": "yrke"
+}, {
+    "id": "5828",
+    "label": "Rabbin",
+    "typ": "yrke"
+}, {
+    "id": "3517",
+    "label": "Radio Officer",
+    "typ": "yrke"
+}, {
+    "id": "3519",
+    "label": "Radioexpeditör",
+    "typ": "yrke"
+}, {
+    "id": "1773",
+    "label": "Radiofysiker",
+    "typ": "yrke"
+}, {
+    "id": "7603",
+    "label": "Radiolokförare",
+    "typ": "yrke"
+}, {
+    "id": "7571",
+    "label": "Radioloksoperatör",
+    "typ": "yrke"
+}, {
+    "id": "4994",
+    "label": "Rampagent",
+    "typ": "yrke"
+}, {
+    "id": "4983",
+    "label": "Rampförman, flygplats",
+    "typ": "yrke"
+}, {
+    "id": "7539",
+    "label": "Raslastare",
+    "typ": "yrke"
+}, {
+    "id": "7071",
+    "label": "Recensent",
+    "typ": "yrke"
+}, {
+    "id": "5597",
+    "label": "Receptionist, telefonist",
+    "typ": "yrke"
+}, {
+    "id": "5595",
+    "label": "Receptionschef",
+    "typ": "yrke"
+}, {
+    "id": "7068",
+    "label": "Redaktionsassistent",
+    "typ": "yrke"
+}, {
+    "id": "5065",
+    "label": "Redaktionschef",
+    "typ": "yrke"
+}, {
+    "id": "3327",
+    "label": "Redaktionssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "3328",
+    "label": "Redaktör",
+    "typ": "yrke"
+}, {
+    "id": "2776",
+    "label": "Rederiagent",
+    "typ": "yrke"
+}, {
+    "id": "6153",
+    "label": "Redigerare",
+    "typ": "yrke"
+}, {
+    "id": "3076",
+    "label": "Redovisningsassistent",
+    "typ": "yrke"
+}, {
+    "id": "5078",
+    "label": "Redovisningschef",
+    "typ": "yrke"
+}, {
+    "id": "5989",
+    "label": "Redovisningsekonom",
+    "typ": "yrke"
+}, {
+    "id": "6854",
+    "label": "Redovisningskonsult",
+    "typ": "yrke"
+}, {
+    "id": "2900",
+    "label": "Redovisningsman",
+    "typ": "yrke"
+}, {
+    "id": "3404",
+    "label": "Regiassistent",
+    "typ": "yrke"
+}, {
+    "id": "5095",
+    "label": "Regionchef, butik",
+    "typ": "yrke"
+}, {
+    "id": "5094",
+    "label": "Regionchef, försäkring",
+    "typ": "yrke"
+}, {
+    "id": "5048",
+    "label": "Regionchef, skogsbruk",
+    "typ": "yrke"
+}, {
+    "id": "6067",
+    "label": "Regissör",
+    "typ": "yrke"
+}, {
+    "id": "5968",
+    "label": "Registrator",
+    "typ": "yrke"
+}, {
+    "id": "6017",
+    "label": "Reglerare, masugn",
+    "typ": "yrke"
+}, {
+    "id": "3030",
+    "label": "Reglerare, stålverk",
+    "typ": "yrke"
+}, {
+    "id": "3110",
+    "label": "Reglerare, valsverk",
+    "typ": "yrke"
+}, {
+    "id": "1085",
+    "label": "Regummerare",
+    "typ": "yrke"
+}, {
+    "id": "6840",
+    "label": "Rehabhandläggare",
+    "typ": "yrke"
+}, {
+    "id": "1496",
+    "label": "Rehabiliteringsassistent",
+    "typ": "yrke"
+}, {
+    "id": "4816",
+    "label": "Reklamassistent",
+    "typ": "yrke"
+}, {
+    "id": "4891",
+    "label": "Reklamationshandläggare",
+    "typ": "yrke"
+}, {
+    "id": "5123",
+    "label": "Reklamchef",
+    "typ": "yrke"
+}, {
+    "id": "4043",
+    "label": "Reklamdesigner",
+    "typ": "yrke"
+}, {
+    "id": "2675",
+    "label": "Reklamdistributör/Reklamutdelare",
+    "typ": "yrke"
+}, {
+    "id": "414",
+    "label": "Reklamkonsulent",
+    "typ": "yrke"
+}, {
+    "id": "415",
+    "label": "Reklamman",
+    "typ": "yrke"
+}, {
+    "id": "2802",
+    "label": "Reklamsekreterare",
+    "typ": "yrke"
+}, {
+    "id": "3855",
+    "label": "Reklamtextare",
+    "typ": "yrke"
+}, {
+    "id": "5404",
+    "label": "Rekryterare/Rekryteringskonsult",
+    "typ": "yrke"
+}, {
+    "id": "3422",
+    "label": "Rektor",
+    "typ": "yrke"
+}, {
+    "id": "6164",
+    "label": "Rekvisitör",
+    "typ": "yrke"
+}, {
+    "id": "7089",
+    "label": "Rekvisitörsassistent",
+    "typ": "yrke"
+}, {
+    "id": "7134",
+    "label": "Relationsmarknadsförare",
+    "typ": "yrke"
+}, {
+    "id": "6691",
+    "label": "Renhållningsförare",
+    "typ": "yrke"
+}, {
+    "id": "524",
+    "label": "Renhållningsmaskinförare",
+    "typ": "yrke"
+}, {
+    "id": "7329",
+    "label": "Renserioperatör",
+    "typ": "yrke"
+}, {
+    "id": "4868",
+    "label": "Reparationssnickare",
+    "typ": "yrke"
+}, {
+    "id": "3359",
+    "label": "Repetitör",
+    "typ": "yrke"
+}, {
+    "id": "4669",
+    "label": "Reprofotograf",
+    "typ": "yrke"
+}, {
+    "id": "1047",
+    "label": "Repslagare",
+    "typ": "yrke"
+}, {
+    "id": "6440",
+    "label": "Researcher, rekrytering",
+    "typ": "yrke"
+}, {
+    "id": "691",
+    "label": "Resebyråassistent",
+    "typ": "yrke"
+}, {
+    "id": "5109",
+    "label": "Resebyråchef",
+    "typ": "yrke"
+}, {
+    "id": "693",
+    "label": "Resehandläggare",
+    "typ": "yrke"
+}, {
+    "id": "5593",
+    "label": "Reseledare",
+    "typ": "yrke"
+}, {
+    "id": "5416",
+    "label": "Resemontör, maskin",
+    "typ": "yrke"
+}, {
+    "id": "5924",
+    "label": "Reseproducent",
+    "typ": "yrke"
+}, {
+    "id": "7582",
+    "label": "Reservdelschef",
+    "typ": "yrke"
+}, {
+    "id": "2280",
+    "label": "Reservdelsspecialist/Bildelsspecialist",
+    "typ": "yrke"
+}, {
+    "id": "5314",
+    "label": "Resesäljare/Reseförsäljare/Resekonsulent",
+    "typ": "yrke"
+}, {
+    "id": "5555",
+    "label": "Restaurangbiträde",
+    "typ": "yrke"
+}, {
+    "id": "5544",
+    "label": "Restaurangchef",
+    "typ": "yrke"
+}, {
+    "id": "4175",
+    "label": "Restauranginspektör",
+    "typ": "yrke"
+}, {
+    "id": "4673",
+    "label": "Retuschör",
+    "typ": "yrke"
+}, {
+    "id": "2893",
+    "label": "Revisionsbiträde",
+    "typ": "yrke"
+}, {
+    "id": "1243",
+    "label": "Revisionschef",
+    "typ": "yrke"
+}, {
+    "id": "5670",
+    "label": "Revisor",
+    "typ": "yrke"
+}, {
+    "id": "5988",
+    "label": "Revisorsassistent",
+    "typ": "yrke"
+}, {
+    "id": "2924",
+    "label": "Revolversvarvare",
+    "typ": "yrke"
+}, {
+    "id": "7642",
+    "label": "Ridinstruktör/Ridlärare",
+    "typ": "yrke"
+}, {
+    "id": "2641",
+    "label": "Riggare, verktygsmaskiner",
+    "typ": "yrke"
+}, {
+    "id": "4450",
+    "label": "Riksantikvarie",
+    "typ": "yrke"
+}, {
+    "id": "4451",
+    "label": "Riksarkivarie",
+    "typ": "yrke"
+}, {
+    "id": "6518",
+    "label": "Riksbibliotekarie",
+    "typ": "yrke"
+}, {
+    "id": "6586",
+    "label": "Riksdagsledamot",
+    "typ": "yrke"
+}, {
+    "id": "5962",
+    "label": "Riksdagsstenograf",
+    "typ": "yrke"
+}, {
+    "id": "6585",
+    "label": "Riksgäldsdirektör",
+    "typ": "yrke"
+}, {
+    "id": "4956",
+    "label": "Rikspolischef",
+    "typ": "yrke"
+}, {
+    "id": "4957",
+    "label": "Riksåklagare",
+    "typ": "yrke"
+}, {
+    "id": "4109",
+    "label": "Ringverksarbetare",
+    "typ": "yrke"
+}, {
+    "id": "5921",
+    "label": "Riskbedömare",
+    "typ": "yrke"
+}, {
+    "id": "2574",
+    "label": "Riskingenjör, försäkring",
+    "typ": "yrke"
+}, {
+    "id": "7565",
+    "label": "Riskingenjör, risk management",
+    "typ": "yrke"
+}, {
+    "id": "4248",
+    "label": "Ritare, elektronik",
+    "typ": "yrke"
+}, {
+    "id": "4226",
+    "label": "Ritare, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "4262",
+    "label": "Ritare, maskin",
+    "typ": "yrke"
+}, {
+    "id": "4308",
+    "label": "Ritare, textil, trä, glas, förpackning",
+    "typ": "yrke"
+}, {
+    "id": "2351",
+    "label": "Rivningsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "868",
+    "label": "Robotmontör",
+    "typ": "yrke"
+}, {
+    "id": "7008",
+    "label": "Robotoperatör",
+    "typ": "yrke"
+}, {
+    "id": "2697",
+    "label": "Robotsvetsare",
+    "typ": "yrke"
+}, {
+    "id": "6672",
+    "label": "Roddare/Roadie",
+    "typ": "yrke"
+}, {
+    "id": "7605",
+    "label": "Rosenterapeut",
+    "typ": "yrke"
+}, {
+    "id": "399",
+    "label": "Rostskyddsbehandlare",
+    "typ": "yrke"
+}, {
+    "id": "7231",
+    "label": "Rostskyddsmålare",
+    "typ": "yrke"
+}, {
+    "id": "667",
+    "label": "Rullare, papper",
+    "typ": "yrke"
+}, {
+    "id": "4833",
+    "label": "Rulloffsettryckare",
+    "typ": "yrke"
+}, {
+    "id": "806",
+    "label": "Rulltrappmontör",
+    "typ": "yrke"
+}, {
+    "id": "703",
+    "label": "Rundtursguide",
+    "typ": "yrke"
+}, {
+    "id": "6525",
+    "label": "Rymdingenjör",
+    "typ": "yrke"
+}, {
+    "id": "3139",
+    "label": "Rådman",
+    "typ": "yrke"
+}, {
+    "id": "3416",
+    "label": "Råhudsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "5233",
+    "label": "Räddningschef",
+    "typ": "yrke"
+}, {
+    "id": "6773",
+    "label": "Räddningsledare, statlig räddningstjänst",
+    "typ": "yrke"
+}, {
+    "id": "6759",
+    "label": "Ränteanalytiker",
+    "typ": "yrke"
+}, {
+    "id": "3303",
+    "label": "Rättssociolog",
+    "typ": "yrke"
+}, {
+    "id": "3197",
+    "label": "Rättstolk",
+    "typ": "yrke"
+}, {
+    "id": "2858",
+    "label": "Röjdykare",
+    "typ": "yrke"
+}, {
+    "id": "5784",
+    "label": "Röntgensjuksköterska",
+    "typ": "yrke"
+}, {
+    "id": "3590",
+    "label": "Röntgentekniker",
+    "typ": "yrke"
+}, {
+    "id": "4110",
+    "label": "Rörbockare",
+    "typ": "yrke"
+}, {
+    "id": "3051",
+    "label": "Rördragare",
+    "typ": "yrke"
+}, {
+    "id": "7650",
+    "label": "Rörinfodrare",
+    "typ": "yrke"
+}, {
+    "id": "4111",
+    "label": "Rörriktare",
+    "typ": "yrke"
+}, {
+    "id": "3709",
+    "label": "Röstpedagog",
+    "typ": "yrke"
+}, {
+    "id": "7660",
+    "label": "SAD (Second assistant director)",
+    "typ": "yrke"
+}, {
+    "id": "6192",
+    "label": "Sadelmakare",
+    "typ": "yrke"
+}, {
+    "id": "3212",
+    "label": "Samhällsekonom",
+    "typ": "yrke"
+}, {
+    "id": "1905",
+    "label": "Samhällsplanerare",
+    "typ": "yrke"
+}, {
+    "id": "7532",
+    "label": "Samhällsvägledare",
+    "typ": "yrke"
+}, {
+    "id": "7536",
+    "label": "Samplingspersonal",
+    "typ": "yrke"
+}, {
+    "id": "6852",
+    "label": "Samtalsterapeut",
+    "typ": "yrke"
+}, {
+    "id": "3008",
+    "label": "Sandberedare, gjuteri",
+    "typ": "yrke"
+}, {
+    "id": "4436",
+    "label": "Sandwichman",
+    "typ": "yrke"
+}, {
+    "id": "6197",
+    "label": "Saneringsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "6523",
+    "label": "Satellitoperatör",
+    "typ": "yrke"
+}, {
+    "id": "6187",
+    "label": "Scannertekniker/Scanneroperatör",
+    "typ": "yrke"
+}, {
+    "id": "3902",
+    "label": "Scenförman",
+    "typ": "yrke"
+}, {
+    "id": "6166",
+    "label": "Scenmästare",
+    "typ": "yrke"
+}, {
+    "id": "6258",
+    "label": "Scenograf",
+    "typ": "yrke"
+}, {
+    "id": "3903",
+    "label": "Scentekniker",
+    "typ": "yrke"
+}, {
+    "id": "4682",
+    "label": "Schablontillverkare, screentryck",
+    "typ": "yrke"
+}, {
+    "id": "1385",
+    "label": "Schaktsänkare",
+    "typ": "yrke"
+}, {
+    "id": "6297",
+    "label": "Screentryckare",
+    "typ": "yrke"
+}, {
+    "id": "6167",
+    "label": "Scripta",
+    "typ": "yrke"
+}, {
+    "id": "5699",
+    "label": "Segelmakare",
+    "typ": "yrke"
+}, {
+    "id": "1832",
+    "label": "Seismolog",
+    "typ": "yrke"
+}, {
+    "id": "5966",
+    "label": "Sekreterare",
+    "typ": "yrke"
+}, {
+    "id": "1453",
+    "label": "Sektionschef, sjukhus",
+    "typ": "yrke"
+}, {
+    "id": "3838",
+    "label": "Serietecknare",
+    "typ": "yrke"
+}, {
+    "id": "592",
+    "label": "Servicechef, bilverkstad",
+    "typ": "yrke"
+}, {
+    "id": "4781",
+    "label": "Serviceelektriker, installation",
+    "typ": "yrke"
+}, {
+    "id": "2053",
+    "label": "Servicehusföreståndare",
+    "typ": "yrke"
+}, {
+    "id": "6223",
+    "label": "Serviceingenjör, elektronik",
+    "typ": "yrke"
+}, {
+    "id": "4241",
+    "label": "Serviceingenjör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "6233",
+    "label": "Serviceingenjör, kemiteknik",
+    "typ": "yrke"
+}, {
+    "id": "6228",
+    "label": "Serviceingenjör, maskin",
+    "typ": "yrke"
+}, {
+    "id": "4301",
+    "label": "Serviceingenjör, metallurgi",
+    "typ": "yrke"
+}, {
+    "id": "7400",
+    "label": "Servicetekniker, data",
+    "typ": "yrke"
+}, {
+    "id": "4259",
+    "label": "Servicetekniker, elektronik",
+    "typ": "yrke"
+}, {
+    "id": "4242",
+    "label": "Servicetekniker, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "5306",
+    "label": "Servicetekniker, kontorsmaskiner",
+    "typ": "yrke"
+}, {
+    "id": "4278",
+    "label": "Servicetekniker, maskin",
+    "typ": "yrke"
+}, {
+    "id": "7544",
+    "label": "Servicetekniker, tåg",
+    "typ": "yrke"
+}, {
+    "id": "5487",
+    "label": "Servitör/Servitris",
+    "typ": "yrke"
+}, {
+    "id": "235",
+    "label": "Servitör/Servitris, fartyg",
+    "typ": "yrke"
+}, {
+    "id": "5490",
+    "label": "Servitör/Servitris, kafé och konditori",
+    "typ": "yrke"
+}, {
+    "id": "7382",
+    "label": "SFI-lärare",
+    "typ": "yrke"
+}, {
+    "id": "7473",
+    "label": "Shiatsuterapeut",
+    "typ": "yrke"
+}, {
+    "id": "2894",
+    "label": "Siffergranskare",
+    "typ": "yrke"
+}, {
+    "id": "105",
+    "label": "Signalingenjör",
+    "typ": "yrke"
+}, {
+    "id": "6889",
+    "label": "Signalman",
+    "typ": "yrke"
+}, {
+    "id": "817",
+    "label": "Signaltekniker",
+    "typ": "yrke"
+}, {
+    "id": "1122",
+    "label": "Siloarbetare",
+    "typ": "yrke"
+}, {
+    "id": "875",
+    "label": "Silversmed",
+    "typ": "yrke"
+}, {
+    "id": "389",
+    "label": "Simhallsföreståndare",
+    "typ": "yrke"
+}, {
+    "id": "2902",
+    "label": "Simhallsvakt",
+    "typ": "yrke"
+}, {
+    "id": "3014",
+    "label": "Sintare",
+    "typ": "yrke"
+}, {
+    "id": "3032",
+    "label": "Sinterblandare",
+    "typ": "yrke"
+}, {
+    "id": "6748",
+    "label": "Sjukhusdiakon",
+    "typ": "yrke"
+}, {
+    "id": "6398",
+    "label": "Sjukhusdirektör",
+    "typ": "yrke"
+}, {
+    "id": "1774",
+    "label": "Sjukhusfysiker",
+    "typ": "yrke"
+}, {
+    "id": "3591",
+    "label": "Sjukhusingenjör",
+    "typ": "yrke"
+}, {
+    "id": "1842",
+    "label": "Sjukhuskemist",
+    "typ": "yrke"
+}, {
+    "id": "1968",
+    "label": "Sjukhuskurator",
+    "typ": "yrke"
+}, {
+    "id": "2118",
+    "label": "Sjukhuspräst",
+    "typ": "yrke"
+}, {
+    "id": "462",
+    "label": "Sjukhusstädare",
+    "typ": "yrke"
+}, {
+    "id": "3724",
+    "label": "Sjukhustandtekniker",
+    "typ": "yrke"
+}, {
+    "id": "3592",
+    "label": "Sjukhustekniker",
+    "typ": "yrke"
+}, {
+    "id": "6766",
+    "label": "Sjukhusvaktmästare",
+    "typ": "yrke"
+}, {
+    "id": "1823",
+    "label": "Sjuksköterska, barnavårdscentral",
+    "typ": "yrke"
+}, {
+    "id": "1954",
+    "label": "Sjuksköterska, diagnostisk radiologi",
+    "typ": "yrke"
+}, {
+    "id": "7352",
+    "label": "Sjuksköterska, geriatrisk vård",
+    "typ": "yrke"
+}, {
+    "id": "7296",
+    "label": "Sjuksköterska, grundutbildad",
+    "typ": "yrke"
+}, {
+    "id": "5780",
+    "label": "Sjuksköterska, medicin och kirurgi",
+    "typ": "yrke"
+}, {
+    "id": "5783",
+    "label": "Sjuksköterska, psykiatrisk vård",
+    "typ": "yrke"
+}, {
+    "id": "7244",
+    "label": "Sjuksköterska, äldreomsorg och -vård/geriatrik",
+    "typ": "yrke"
+}, {
+    "id": "1462",
+    "label": "Sjuktransportör",
+    "typ": "yrke"
+}, {
+    "id": "5707",
+    "label": "Sjukvårdsbiträde",
+    "typ": "yrke"
+}, {
+    "id": "3198",
+    "label": "Sjukvårdstolk",
+    "typ": "yrke"
+}, {
+    "id": "3711",
+    "label": "Sjöbevakningsassistent",
+    "typ": "yrke"
+}, {
+    "id": "7583",
+    "label": "Sjöfartskontrollant/Hamnskyddskontrollant",
+    "typ": "yrke"
+}, {
+    "id": "7562",
+    "label": "Skadedjurstekniker",
+    "typ": "yrke"
+}, {
+    "id": "2571",
+    "label": "Skadeingenjör, försäkring",
+    "typ": "yrke"
+}, {
+    "id": "5919",
+    "label": "Skadereglerare",
+    "typ": "yrke"
+}, {
+    "id": "2573",
+    "label": "Skadetekniker",
+    "typ": "yrke"
+}, {
+    "id": "4489",
+    "label": "Skattedirektör",
+    "typ": "yrke"
+}, {
+    "id": "5691",
+    "label": "Skattehandläggare",
+    "typ": "yrke"
+}, {
+    "id": "6029",
+    "label": "Skattejurist",
+    "typ": "yrke"
+}, {
+    "id": "2211",
+    "label": "Skeppningsassistent",
+    "typ": "yrke"
+}, {
+    "id": "2777",
+    "label": "Skeppningschef",
+    "typ": "yrke"
+}, {
+    "id": "2212",
+    "label": "Skeppningskontorist",
+    "typ": "yrke"
+}, {
+    "id": "2769",
+    "label": "Skeppningsplanerare",
+    "typ": "yrke"
+}, {
+    "id": "5953",
+    "label": "Skeppsklarerare/Waterclerk",
+    "typ": "yrke"
+}, {
+    "id": "5958",
+    "label": "Skeppsmäklare",
+    "typ": "yrke"
+}, {
+    "id": "362",
+    "label": "Skeppsmätare",
+    "typ": "yrke"
+}, {
+    "id": "7641",
+    "label": "Skidinstruktör/Skidlärare",
+    "typ": "yrke"
+}, {
+    "id": "5686",
+    "label": "Skidliftskötare",
+    "typ": "yrke"
+}, {
+    "id": "7655",
+    "label": "Skidliftvärd",
+    "typ": "yrke"
+}, {
+    "id": "7136",
+    "label": "Skidpatrullör/Pistör",
+    "typ": "yrke"
+}, {
+    "id": "1405",
+    "label": "Skifferbrottarbetare",
+    "typ": "yrke"
+}, {
+    "id": "3417",
+    "label": "Skinnfärgare",
+    "typ": "yrke"
+}, {
+    "id": "1429",
+    "label": "Skinnsömmerska",
+    "typ": "yrke"
+}, {
+    "id": "3052",
+    "label": "Skivställare",
+    "typ": "yrke"
+}, {
+    "id": "5643",
+    "label": "Skofabriksarbetare",
+    "typ": "yrke"
+}, {
+    "id": "6959",
+    "label": "Skogsarbetare, motormanuell avverkning",
+    "typ": "yrke"
+}, {
+    "id": "6957",
+    "label": "Skogsarbetare, plantering",
+    "typ": "yrke"
+}, {
+    "id": "6958",
+    "label": "Skogsarbetare, röjning",
+    "typ": "yrke"
+}, {
+    "id": "7162",
+    "label": "Skogsbrukare",
+    "typ": "yrke"
+}, {
+    "id": "4517",
+    "label": "Skogsbruksforskare",
+    "typ": "yrke"
+}, {
+    "id": "6951",
+    "label": "Skogsbruksinstruktör",
+    "typ": "yrke"
+}, {
+    "id": "4708",
+    "label": "Skogsbruksrådgivare",
+    "typ": "yrke"
+}, {
+    "id": "6949",
+    "label": "Skogsekonom",
+    "typ": "yrke"
+}, {
+    "id": "6953",
+    "label": "Skogsförvaltare",
+    "typ": "yrke"
+}, {
+    "id": "4707",
+    "label": "Skogsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "6946",
+    "label": "Skogsinspektor",
+    "typ": "yrke"
+}, {
+    "id": "4521",
+    "label": "Skogskonsulent/Skogsvårdskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "5558",
+    "label": "Skogsmaskinförare",
+    "typ": "yrke"
+}, {
+    "id": "7458",
+    "label": "Skogsmästare",
+    "typ": "yrke"
+}, {
+    "id": "6948",
+    "label": "Skogsplanläggare",
+    "typ": "yrke"
+}, {
+    "id": "6693",
+    "label": "Skogstransportförare",
+    "typ": "yrke"
+}, {
+    "id": "6954",
+    "label": "Skogsvårdschef",
+    "typ": "yrke"
+}, {
+    "id": "6952",
+    "label": "Skogsvärderare",
+    "typ": "yrke"
+}, {
+    "id": "5840",
+    "label": "Skolassistent",
+    "typ": "yrke"
+}, {
+    "id": "2453",
+    "label": "Skolbibliotekarie",
+    "typ": "yrke"
+}, {
+    "id": "3423",
+    "label": "Skolchef",
+    "typ": "yrke"
+}, {
+    "id": "3424",
+    "label": "Skoldirektör",
+    "typ": "yrke"
+}, {
+    "id": "3426",
+    "label": "Skolinspektör",
+    "typ": "yrke"
+}, {
+    "id": "3605",
+    "label": "Skolkonsulent",
+    "typ": "yrke"
+}, {
+    "id": "1969",
+    "label": "Skolkurator",
+    "typ": "yrke"
+}, {
+    "id": "6073",
+    "label": "Skolledare",
+    "typ": "yrke"
+}, {
+    "id": "5479",
+    "label": "Skolmåltidsföreståndare",
+    "typ": "yrke"
+}, {
+    "id": "1474",
+    "label": "Skolpsykolog",
+    "typ": "yrke"
+}, {
+    "id": "1908",
+    "label": "Skolsekreterare",
+    "typ": "yrke"
+}, {
+    "id": "1824",
+    "label": "Skolsköterska",
+    "typ": "yrke"
+}, {
+    "id": "5886",
+    "label": "Skolvaktmästare",
+    "typ": "yrke"
+}, {
+    "id": "1544",
+    "label": "Skolvärd/Skolvärdinna",
+    "typ": "yrke"
+}, {
+    "id": "6174",
+    "label": "Skomakare/Skoreparatör",
+    "typ": "yrke"
+}, {
+    "id": "4437",
+    "label": "Skoputsare",
+    "typ": "yrke"
+}, {
+    "id": "6196",
+    "label": "Skorstensfejare/Sotare",
+    "typ": "yrke"
+}, {
+    "id": "5309",
+    "label": "Skorstensfejarmästare",
+    "typ": "yrke"
+}, {
+    "id": "4076",
+    "label": "Skorstensfejartekniker",
+    "typ": "yrke"
+}, {
+    "id": "7194",
+    "label": "Skorstenstätare",
+    "typ": "yrke"
+}, {
+    "id": "500",
+    "label": "Skotarförare, skogsbruk",
+    "typ": "yrke"
+}, {
+    "id": "3202",
+    "label": "Skrivtolk/Vuxendövtolk",
+    "typ": "yrke"
+}, {
+    "id": "1386",
+    "label": "Skrotare",
+    "typ": "yrke"
+}, {
+    "id": "5443",
+    "label": "Skrovbyggare, trä",
+    "typ": "yrke"
+}, {
+    "id": "5698",
+    "label": "Skräddare",
+    "typ": "yrke"
+}, {
+    "id": "6047",
+    "label": "Skulptör",
+    "typ": "yrke"
+}, {
+    "id": "986",
+    "label": "Skumplastarbetare",
+    "typ": "yrke"
+}, {
+    "id": "566",
+    "label": "Skyddsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "7259",
+    "label": "Skyddsrumsinspektör",
+    "typ": "yrke"
+}, {
+    "id": "2486",
+    "label": "Skyddsvakt",
+    "typ": "yrke"
+}, {
+    "id": "4019",
+    "label": "Skyltgravör",
+    "typ": "yrke"
+}, {
+    "id": "4020",
+    "label": "Skylttillverkare",
+    "typ": "yrke"
+}, {
+    "id": "6051",
+    "label": "Skådespelare",
+    "typ": "yrke"
+}, {
+    "id": "3037",
+    "label": "Skänkskötare",
+    "typ": "yrke"
+}, {
+    "id": "501",
+    "label": "Skördarförare, skogsbruk",
+    "typ": "yrke"
+}, {
+    "id": "5873",
+    "label": "Skördearbetare",
+    "typ": "yrke"
+}, {
+    "id": "7298",
+    "label": "Skötare",
+    "typ": "yrke"
+}, {
+    "id": "5500",
+    "label": "Slaktare",
+    "typ": "yrke"
+}, {
+    "id": "7593",
+    "label": "Slaktmästare",
+    "typ": "yrke"
+}, {
+    "id": "5933",
+    "label": "Slipare, metall",
+    "typ": "yrke"
+}, {
+    "id": "4371",
+    "label": "Slipare, snickeri",
+    "typ": "yrke"
+}, {
+    "id": "3981",
+    "label": "Slipmaterialarbetare",
+    "typ": "yrke"
+}, {
+    "id": "3982",
+    "label": "Slipskiveformare",
+    "typ": "yrke"
+}, {
+    "id": "3983",
+    "label": "Slipverktygsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "3984",
+    "label": "Slipverktygsoperatör",
+    "typ": "yrke"
+}, {
+    "id": "3985",
+    "label": "Slipverktygstillverkare",
+    "typ": "yrke"
+}, {
+    "id": "5909",
+    "label": "Slussvakt",
+    "typ": "yrke"
+}, {
+    "id": "3221",
+    "label": "Slöjdare",
+    "typ": "yrke"
+}, {
+    "id": "5927",
+    "label": "Smed",
+    "typ": "yrke"
+}, {
+    "id": "2624",
+    "label": "Smidesmekaniker",
+    "typ": "yrke"
+}, {
+    "id": "2625",
+    "label": "Smidesoperatör",
+    "typ": "yrke"
+}, {
+    "id": "5046",
+    "label": "Smådjursskötare",
+    "typ": "yrke"
+}, {
+    "id": "7549",
+    "label": "Småmaskinsmekaniker",
+    "typ": "yrke"
+}, {
+    "id": "3964",
+    "label": "Smältare, glas",
+    "typ": "yrke"
+}, {
+    "id": "7471",
+    "label": "Smältare/Smältverksoperatör",
+    "typ": "yrke"
+}, {
+    "id": "3986",
+    "label": "Smärgelduksarbetare",
+    "typ": "yrke"
+}, {
+    "id": "1874",
+    "label": "Smärtsjuksköterska",
+    "typ": "yrke"
+}, {
+    "id": "4372",
+    "label": "Snickerimaskinskötare",
+    "typ": "yrke"
+}, {
+    "id": "7656",
+    "label": "Snöläggare",
+    "typ": "yrke"
+}, {
+    "id": "1048",
+    "label": "Snörmakare",
+    "typ": "yrke"
+}, {
+    "id": "2890",
+    "label": "Snöskottare",
+    "typ": "yrke"
+}, {
+    "id": "6191",
+    "label": "Socialantropolog",
+    "typ": "yrke"
+}, {
+    "id": "5234",
+    "label": "Socialchef",
+    "typ": "yrke"
+}, {
+    "id": "5235",
+    "label": "Socialdirektör",
+    "typ": "yrke"
+}, {
+    "id": "5807",
+    "label": "Socialkonsulent, Arbetsförmedlingen",
+    "typ": "yrke"
+}, {
+    "id": "5757",
+    "label": "Socialsekreterare",
+    "typ": "yrke"
+}, {
+    "id": "6054",
+    "label": "Sociolog",
+    "typ": "yrke"
+}, {
+    "id": "7502",
+    "label": "Socionom",
+    "typ": "yrke"
+}, {
+    "id": "1790",
+    "label": "Socioterapeut",
+    "typ": "yrke"
+}, {
+    "id": "6579",
+    "label": "Sodahusoperatör",
+    "typ": "yrke"
+}, {
+    "id": "243",
+    "label": "Solarievärd/Solarievärdinna",
+    "typ": "yrke"
+}, {
+    "id": "7525",
+    "label": "Soldat/Sjöman",
+    "typ": "yrke"
+}, {
+    "id": "6326",
+    "label": "Soliditetsupplysare",
+    "typ": "yrke"
+}, {
+    "id": "300",
+    "label": "Solskyddsmontör",
+    "typ": "yrke"
+}, {
+    "id": "1306",
+    "label": "Solvare",
+    "typ": "yrke"
+}, {
+    "id": "236",
+    "label": "Sommelier",
+    "typ": "yrke"
+}, {
+    "id": "2861",
+    "label": "Sorteringsverksskötare, stenkross",
+    "typ": "yrke"
+}, {
+    "id": "5393",
+    "label": "SOS-operatör",
+    "typ": "yrke"
+}, {
+    "id": "224",
+    "label": "Souschef",
+    "typ": "yrke"
+}, {
+    "id": "6535",
+    "label": "Spa- och kurterapeut",
+    "typ": "yrke"
+}, {
+    "id": "3418",
+    "label": "Spaltmästare, garveri",
+    "typ": "yrke"
+}, {
+    "id": "1123",
+    "label": "Spannmålsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "1124",
+    "label": "Spannmålstorkare",
+    "typ": "yrke"
+}, {
+    "id": "7505",
+    "label": "Spannramsförare",
+    "typ": "yrke"
+}, {
+    "id": "7238",
+    "label": "Specialistläkare",
+    "typ": "yrke"
+}, {
+    "id": "7526",
+    "label": "Specialistofficer",
+    "typ": "yrke"
+}, {
+    "id": "1573",
+    "label": "Specialisttandläkare",
+    "typ": "yrke"
+}, {
+    "id": "5483",
+    "label": "Specialkock",
+    "typ": "yrke"
+}, {
+    "id": "7403",
+    "label": "Speciallärare",
+    "typ": "yrke"
+}, {
+    "id": "6656",
+    "label": "Specialpedagog",
+    "typ": "yrke"
+}, {
+    "id": "6689",
+    "label": "Specialtransportförare",
+    "typ": "yrke"
+}, {
+    "id": "5839",
+    "label": "Speditionsassistent",
+    "typ": "yrke"
+}, {
+    "id": "5119",
+    "label": "Speditionschef",
+    "typ": "yrke"
+}, {
+    "id": "2756",
+    "label": "Speditionsförman",
+    "typ": "yrke"
+}, {
+    "id": "2757",
+    "label": "Speditionstjänsteman",
+    "typ": "yrke"
+}, {
+    "id": "5952",
+    "label": "Speditör",
+    "typ": "yrke"
+}, {
+    "id": "7437",
+    "label": "Speldesigner",
+    "typ": "yrke"
+}, {
+    "id": "7436",
+    "label": "Speltestare",
+    "typ": "yrke"
+}, {
+    "id": "4113",
+    "label": "Spikmaskinskötare",
+    "typ": "yrke"
+}, {
+    "id": "3507",
+    "label": "Sportchef",
+    "typ": "yrke"
+}, {
+    "id": "4650",
+    "label": "Sporthallsvaktmästare",
+    "typ": "yrke"
+}, {
+    "id": "3509",
+    "label": "Sportledare",
+    "typ": "yrke"
+}, {
+    "id": "1138",
+    "label": "Sprayare",
+    "typ": "yrke"
+}, {
+    "id": "7195",
+    "label": "Sprinklermontör",
+    "typ": "yrke"
+}, {
+    "id": "1185",
+    "label": "Spritberedare",
+    "typ": "yrke"
+}, {
+    "id": "3204",
+    "label": "Språkforskare",
+    "typ": "yrke"
+}, {
+    "id": "6676",
+    "label": "Språkteknolog",
+    "typ": "yrke"
+}, {
+    "id": "931",
+    "label": "Sprängämnesarbetare",
+    "typ": "yrke"
+}, {
+    "id": "2730",
+    "label": "Spårsvetsare",
+    "typ": "yrke"
+}, {
+    "id": "5671",
+    "label": "Spårvagnsförare",
+    "typ": "yrke"
+}, {
+    "id": "6786",
+    "label": "Spärrexpeditör/Spärrvakt",
+    "typ": "yrke"
+}, {
+    "id": "7464",
+    "label": "SQE Supplier Quality Engineer",
+    "typ": "yrke"
+}, {
+    "id": "1252",
+    "label": "SSA-sekreterare",
+    "typ": "yrke"
+}, {
+    "id": "3996",
+    "label": "Stadsadvokat",
+    "typ": "yrke"
+}, {
+    "id": "6576",
+    "label": "Stadsarkivarie",
+    "typ": "yrke"
+}, {
+    "id": "5236",
+    "label": "Stadsbyggnadschef",
+    "typ": "yrke"
+}, {
+    "id": "5237",
+    "label": "Stadsbyggnadsdirektör",
+    "typ": "yrke"
+}, {
+    "id": "6575",
+    "label": "Stadsdirektör",
+    "typ": "yrke"
+}, {
+    "id": "3997",
+    "label": "Stadsjurist",
+    "typ": "yrke"
+}, {
+    "id": "3999",
+    "label": "Stadsombudsman",
+    "typ": "yrke"
+}, {
+    "id": "4000",
+    "label": "Stadssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "5049",
+    "label": "Stadsträdgårdsmästare",
+    "typ": "yrke"
+}, {
+    "id": "1859",
+    "label": "Stadsveterinär",
+    "typ": "yrke"
+}, {
+    "id": "4598",
+    "label": "Stallchef/Stallförman",
+    "typ": "yrke"
+}, {
+    "id": "162",
+    "label": "Standardiseringsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "76",
+    "label": "Standardiseringsingenjör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "3690",
+    "label": "Stand-up-komiker",
+    "typ": "yrke"
+}, {
+    "id": "1030",
+    "label": "Stansare, skor",
+    "typ": "yrke"
+}, {
+    "id": "2827",
+    "label": "Stansare, tunnplåt",
+    "typ": "yrke"
+}, {
+    "id": "4021",
+    "label": "Stansgravör",
+    "typ": "yrke"
+}, {
+    "id": "2888",
+    "label": "Stationsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "5040",
+    "label": "Stationschef, flyg",
+    "typ": "yrke"
+}, {
+    "id": "277",
+    "label": "Stationsmontör",
+    "typ": "yrke"
+}, {
+    "id": "858",
+    "label": "Stationsmontör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "6787",
+    "label": "Stationsvärd",
+    "typ": "yrke"
+}, {
+    "id": "6574",
+    "label": "Stationär väktare/Receptionsväktare",
+    "typ": "yrke"
+}, {
+    "id": "7659",
+    "label": "Statist",
+    "typ": "yrke"
+}, {
+    "id": "5703",
+    "label": "Statistiker",
+    "typ": "yrke"
+}, {
+    "id": "2215",
+    "label": "Statistikkontorist",
+    "typ": "yrke"
+}, {
+    "id": "4453",
+    "label": "Statsheraldiker",
+    "typ": "yrke"
+}, {
+    "id": "7355",
+    "label": "Statssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "3153",
+    "label": "Statsåklagare",
+    "typ": "yrke"
+}, {
+    "id": "1406",
+    "label": "Stenarbetare",
+    "typ": "yrke"
+}, {
+    "id": "1407",
+    "label": "Stenbildhuggare",
+    "typ": "yrke"
+}, {
+    "id": "1392",
+    "label": "Stenborrare",
+    "typ": "yrke"
+}, {
+    "id": "1408",
+    "label": "Stenborrare, stenbrott",
+    "typ": "yrke"
+}, {
+    "id": "7380",
+    "label": "Stenbrottsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "1409",
+    "label": "Stenbrytare",
+    "typ": "yrke"
+}, {
+    "id": "5692",
+    "label": "Stengravör",
+    "typ": "yrke"
+}, {
+    "id": "1410",
+    "label": "Stenhuggare",
+    "typ": "yrke"
+}, {
+    "id": "5980",
+    "label": "Stenkrosskötare",
+    "typ": "yrke"
+}, {
+    "id": "2862",
+    "label": "Stenkrossmaskinist",
+    "typ": "yrke"
+}, {
+    "id": "2863",
+    "label": "Stenkrossmatare",
+    "typ": "yrke"
+}, {
+    "id": "6209",
+    "label": "Stenmaskinskötare",
+    "typ": "yrke"
+}, {
+    "id": "7188",
+    "label": "Stenmontör",
+    "typ": "yrke"
+}, {
+    "id": "7178",
+    "label": "Stenmontör, utan yrkesbevis",
+    "typ": "yrke"
+}, {
+    "id": "2803",
+    "label": "Stenograf",
+    "typ": "yrke"
+}, {
+    "id": "4167",
+    "label": "Stenslipare",
+    "typ": "yrke"
+}, {
+    "id": "4168",
+    "label": "Stensvarvare",
+    "typ": "yrke"
+}, {
+    "id": "4169",
+    "label": "Stensågare",
+    "typ": "yrke"
+}, {
+    "id": "5868",
+    "label": "Stensättare",
+    "typ": "yrke"
+}, {
+    "id": "7353",
+    "label": "Steriltekniker/Undersköterska, sterilcentral",
+    "typ": "yrke"
+}, {
+    "id": "1311",
+    "label": "Stickare, textilindustri",
+    "typ": "yrke"
+}, {
+    "id": "2120",
+    "label": "Stiftsadjunkt",
+    "typ": "yrke"
+}, {
+    "id": "2070",
+    "label": "Stiftsdiakon",
+    "typ": "yrke"
+}, {
+    "id": "1387",
+    "label": "Stigortsdrivare",
+    "typ": "yrke"
+}, {
+    "id": "7237",
+    "label": "ST-läkare",
+    "typ": "yrke"
+}, {
+    "id": "7346",
+    "label": "Stomiterapeut",
+    "typ": "yrke"
+}, {
+    "id": "210",
+    "label": "Storhushållsföreståndare",
+    "typ": "yrke"
+}, {
+    "id": "2903",
+    "label": "Strandvakt",
+    "typ": "yrke"
+}, {
+    "id": "6802",
+    "label": "Strukturkemist",
+    "typ": "yrke"
+}, {
+    "id": "1775",
+    "label": "Strålningsfysiker",
+    "typ": "yrke"
+}, {
+    "id": "3041",
+    "label": "Stränggjutare, stålverk",
+    "typ": "yrke"
+}, {
+    "id": "5632",
+    "label": "Stränginstrumentmakare",
+    "typ": "yrke"
+}, {
+    "id": "4115",
+    "label": "Strängpressare, metall",
+    "typ": "yrke"
+}, {
+    "id": "987",
+    "label": "Strängsprutare",
+    "typ": "yrke"
+}, {
+    "id": "7300",
+    "label": "ST-tandläkare",
+    "typ": "yrke"
+}, {
+    "id": "6319",
+    "label": "Stuckatör",
+    "typ": "yrke"
+}, {
+    "id": "1253",
+    "label": "Studie- och yrkesvägledare",
+    "typ": "yrke"
+}, {
+    "id": "2780",
+    "label": "Studieadministratör",
+    "typ": "yrke"
+}, {
+    "id": "2781",
+    "label": "Studieassistent",
+    "typ": "yrke"
+}, {
+    "id": "3607",
+    "label": "Studieinstruktör",
+    "typ": "yrke"
+}, {
+    "id": "2782",
+    "label": "Studiekonsulent",
+    "typ": "yrke"
+}, {
+    "id": "3651",
+    "label": "Studieledare",
+    "typ": "yrke"
+}, {
+    "id": "2783",
+    "label": "Studieorganisatör",
+    "typ": "yrke"
+}, {
+    "id": "3427",
+    "label": "Studierektor",
+    "typ": "yrke"
+}, {
+    "id": "2784",
+    "label": "Studiesekreterare",
+    "typ": "yrke"
+}, {
+    "id": "5675",
+    "label": "Studievägledare",
+    "typ": "yrke"
+}, {
+    "id": "3901",
+    "label": "Studioman",
+    "typ": "yrke"
+}, {
+    "id": "4029",
+    "label": "Studiotekniker",
+    "typ": "yrke"
+}, {
+    "id": "6165",
+    "label": "Studiovärdinna",
+    "typ": "yrke"
+}, {
+    "id": "2312",
+    "label": "Stuguthyrare",
+    "typ": "yrke"
+}, {
+    "id": "726",
+    "label": "Stugvärd",
+    "typ": "yrke"
+}, {
+    "id": "3584",
+    "label": "Stuntman",
+    "typ": "yrke"
+}, {
+    "id": "4601",
+    "label": "Stuteriarbetare",
+    "typ": "yrke"
+}, {
+    "id": "4997",
+    "label": "Stuveriförman",
+    "typ": "yrke"
+}, {
+    "id": "5501",
+    "label": "Styckare",
+    "typ": "yrke"
+}, {
+    "id": "267",
+    "label": "Styckmästare",
+    "typ": "yrke"
+}, {
+    "id": "252",
+    "label": "Stylist",
+    "typ": "yrke"
+}, {
+    "id": "6573",
+    "label": "Styr- och reglertekniker",
+    "typ": "yrke"
+}, {
+    "id": "7377",
+    "label": "Stålbyggare",
+    "typ": "yrke"
+}, {
+    "id": "4022",
+    "label": "Stålgravör",
+    "typ": "yrke"
+}, {
+    "id": "4697",
+    "label": "Stålsticksgravör",
+    "typ": "yrke"
+}, {
+    "id": "464",
+    "label": "Städare/Lokalvårdare",
+    "typ": "yrke"
+}, {
+    "id": "5587",
+    "label": "Städchef",
+    "typ": "yrke"
+}, {
+    "id": "5814",
+    "label": "Ställningsbyggare",
+    "typ": "yrke"
+}, {
+    "id": "7180",
+    "label": "Ställningsbyggare, utan yrkesbevis",
+    "typ": "yrke"
+}, {
+    "id": "5617",
+    "label": "Ställverksmontör",
+    "typ": "yrke"
+}, {
+    "id": "6551",
+    "label": "Stämningsman",
+    "typ": "yrke"
+}, {
+    "id": "7446",
+    "label": "Stängselmontör",
+    "typ": "yrke"
+}, {
+    "id": "6259",
+    "label": "Sufflör",
+    "typ": "yrke"
+}, {
+    "id": "6692",
+    "label": "Sug- och spolbilsförare",
+    "typ": "yrke"
+}, {
+    "id": "2926",
+    "label": "Supportsvarvare",
+    "typ": "yrke"
+}, {
+    "id": "3065",
+    "label": "Supporttryckare",
+    "typ": "yrke"
+}, {
+    "id": "6000",
+    "label": "Svarvare",
+    "typ": "yrke"
+}, {
+    "id": "7070",
+    "label": "Svensktextare",
+    "typ": "yrke"
+}, {
+    "id": "5945",
+    "label": "Svetsare, manuell",
+    "typ": "yrke"
+}, {
+    "id": "139",
+    "label": "Svetsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "2698",
+    "label": "Svetsoperatör/Automatsvetsare",
+    "typ": "yrke"
+}, {
+    "id": "845",
+    "label": "Symaskinsreparatör",
+    "typ": "yrke"
+}, {
+    "id": "1989",
+    "label": "Synkonsulent",
+    "typ": "yrke"
+}, {
+    "id": "7510",
+    "label": "Synpedagog",
+    "typ": "yrke"
+}, {
+    "id": "7445",
+    "label": "Syntolk",
+    "typ": "yrke"
+}, {
+    "id": "2918",
+    "label": "Systemadministratör",
+    "typ": "yrke"
+}, {
+    "id": "2411",
+    "label": "Systemanalytiker/Systemutredare",
+    "typ": "yrke"
+}, {
+    "id": "5996",
+    "label": "Systemansvarig",
+    "typ": "yrke"
+}, {
+    "id": "7601",
+    "label": "Systemarkitekt",
+    "typ": "yrke"
+}, {
+    "id": "2413",
+    "label": "Systemdesigner",
+    "typ": "yrke"
+}, {
+    "id": "2919",
+    "label": "Systemförvaltare",
+    "typ": "yrke"
+}, {
+    "id": "4834",
+    "label": "Systemoperatör, tryckeri",
+    "typ": "yrke"
+}, {
+    "id": "2601",
+    "label": "Systemsäljare",
+    "typ": "yrke"
+}, {
+    "id": "5422",
+    "label": "Systemtestare",
+    "typ": "yrke"
+}, {
+    "id": "2419",
+    "label": "Systemutvecklare/Programmerare",
+    "typ": "yrke"
+}, {
+    "id": "760",
+    "label": "Sågare",
+    "typ": "yrke"
+}, {
+    "id": "762",
+    "label": "Sågoperatör",
+    "typ": "yrke"
+}, {
+    "id": "763",
+    "label": "Sågverksarbetare",
+    "typ": "yrke"
+}, {
+    "id": "5600",
+    "label": "Sågverksoperatör",
+    "typ": "yrke"
+}, {
+    "id": "7201",
+    "label": "Sångare, folkmusik",
+    "typ": "yrke"
+}, {
+    "id": "3346",
+    "label": "Sångare, klassisk musik",
+    "typ": "yrke"
+}, {
+    "id": "6109",
+    "label": "Sångare, populärmusik",
+    "typ": "yrke"
+}, {
+    "id": "6572",
+    "label": "Sångpedagog",
+    "typ": "yrke"
+}, {
+    "id": "4399",
+    "label": "Säckmaskinskötare",
+    "typ": "yrke"
+}, {
+    "id": "2718",
+    "label": "Säkerhetsadministratör, IT",
+    "typ": "yrke"
+}, {
+    "id": "2719",
+    "label": "Säkerhetsanalytiker, IT",
+    "typ": "yrke"
+}, {
+    "id": "2720",
+    "label": "Säkerhetsansvarig, IT",
+    "typ": "yrke"
+}, {
+    "id": "6377",
+    "label": "Säkerhetschef",
+    "typ": "yrke"
+}, {
+    "id": "568",
+    "label": "Säkerhetsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "6997",
+    "label": "Säkerhetsmontör",
+    "typ": "yrke"
+}, {
+    "id": "6771",
+    "label": "Säkerhetsrådgivare",
+    "typ": "yrke"
+}, {
+    "id": "2489",
+    "label": "Säkerhetsvakt",
+    "typ": "yrke"
+}, {
+    "id": "4918",
+    "label": "Säljassistent",
+    "typ": "yrke"
+}, {
+    "id": "2609",
+    "label": "Säljkonsulent",
+    "typ": "yrke"
+}, {
+    "id": "2610",
+    "label": "Säljledare",
+    "typ": "yrke"
+}, {
+    "id": "694",
+    "label": "Säljledare, resebyrå",
+    "typ": "yrke"
+}, {
+    "id": "4919",
+    "label": "Säljsekreterare",
+    "typ": "yrke"
+}, {
+    "id": "7051",
+    "label": "Sändningstekniker",
+    "typ": "yrke"
+}, {
+    "id": "7620",
+    "label": "Sömmerska, möbeltillverkning",
+    "typ": "yrke"
+}, {
+    "id": "5859",
+    "label": "Takmontör",
+    "typ": "yrke"
+}, {
+    "id": "7181",
+    "label": "Takmontör, utan yrkesbevis",
+    "typ": "yrke"
+}, {
+    "id": "7545",
+    "label": "Takmålare, plåt",
+    "typ": "yrke"
+}, {
+    "id": "7474",
+    "label": "Taktilterapeut",
+    "typ": "yrke"
+}, {
+    "id": "4757",
+    "label": "Talassolog",
+    "typ": "yrke"
+}, {
+    "id": "7049",
+    "label": "Talboksproducent",
+    "typ": "yrke"
+}, {
+    "id": "2177",
+    "label": "Tallyman",
+    "typ": "yrke"
+}, {
+    "id": "7509",
+    "label": "Talpedagog",
+    "typ": "yrke"
+}, {
+    "id": "3333",
+    "label": "Taltidningsredaktör",
+    "typ": "yrke"
+}, {
+    "id": "6875",
+    "label": "Taltjänsttolk",
+    "typ": "yrke"
+}, {
+    "id": "5723",
+    "label": "Tandhygienist",
+    "typ": "yrke"
+}, {
+    "id": "5724",
+    "label": "Tandläkare",
+    "typ": "yrke"
+}, {
+    "id": "5722",
+    "label": "Tandsköterska",
+    "typ": "yrke"
+}, {
+    "id": "6121",
+    "label": "Tandtekniker",
+    "typ": "yrke"
+}, {
+    "id": "1369",
+    "label": "Tandteknikerbiträde",
+    "typ": "yrke"
+}, {
+    "id": "6360",
+    "label": "Tandvårdsassistent",
+    "typ": "yrke"
+}, {
+    "id": "5058",
+    "label": "Tandvårdsbiträde",
+    "typ": "yrke"
+}, {
+    "id": "541",
+    "label": "Tank- och bulkbilsförare",
+    "typ": "yrke"
+}, {
+    "id": "7617",
+    "label": "Tapetserare, hantverk",
+    "typ": "yrke"
+}, {
+    "id": "7616",
+    "label": "Tapetserare, industriell tillverkning",
+    "typ": "yrke"
+}, {
+    "id": "4835",
+    "label": "Tapettryckare",
+    "typ": "yrke"
+}, {
+    "id": "4698",
+    "label": "Tapetvalsgravör",
+    "typ": "yrke"
+}, {
+    "id": "1174",
+    "label": "Tappare, bryggeri",
+    "typ": "yrke"
+}, {
+    "id": "1388",
+    "label": "Tappare, gruva",
+    "typ": "yrke"
+}, {
+    "id": "1175",
+    "label": "Tappmaskinskötare",
+    "typ": "yrke"
+}, {
+    "id": "2575",
+    "label": "Tarifferare",
+    "typ": "yrke"
+}, {
+    "id": "270",
+    "label": "Tarmförädlingsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "3839",
+    "label": "Tatuerare",
+    "typ": "yrke"
+}, {
+    "id": "1373",
+    "label": "Taxeringsassistent",
+    "typ": "yrke"
+}, {
+    "id": "1374",
+    "label": "Taxeringsinspektör",
+    "typ": "yrke"
+}, {
+    "id": "6242",
+    "label": "Taxiförare/Taxichaufför",
+    "typ": "yrke"
+}, {
+    "id": "704",
+    "label": "Taxiguide",
+    "typ": "yrke"
+}, {
+    "id": "886",
+    "label": "Taxitelefonist",
+    "typ": "yrke"
+}, {
+    "id": "6516",
+    "label": "Teamledare",
+    "typ": "yrke"
+}, {
+    "id": "7149",
+    "label": "Teateragent",
+    "typ": "yrke"
+}, {
+    "id": "6475",
+    "label": "Teaterchef",
+    "typ": "yrke"
+}, {
+    "id": "4448",
+    "label": "Teaterinspicient",
+    "typ": "yrke"
+}, {
+    "id": "2152",
+    "label": "Teaterkassör",
+    "typ": "yrke"
+}, {
+    "id": "7381",
+    "label": "Teatermålare",
+    "typ": "yrke"
+}, {
+    "id": "6100",
+    "label": "Teaterpedagog",
+    "typ": "yrke"
+}, {
+    "id": "5211",
+    "label": "Teatertekniker",
+    "typ": "yrke"
+}, {
+    "id": "5184",
+    "label": "Teckenspråkslärare",
+    "typ": "yrke"
+}, {
+    "id": "3199",
+    "label": "Teckenspråkstolk/Dövblindtolk",
+    "typ": "yrke"
+}, {
+    "id": "6176",
+    "label": "Tegelbruksarbetare",
+    "typ": "yrke"
+}, {
+    "id": "6160",
+    "label": "Teknikinformatör",
+    "typ": "yrke"
+}, {
+    "id": "5238",
+    "label": "Teknisk chef, kommun",
+    "typ": "yrke"
+}, {
+    "id": "5372",
+    "label": "Teknisk chef/Maskinchef, fartyg",
+    "typ": "yrke"
+}, {
+    "id": "5239",
+    "label": "Teknisk direktör, kommun",
+    "typ": "yrke"
+}, {
+    "id": "7468",
+    "label": "Telefonförsäljare",
+    "typ": "yrke"
+}, {
+    "id": "5377",
+    "label": "Telefonintervjuare",
+    "typ": "yrke"
+}, {
+    "id": "6570",
+    "label": "Teleingenjör",
+    "typ": "yrke"
+}, {
+    "id": "6397",
+    "label": "Teleområdeschef",
+    "typ": "yrke"
+}, {
+    "id": "7249",
+    "label": "Teleskoptruckförare",
+    "typ": "yrke"
+}, {
+    "id": "7247",
+    "label": "Teleskoptruckförare, anläggning",
+    "typ": "yrke"
+}, {
+    "id": "839",
+    "label": "Teletekniker",
+    "typ": "yrke"
+}, {
+    "id": "1328",
+    "label": "Telferförare",
+    "typ": "yrke"
+}, {
+    "id": "2976",
+    "label": "Tenngjutare",
+    "typ": "yrke"
+}, {
+    "id": "3823",
+    "label": "Teologisk forskare",
+    "typ": "yrke"
+}, {
+    "id": "2233",
+    "label": "Terminalarbetare",
+    "typ": "yrke"
+}, {
+    "id": "6794",
+    "label": "Testförare",
+    "typ": "yrke"
+}, {
+    "id": "6826",
+    "label": "Testledare",
+    "typ": "yrke"
+}, {
+    "id": "163",
+    "label": "Textilingenjör",
+    "typ": "yrke"
+}, {
+    "id": "3277",
+    "label": "Textilkonstnär",
+    "typ": "yrke"
+}, {
+    "id": "1057",
+    "label": "Textiltryckare",
+    "typ": "yrke"
+}, {
+    "id": "3236",
+    "label": "Textilvårdare",
+    "typ": "yrke"
+}, {
+    "id": "2673",
+    "label": "Tidningsbud/Tidningsdistributör",
+    "typ": "yrke"
+}, {
+    "id": "6789",
+    "label": "Tillgänglighetskonsult",
+    "typ": "yrke"
+}, {
+    "id": "6247",
+    "label": "Tillskärare, konfektion",
+    "typ": "yrke"
+}, {
+    "id": "7618",
+    "label": "Tillskärare, möbeltillverkning",
+    "typ": "yrke"
+}, {
+    "id": "4389",
+    "label": "Tillskärare, skinnkläder",
+    "typ": "yrke"
+}, {
+    "id": "746",
+    "label": "Timmersorterare",
+    "typ": "yrke"
+}, {
+    "id": "3140",
+    "label": "Tingsfiskal",
+    "typ": "yrke"
+}, {
+    "id": "3141",
+    "label": "Tingsnotarie/Notarie",
+    "typ": "yrke"
+}, {
+    "id": "6013",
+    "label": "Tivoliarbetare",
+    "typ": "yrke"
+}, {
+    "id": "1139",
+    "label": "Tjärkokare",
+    "typ": "yrke"
+}, {
+    "id": "6568",
+    "label": "TMP/CTMP-operatör",
+    "typ": "yrke"
+}, {
+    "id": "6037",
+    "label": "Tolk",
+    "typ": "yrke"
+}, {
+    "id": "6188",
+    "label": "TOM, Technical Operation Manager",
+    "typ": "yrke"
+}, {
+    "id": "3355",
+    "label": "Tonsättare",
+    "typ": "yrke"
+}, {
+    "id": "7160",
+    "label": "Torgförsäljare/Marknadsförsäljare",
+    "typ": "yrke"
+}, {
+    "id": "668",
+    "label": "Torkare, papper",
+    "typ": "yrke"
+}, {
+    "id": "651",
+    "label": "Torkmaskinförare, massaindustri",
+    "typ": "yrke"
+}, {
+    "id": "1358",
+    "label": "Torkskötare",
+    "typ": "yrke"
+}, {
+    "id": "1329",
+    "label": "Tornkranförare",
+    "typ": "yrke"
+}, {
+    "id": "5875",
+    "label": "Torvarbetare",
+    "typ": "yrke"
+}, {
+    "id": "2359",
+    "label": "Toxikolog",
+    "typ": "yrke"
+}, {
+    "id": "7556",
+    "label": "Trader",
+    "typ": "yrke"
+}, {
+    "id": "5969",
+    "label": "Traffic",
+    "typ": "yrke"
+}, {
+    "id": "2808",
+    "label": "Trafficman",
+    "typ": "yrke"
+}, {
+    "id": "5601",
+    "label": "Trafikassistent",
+    "typ": "yrke"
+}, {
+    "id": "6354",
+    "label": "Trafikchef",
+    "typ": "yrke"
+}, {
+    "id": "5000",
+    "label": "Trafikförman",
+    "typ": "yrke"
+}, {
+    "id": "5602",
+    "label": "Trafikinformatör",
+    "typ": "yrke"
+}, {
+    "id": "4210",
+    "label": "Trafikingenjör",
+    "typ": "yrke"
+}, {
+    "id": "6566",
+    "label": "Trafikinspektör",
+    "typ": "yrke"
+}, {
+    "id": "7425",
+    "label": "Trafikkoordinator",
+    "typ": "yrke"
+}, {
+    "id": "7636",
+    "label": "Trafikledare, spårburen trafik",
+    "typ": "yrke"
+}, {
+    "id": "5003",
+    "label": "Trafikledare, vägtrafik",
+    "typ": "yrke"
+}, {
+    "id": "6797",
+    "label": "Trafiklots",
+    "typ": "yrke"
+}, {
+    "id": "6105",
+    "label": "Trafiklärare",
+    "typ": "yrke"
+}, {
+    "id": "7584",
+    "label": "Trafiknykterhetskontrollant",
+    "typ": "yrke"
+}, {
+    "id": "3645",
+    "label": "Trafikpedagog",
+    "typ": "yrke"
+}, {
+    "id": "7282",
+    "label": "Trafikplanerare, offentlig förvaltning",
+    "typ": "yrke"
+}, {
+    "id": "4980",
+    "label": "Trafikplanerare, transportföretag",
+    "typ": "yrke"
+}, {
+    "id": "6719",
+    "label": "Trafiksamordnare",
+    "typ": "yrke"
+}, {
+    "id": "5244",
+    "label": "Trafikskolechef",
+    "typ": "yrke"
+}, {
+    "id": "2495",
+    "label": "Trafikvakt",
+    "typ": "yrke"
+}, {
+    "id": "2496",
+    "label": "Trafikvärd/Taxivärd",
+    "typ": "yrke"
+}, {
+    "id": "2497",
+    "label": "Trafikövervakare",
+    "typ": "yrke"
+}, {
+    "id": "7343",
+    "label": "Trailerreparatör",
+    "typ": "yrke"
+}, {
+    "id": "1335",
+    "label": "Traktorförare, industri",
+    "typ": "yrke"
+}, {
+    "id": "619",
+    "label": "Traktormekaniker",
+    "typ": "yrke"
+}, {
+    "id": "2770",
+    "label": "Transportadministratör",
+    "typ": "yrke"
+}, {
+    "id": "5042",
+    "label": "Transportchef",
+    "typ": "yrke"
+}, {
+    "id": "2771",
+    "label": "Transportingenjör",
+    "typ": "yrke"
+}, {
+    "id": "6349",
+    "label": "Transportledare",
+    "typ": "yrke"
+}, {
+    "id": "5957",
+    "label": "Transportplanerare",
+    "typ": "yrke"
+}, {
+    "id": "2773",
+    "label": "Transportsamordnare",
+    "typ": "yrke"
+}, {
+    "id": "7084",
+    "label": "Trapetskonstnär",
+    "typ": "yrke"
+}, {
+    "id": "466",
+    "label": "Trappstädare",
+    "typ": "yrke"
+}, {
+    "id": "390",
+    "label": "Travbaneföreståndare",
+    "typ": "yrke"
+}, {
+    "id": "1330",
+    "label": "Traversförare",
+    "typ": "yrke"
+}, {
+    "id": "3917",
+    "label": "Travkusk",
+    "typ": "yrke"
+}, {
+    "id": "7506",
+    "label": "Trikåstickare",
+    "typ": "yrke"
+}, {
+    "id": "3692",
+    "label": "Trollkarl",
+    "typ": "yrke"
+}, {
+    "id": "5687",
+    "label": "Truckförare",
+    "typ": "yrke"
+}, {
+    "id": "621",
+    "label": "Truckreparatör",
+    "typ": "yrke"
+}, {
+    "id": "963",
+    "label": "Trumtekniker",
+    "typ": "yrke"
+}, {
+    "id": "5637",
+    "label": "Trumtillverkare",
+    "typ": "yrke"
+}, {
+    "id": "2993",
+    "label": "Trycksaksfaktor",
+    "typ": "yrke"
+}, {
+    "id": "3066",
+    "label": "Trycksvarvare",
+    "typ": "yrke"
+}, {
+    "id": "6020",
+    "label": "Tråddragare",
+    "typ": "yrke"
+}, {
+    "id": "3054",
+    "label": "Trådspolare, metall",
+    "typ": "yrke"
+}, {
+    "id": "5821",
+    "label": "Träarbetare, gruva",
+    "typ": "yrke"
+}, {
+    "id": "6581",
+    "label": "Träarbetare/Snickare",
+    "typ": "yrke"
+}, {
+    "id": "7182",
+    "label": "Träarbetare/Snickare, utan yrkesbevis",
+    "typ": "yrke"
+}, {
+    "id": "4869",
+    "label": "Träbildhuggare",
+    "typ": "yrke"
+}, {
+    "id": "6275",
+    "label": "Trädgårdsanläggare/Trädgårdsanläggningsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "6274",
+    "label": "Trädgårdsarbetare/Plantskolearbetare, trädgård",
+    "typ": "yrke"
+}, {
+    "id": "4509",
+    "label": "Trädgårdsforskare",
+    "typ": "yrke"
+}, {
+    "id": "4554",
+    "label": "Trädgårdsförman",
+    "typ": "yrke"
+}, {
+    "id": "6268",
+    "label": "Trädgårdsingenjör/Trädgårdstekniker",
+    "typ": "yrke"
+}, {
+    "id": "4568",
+    "label": "Trädgårdsmästare, anläggning",
+    "typ": "yrke"
+}, {
+    "id": "6273",
+    "label": "Trädgårdsmästare, odling",
+    "typ": "yrke"
+}, {
+    "id": "4511",
+    "label": "Trädgårdsrådgivare/Trädgårdskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "1359",
+    "label": "Träfiberskivarbetare",
+    "typ": "yrke"
+}, {
+    "id": "6345",
+    "label": "Träförgyllare",
+    "typ": "yrke"
+}, {
+    "id": "7615",
+    "label": "Trähusarbetare/Spikare",
+    "typ": "yrke"
+}, {
+    "id": "3222",
+    "label": "Träslöjdare",
+    "typ": "yrke"
+}, {
+    "id": "3223",
+    "label": "Träsnidare",
+    "typ": "yrke"
+}, {
+    "id": "4378",
+    "label": "Träsvarvare",
+    "typ": "yrke"
+}, {
+    "id": "5153",
+    "label": "Träullsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "2178",
+    "label": "Tulldeklarant",
+    "typ": "yrke"
+}, {
+    "id": "6563",
+    "label": "Tulldirektör",
+    "typ": "yrke"
+}, {
+    "id": "6330",
+    "label": "Tullkontorist",
+    "typ": "yrke"
+}, {
+    "id": "2180",
+    "label": "Tullombud",
+    "typ": "yrke"
+}, {
+    "id": "1338",
+    "label": "Tulltaxerare",
+    "typ": "yrke"
+}, {
+    "id": "5665",
+    "label": "Tulltjänsteman",
+    "typ": "yrke"
+}, {
+    "id": "5154",
+    "label": "Tunnbindare",
+    "typ": "yrke"
+}, {
+    "id": "1393",
+    "label": "Tunnelsprängare",
+    "typ": "yrke"
+}, {
+    "id": "5551",
+    "label": "Tunneltågförare",
+    "typ": "yrke"
+}, {
+    "id": "6754",
+    "label": "Tunnplåtslagare",
+    "typ": "yrke"
+}, {
+    "id": "869",
+    "label": "Turbinmontör",
+    "typ": "yrke"
+}, {
+    "id": "870",
+    "label": "Turbinreparatör",
+    "typ": "yrke"
+}, {
+    "id": "727",
+    "label": "Turistassistent",
+    "typ": "yrke"
+}, {
+    "id": "5131",
+    "label": "Turistbyråchef",
+    "typ": "yrke"
+}, {
+    "id": "5598",
+    "label": "Turistbyråtjänsteman",
+    "typ": "yrke"
+}, {
+    "id": "5240",
+    "label": "Turistchef",
+    "typ": "yrke"
+}, {
+    "id": "728",
+    "label": "Turistinformatör",
+    "typ": "yrke"
+}, {
+    "id": "5241",
+    "label": "Turistintendent",
+    "typ": "yrke"
+}, {
+    "id": "729",
+    "label": "Turistsekreterare",
+    "typ": "yrke"
+}, {
+    "id": "730",
+    "label": "Turistvärd/Turistvärdinna",
+    "typ": "yrke"
+}, {
+    "id": "7090",
+    "label": "Turnéledare",
+    "typ": "yrke"
+}, {
+    "id": "7150",
+    "label": "Turnéläggare",
+    "typ": "yrke"
+}, {
+    "id": "6883",
+    "label": "Turnéproducent för utställningar",
+    "typ": "yrke"
+}, {
+    "id": "5212",
+    "label": "Turnétekniker",
+    "typ": "yrke"
+}, {
+    "id": "7145",
+    "label": "TV-chef",
+    "typ": "yrke"
+}, {
+    "id": "4449",
+    "label": "TV-inspicient",
+    "typ": "yrke"
+}, {
+    "id": "3158",
+    "label": "Tvistemålsadvokat",
+    "typ": "yrke"
+}, {
+    "id": "4814",
+    "label": "TV-redigerare",
+    "typ": "yrke"
+}, {
+    "id": "847",
+    "label": "TV-tekniker/Hemelektroniktekniker",
+    "typ": "yrke"
+}, {
+    "id": "643",
+    "label": "Tvättchef",
+    "typ": "yrke"
+}, {
+    "id": "1111",
+    "label": "Tvätteriarbetare/Tvättbiträde",
+    "typ": "yrke"
+}, {
+    "id": "7012",
+    "label": "Tågklarerare",
+    "typ": "yrke"
+}, {
+    "id": "7358",
+    "label": "Tågledare",
+    "typ": "yrke"
+}, {
+    "id": "6671",
+    "label": "Tågvarnare",
+    "typ": "yrke"
+}, {
+    "id": "795",
+    "label": "Tågvärd/Tågvärdinna",
+    "typ": "yrke"
+}, {
+    "id": "272",
+    "label": "Tårtmakare",
+    "typ": "yrke"
+}, {
+    "id": "3918",
+    "label": "Tävlingsryttare",
+    "typ": "yrke"
+}, {
+    "id": "2101",
+    "label": "Ugnsmurare",
+    "typ": "yrke"
+}, {
+    "id": "6417",
+    "label": "Ugnsoperatör",
+    "typ": "yrke"
+}, {
+    "id": "3988",
+    "label": "Ugnsskötare, glas, keramik",
+    "typ": "yrke"
+}, {
+    "id": "3045",
+    "label": "Ugnsskötare, stålverk",
+    "typ": "yrke"
+}, {
+    "id": "3974",
+    "label": "Ugnsuppsättare, keramik",
+    "typ": "yrke"
+}, {
+    "id": "2352",
+    "label": "Underhållsarbetare",
+    "typ": "yrke"
+}, {
+    "id": "7416",
+    "label": "Underhållschef",
+    "typ": "yrke"
+}, {
+    "id": "871",
+    "label": "Underhållsmekaniker",
+    "typ": "yrke"
+}, {
+    "id": "7412",
+    "label": "Underhållsplanerare",
+    "typ": "yrke"
+}, {
+    "id": "5507",
+    "label": "Underhållstekniker, vattenrening",
+    "typ": "yrke"
+}, {
+    "id": "7586",
+    "label": "Undersköterska, hemtjänst och äldreboende",
+    "typ": "yrke"
+}, {
+    "id": "7587",
+    "label": "Undersköterska, vård- o specialavd. o mottagning",
+    "typ": "yrke"
+}, {
+    "id": "5858",
+    "label": "Undertaksmontör",
+    "typ": "yrke"
+}, {
+    "id": "7183",
+    "label": "Undertaksmontör, utan yrkesbevis",
+    "typ": "yrke"
+}, {
+    "id": "7066",
+    "label": "Undertextare",
+    "typ": "yrke"
+}, {
+    "id": "3610",
+    "label": "Undervisningsråd",
+    "typ": "yrke"
+}, {
+    "id": "5916",
+    "label": "Underwriter",
+    "typ": "yrke"
+}, {
+    "id": "1497",
+    "label": "Ungdomsassistent",
+    "typ": "yrke"
+}, {
+    "id": "1580",
+    "label": "Ungdomsgårdsföreståndare",
+    "typ": "yrke"
+}, {
+    "id": "3512",
+    "label": "Ungdomsinstruktör/Ungdomstränare",
+    "typ": "yrke"
+}, {
+    "id": "1581",
+    "label": "Ungdomskonsulent, fritid",
+    "typ": "yrke"
+}, {
+    "id": "1582",
+    "label": "Ungdomsledare",
+    "typ": "yrke"
+}, {
+    "id": "1809",
+    "label": "Ungdomssekreterare, socialtjänst",
+    "typ": "yrke"
+}, {
+    "id": "7139",
+    "label": "Universitets- och högskoleadjunkt",
+    "typ": "yrke"
+}, {
+    "id": "7138",
+    "label": "Universitets- och högskolelektor",
+    "typ": "yrke"
+}, {
+    "id": "6364",
+    "label": "Universitetsrektor",
+    "typ": "yrke"
+}, {
+    "id": "2234",
+    "label": "Uppackare/Furnerare",
+    "typ": "yrke"
+}, {
+    "id": "3938",
+    "label": "Uppblåsare",
+    "typ": "yrke"
+}, {
+    "id": "7503",
+    "label": "Upphandlare",
+    "typ": "yrke"
+}, {
+    "id": "4003",
+    "label": "Upphovsrättsjurist",
+    "typ": "yrke"
+}, {
+    "id": "2549",
+    "label": "Uppköpare",
+    "typ": "yrke"
+}, {
+    "id": "989",
+    "label": "Uppläggare",
+    "typ": "yrke"
+}, {
+    "id": "7585",
+    "label": "Uppräkningspersonal, bevakningsföretag",
+    "typ": "yrke"
+}, {
+    "id": "5155",
+    "label": "Uppslagare, gjuteri",
+    "typ": "yrke"
+}, {
+    "id": "5666",
+    "label": "Urmakare",
+    "typ": "yrke"
+}, {
+    "id": "7345",
+    "label": "Uroterapeut",
+    "typ": "yrke"
+}, {
+    "id": "5959",
+    "label": "Utbildningsadministratör",
+    "typ": "yrke"
+}, {
+    "id": "2785",
+    "label": "Utbildningsassistent",
+    "typ": "yrke"
+}, {
+    "id": "5245",
+    "label": "Utbildningschef",
+    "typ": "yrke"
+}, {
+    "id": "3428",
+    "label": "Utbildningsintendent",
+    "typ": "yrke"
+}, {
+    "id": "3629",
+    "label": "Utbildningskonsulent, företag",
+    "typ": "yrke"
+}, {
+    "id": "6097",
+    "label": "Utbildningskonsulent, skola",
+    "typ": "yrke"
+}, {
+    "id": "7094",
+    "label": "Utbildningskoordinator",
+    "typ": "yrke"
+}, {
+    "id": "3630",
+    "label": "Utbildningsledare",
+    "typ": "yrke"
+}, {
+    "id": "3646",
+    "label": "Utbildningsledare, trafikskola",
+    "typ": "yrke"
+}, {
+    "id": "3633",
+    "label": "Utbildningsplanerare, företag",
+    "typ": "yrke"
+}, {
+    "id": "2786",
+    "label": "Utbildningssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "7117",
+    "label": "Utesäljare",
+    "typ": "yrke"
+}, {
+    "id": "5866",
+    "label": "Uthyrare",
+    "typ": "yrke"
+}, {
+    "id": "2313",
+    "label": "Uthyrningschef",
+    "typ": "yrke"
+}, {
+    "id": "6705",
+    "label": "Utlandsförare",
+    "typ": "yrke"
+}, {
+    "id": "891",
+    "label": "Utlandstelefonist",
+    "typ": "yrke"
+}, {
+    "id": "7512",
+    "label": "Utredningsassistent",
+    "typ": "yrke"
+}, {
+    "id": "5079",
+    "label": "Utredningschef",
+    "typ": "yrke"
+}, {
+    "id": "1911",
+    "label": "Utredningssekreterare",
+    "typ": "yrke"
+}, {
+    "id": "6893",
+    "label": "Utryckningsväktare",
+    "typ": "yrke"
+}, {
+    "id": "7025",
+    "label": "Utställningskoordinator",
+    "typ": "yrke"
+}, {
+    "id": "7048",
+    "label": "Utställningsproducent",
+    "typ": "yrke"
+}, {
+    "id": "2350",
+    "label": "Utsättarbiträde",
+    "typ": "yrke"
+}, {
+    "id": "7324",
+    "label": "Utvecklingschef",
+    "typ": "yrke"
+}, {
+    "id": "59",
+    "label": "Utvecklingsingenjör, elkraft",
+    "typ": "yrke"
+}, {
+    "id": "83",
+    "label": "Utvecklingsingenjör, el-tele",
+    "typ": "yrke"
+}, {
+    "id": "194",
+    "label": "Utvecklingsingenjör, gruv",
+    "typ": "yrke"
+}, {
+    "id": "7414",
+    "label": "Utvecklingsingenjör, kemi",
+    "typ": "yrke"
+}, {
+    "id": "112",
+    "label": "Utvecklingsingenjör, maskin",
+    "typ": "yrke"
+}, {
+    "id": "7413",
+    "label": "Utvecklingsingenjör, metallurgi",
+    "typ": "yrke"
+}, {
+    "id": "7494",
+    "label": "Utvecklingsingenjör, tillverkningsindustri",
+    "typ": "yrke"
+}, {
+    "id": "4870",
+    "label": "Vagnmakare",
+    "typ": "yrke"
+}, {
+    "id": "872",
+    "label": "Vagnreparatör, järnväg",
+    "typ": "yrke"
+}, {
+    "id": "468",
+    "label": "Vagnsstädare",
+    "typ": "yrke"
+}, {
+    "id": "7647",
+    "label": "Vaktgående maskinpersonal, sjöfart",
+    "typ": "yrke"
+}, {
+    "id": "6203",
+    "label": "Vaktmästare",
+    "typ": "yrke"
+}, {
+    "id": "6904",
+    "label": "Valideringsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "3114",
+    "label": "Valsare",
+    "typ": "yrke"
+}, {
+    "id": "204",
+    "label": "Valsverksingenjör",
+    "typ": "yrke"
+}, {
+    "id": "6028",
+    "label": "Valsverksoperatör",
+    "typ": "yrke"
+}, {
+    "id": "5302",
+    "label": "Valutaförsäljare",
+    "typ": "yrke"
+}, {
+    "id": "2538",
+    "label": "Valutahandlare",
+    "typ": "yrke"
+}, {
+    "id": "2539",
+    "label": "Valutamäklare",
+    "typ": "yrke"
+}, {
+    "id": "719",
+    "label": "Vandrarhemsföreståndare",
+    "typ": "yrke"
+}, {
+    "id": "6240",
+    "label": "Vapenmekaniker",
+    "typ": "yrke"
+}, {
+    "id": "4330",
+    "label": "Vapentekniker",
+    "typ": "yrke"
+}, {
+    "id": "6111",
+    "label": "Varietéartist",
+    "typ": "yrke"
+}, {
+    "id": "1307",
+    "label": "Varpare",
+    "typ": "yrke"
+}, {
+    "id": "4886",
+    "label": "Varuhuschef",
+    "typ": "yrke"
+}, {
+    "id": "5263",
+    "label": "Varumärkare",
+    "typ": "yrke"
+}, {
+    "id": "6559",
+    "label": "Varumärkesjurist",
+    "typ": "yrke"
+}, {
+    "id": "2095",
+    "label": "Varvssnickare",
+    "typ": "yrke"
+}, {
+    "id": "2378",
+    "label": "Vattenbrukare",
+    "typ": "yrke"
+}, {
+    "id": "5114",
+    "label": "Vattenverkschef",
+    "typ": "yrke"
+}, {
+    "id": "2977",
+    "label": "Vaxgjutare",
+    "typ": "yrke"
+}, {
+    "id": "2790",
+    "label": "VD-sekreterare",
+    "typ": "yrke"
+}, {
+    "id": "2523",
+    "label": "Webbansvarig/Webbstrateg",
+    "typ": "yrke"
+}, {
+    "id": "3919",
+    "label": "Webbdesigner",
+    "typ": "yrke"
+}, {
+    "id": "6739",
+    "label": "Webbredaktör",
+    "typ": "yrke"
+}, {
+    "id": "7046",
+    "label": "Webbtekniker",
+    "typ": "yrke"
+}, {
+    "id": "2525",
+    "label": "Webmaster",
+    "typ": "yrke"
+}, {
+    "id": "4400",
+    "label": "Wellpappmaskinförare",
+    "typ": "yrke"
+}, {
+    "id": "7252",
+    "label": "Ventilationsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "2369",
+    "label": "Ventilationsisolerare",
+    "typ": "yrke"
+}, {
+    "id": "7190",
+    "label": "Ventilationsmontör",
+    "typ": "yrke"
+}, {
+    "id": "5991",
+    "label": "Ventilationsplåtslagare",
+    "typ": "yrke"
+}, {
+    "id": "4084",
+    "label": "Ventilationssanerare",
+    "typ": "yrke"
+}, {
+    "id": "7253",
+    "label": "Ventilationstekniker",
+    "typ": "yrke"
+}, {
+    "id": "962",
+    "label": "Verkmakare",
+    "typ": "yrke"
+}, {
+    "id": "7538",
+    "label": "Verksamhetsanalytiker",
+    "typ": "yrke"
+}, {
+    "id": "7537",
+    "label": "Verksamhetsarkitekt",
+    "typ": "yrke"
+}, {
+    "id": "2032",
+    "label": "Verksamhetschef, hälso- och sjukvård",
+    "typ": "yrke"
+}, {
+    "id": "4732",
+    "label": "Verksamhetskonsult",
+    "typ": "yrke"
+}, {
+    "id": "7578",
+    "label": "Verksamhetskonsult, IT",
+    "typ": "yrke"
+}, {
+    "id": "6558",
+    "label": "Verksjurist",
+    "typ": "yrke"
+}, {
+    "id": "5115",
+    "label": "Verkstadschef",
+    "typ": "yrke"
+}, {
+    "id": "805",
+    "label": "Verkstadselektriker",
+    "typ": "yrke"
+}, {
+    "id": "4273",
+    "label": "Verkstadsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "2216",
+    "label": "Verkstadskontorist",
+    "typ": "yrke"
+}, {
+    "id": "2930",
+    "label": "Verkstadsmekaniker/Verkstadstekniker",
+    "typ": "yrke"
+}, {
+    "id": "4380",
+    "label": "Verkstadssnickare",
+    "typ": "yrke"
+}, {
+    "id": "4887",
+    "label": "Verkställande direktör",
+    "typ": "yrke"
+}, {
+    "id": "7281",
+    "label": "Verktygskonstruktör",
+    "typ": "yrke"
+}, {
+    "id": "5929",
+    "label": "Verktygsmakare",
+    "typ": "yrke"
+}, {
+    "id": "2627",
+    "label": "Verktygssmed",
+    "typ": "yrke"
+}, {
+    "id": "2645",
+    "label": "Verktygsställare",
+    "typ": "yrke"
+}, {
+    "id": "5931",
+    "label": "Verktygsuppsättare",
+    "typ": "yrke"
+}, {
+    "id": "5767",
+    "label": "Veterinär",
+    "typ": "yrke"
+}, {
+    "id": "1862",
+    "label": "Veterinärassistent",
+    "typ": "yrke"
+}, {
+    "id": "7569",
+    "label": "Veterinärinspektör",
+    "typ": "yrke"
+}, {
+    "id": "6890",
+    "label": "Videografiker",
+    "typ": "yrke"
+}, {
+    "id": "7651",
+    "label": "Videojournalist/Videoreporter",
+    "typ": "yrke"
+}, {
+    "id": "4815",
+    "label": "Videoredigerare",
+    "typ": "yrke"
+}, {
+    "id": "5214",
+    "label": "Videotekniker/VB-tekniker",
+    "typ": "yrke"
+}, {
+    "id": "705",
+    "label": "Vildmarksguide",
+    "typ": "yrke"
+}, {
+    "id": "4775",
+    "label": "Viltmästare",
+    "typ": "yrke"
+}, {
+    "id": "1187",
+    "label": "Vinberedare",
+    "typ": "yrke"
+}, {
+    "id": "7548",
+    "label": "Vindkraftstekniker",
+    "typ": "yrke"
+}, {
+    "id": "7019",
+    "label": "Vinodlare",
+    "typ": "yrke"
+}, {
+    "id": "380",
+    "label": "Vinprovare",
+    "typ": "yrke"
+}, {
+    "id": "6955",
+    "label": "Virkeschef",
+    "typ": "yrke"
+}, {
+    "id": "5200",
+    "label": "Virkesimpregnerare",
+    "typ": "yrke"
+}, {
+    "id": "7399",
+    "label": "Virkesköpare/Virkesinköpare",
+    "typ": "yrke"
+}, {
+    "id": "6293",
+    "label": "Virkesmätare",
+    "typ": "yrke"
+}, {
+    "id": "6956",
+    "label": "Virkesområdeschef",
+    "typ": "yrke"
+}, {
+    "id": "6388",
+    "label": "Virkessorterare",
+    "typ": "yrke"
+}, {
+    "id": "1317",
+    "label": "Virkmaskinskötare",
+    "typ": "yrke"
+}, {
+    "id": "4758",
+    "label": "Virolog",
+    "typ": "yrke"
+}, {
+    "id": "7317",
+    "label": "Vitvarumontör",
+    "typ": "yrke"
+}, {
+    "id": "7634",
+    "label": "VTS- och lotsoperatör",
+    "typ": "yrke"
+}, {
+    "id": "6557",
+    "label": "VVS-ingenjör",
+    "typ": "yrke"
+}, {
+    "id": "5879",
+    "label": "VVS-isolerare",
+    "typ": "yrke"
+}, {
+    "id": "5817",
+    "label": "VVS-montör",
+    "typ": "yrke"
+}, {
+    "id": "7199",
+    "label": "VVS-tekniker",
+    "typ": "yrke"
+}, {
+    "id": "6068",
+    "label": "Vågskötare",
+    "typ": "yrke"
+}, {
+    "id": "6317",
+    "label": "Vårdare/Arbetshandledare/Boendestödjare",
+    "typ": "yrke"
+}, {
+    "id": "5797",
+    "label": "Vårdbiträde",
+    "typ": "yrke"
+}, {
+    "id": "1810",
+    "label": "Vårdnadsutredare",
+    "typ": "yrke"
+}, {
+    "id": "1933",
+    "label": "Vårdutvecklare",
+    "typ": "yrke"
+}, {
+    "id": "5984",
+    "label": "Väderobservatör",
+    "typ": "yrke"
+}, {
+    "id": "6555",
+    "label": "Väg- och vattenbyggnadsingenjör",
+    "typ": "yrke"
+}, {
+    "id": "4491",
+    "label": "Vägdirektör",
+    "typ": "yrke"
+}, {
+    "id": "513",
+    "label": "Väghyvelförare",
+    "typ": "yrke"
+}, {
+    "id": "7260",
+    "label": "Vägingenjör",
+    "typ": "yrke"
+}, {
+    "id": "4177",
+    "label": "Vägvakt",
+    "typ": "yrke"
+}, {
+    "id": "5906",
+    "label": "Väktare",
+    "typ": "yrke"
+}, {
+    "id": "2613",
+    "label": "Värderingsassistent",
+    "typ": "yrke"
+}, {
+    "id": "5926",
+    "label": "Värderingsman",
+    "typ": "yrke"
+}, {
+    "id": "5332",
+    "label": "Värdetransportör",
+    "typ": "yrke"
+}, {
+    "id": "3965",
+    "label": "Värmare, glas",
+    "typ": "yrke"
+}, {
+    "id": "3116",
+    "label": "Värmare, valsverk",
+    "typ": "yrke"
+}, {
+    "id": "7198",
+    "label": "Värmepumpsmontör",
+    "typ": "yrke"
+}, {
+    "id": "7306",
+    "label": "Värmeverkschef",
+    "typ": "yrke"
+}, {
+    "id": "1043",
+    "label": "Väskmakare",
+    "typ": "yrke"
+}, {
+    "id": "1308",
+    "label": "Vävare",
+    "typ": "yrke"
+}, {
+    "id": "1301",
+    "label": "Vävlagare",
+    "typ": "yrke"
+}, {
+    "id": "5624",
+    "label": "Växeltelefonist",
+    "typ": "yrke"
+}, {
+    "id": "6776",
+    "label": "Växthusodling, förman",
+    "typ": "yrke"
+}, {
+    "id": "4513",
+    "label": "Växtodlingsrådgivare/Växtodlingskonsulent",
+    "typ": "yrke"
+}, {
+    "id": "4514",
+    "label": "Växtskyddsspecialist",
+    "typ": "yrke"
+}, {
+    "id": "2345",
+    "label": "Växtskötare",
+    "typ": "yrke"
+}, {
+    "id": "7604",
+    "label": "Yogamassör",
+    "typ": "yrke"
+}, {
+    "id": "5470",
+    "label": "Yrkeshygieniker",
+    "typ": "yrke"
+}, {
+    "id": "7293",
+    "label": "Yrkesjägare",
+    "typ": "yrke"
+}, {
+    "id": "4879",
+    "label": "Ytbehandlare/Sprutlackerare, manuell, trä",
+    "typ": "yrke"
+}, {
+    "id": "1843",
+    "label": "Ytkemist",
+    "typ": "yrke"
+}, {
+    "id": "1631",
+    "label": "Zonterapeut",
+    "typ": "yrke"
+}, {
+    "id": "4759",
+    "label": "Zoolog",
+    "typ": "yrke"
+}, {
+    "id": "3154",
+    "label": "Åklagarassistent",
+    "typ": "yrke"
+}, {
+    "id": "6031",
+    "label": "Åklagare",
+    "typ": "yrke"
+}, {
+    "id": "292",
+    "label": "Ångmaskinist",
+    "typ": "yrke"
+}, {
+    "id": "293",
+    "label": "Ångpanneeldare",
+    "typ": "yrke"
+}, {
+    "id": "880",
+    "label": "Ädelstensslipare",
+    "typ": "yrke"
+}, {
+    "id": "7119",
+    "label": "Äggplockare",
+    "typ": "yrke"
+}, {
+    "id": "2043",
+    "label": "Äldreomsorgschef",
+    "typ": "yrke"
+}, {
+    "id": "7657",
+    "label": "Äldrepedagog",
+    "typ": "yrke"
+}, {
+    "id": "1422",
+    "label": "Ändringsskräddare",
+    "typ": "yrke"
+}, {
+    "id": "4760",
+    "label": "Ärftlighetsforskare",
+    "typ": "yrke"
+}, {
+    "id": "1188",
+    "label": "Ättiksberedare",
+    "typ": "yrke"
+}, {
+    "id": "7349",
+    "label": "Ögonsjuksköterska/Oftamologassistent",
+    "typ": "yrke"
+}, {
+    "id": "4461",
+    "label": "Överbibliotekarie",
+    "typ": "yrke"
+}, {
+    "id": "6553",
+    "label": "Överdirektör",
+    "typ": "yrke"
+}, {
+    "id": "3534",
+    "label": "Överspelningstekniker",
+    "typ": "yrke"
+}, {
+    "id": "4061",
+    "label": "Överstyrman",
+    "typ": "yrke"
+}, {
+    "id": "3203",
+    "label": "Översättare",
+    "typ": "yrke"
+}, {
+    "id": "3155",
+    "label": "Överåklagare",
+    "typ": "yrke"
+}, {
+    "id": "0110",
+    "label": "Officerare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "0210",
+    "label": "Specialistofficerare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "0310",
+    "label": "Soldater m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1111",
+    "label": "Politiker",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1112",
+    "label": "General-, landstings- och kommundirektörer m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1113",
+    "label": "Chefstjänstemän i intresseorganisationer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1120",
+    "label": "Verkställande direktörer m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1210",
+    "label": "Ekonomi- och finanschefer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1220",
+    "label": "Personal- och HR-chefer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1230",
+    "label": "Förvaltnings- och planeringschefer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1240",
+    "label": "Informations-, kommunikations- och PR-chefer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1250",
+    "label": "Försäljnings- och marknadschefer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1290",
+    "label": "Övriga administrations- och servicechefer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1310",
+    "label": "IT-chefer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1320",
+    "label": "Inköps-, logistik- och transportchefer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1330",
+    "label": "Forsknings- och utvecklingschefer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1340",
+    "label": "Chefer inom arkitekt- och ingenjörsverksamhet",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1350",
+    "label": "Fastighets- och förvaltningschefer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1360",
+    "label": "Driftchefer inom bygg, anläggning och gruva",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1370",
+    "label": "Produktionschefer inom tillverkning",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1380",
+    "label": "Förvaltare inom skogsbruk och lantbruk m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1410",
+    "label": "Chefer, grund- o gymnasieskola o vuxenutbildning",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1420",
+    "label": "Chefer inom förskoleverksamhet",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1490",
+    "label": "Övriga chefer inom utbildning",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1510",
+    "label": "Chefer inom hälso- och sjukvård",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1520",
+    "label": "Chefer inom socialt och kurativt arbete",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1530",
+    "label": "Chefer inom äldreomsorg",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1540",
+    "label": "Chefer och ledare inom trossamfund",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1590",
+    "label": "Övriga chefer inom samhällsservice",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1610",
+    "label": "Chefer inom bank, finans och försäkring",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1710",
+    "label": "Hotell- och konferenschefer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1720",
+    "label": "Restaurang- och kökschefer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1730",
+    "label": "Chefer inom handel",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1740",
+    "label": "Chefer inom friskvård, sport och fritid",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1790",
+    "label": "Övriga chefer inom övrig servicenäring",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2111",
+    "label": "Fysiker och astronomer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2112",
+    "label": "Meteorologer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2113",
+    "label": "Kemister",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2114",
+    "label": "Geologer och geofysiker m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2121",
+    "label": "Matematiker och aktuarier",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2122",
+    "label": "Statistiker",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2131",
+    "label": "Cell- och molekylärbiologer m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2132",
+    "label": "Växt- och djurbiologer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2133",
+    "label": "Farmakologer och biomedicinare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2134",
+    "label": "Specialister och rådgivare inom lantbruk m.m.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2135",
+    "label": "Specialister och rådgivare inom skogsbruk",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2141",
+    "label": "Civilingenjörsyrken, logistik och prod.planering",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2142",
+    "label": "Civilingenjörsyrken inom bygg och anläggning",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2143",
+    "label": "Civilingenjörsyrken inom elektroteknik",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2144",
+    "label": "Civilingenjörsyrken inom maskinteknik",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2145",
+    "label": "Civilingenjörsyrken inom kemi och kemiteknik",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2146",
+    "label": "Civilingenjörsyrken inom gruvteknik o metallurgi",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2149",
+    "label": "Övriga civilingenjörsyrken",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2161",
+    "label": "Arkitekter m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2162",
+    "label": "Landskapsarkitekter",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2163",
+    "label": "Planeringsarkitekter m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2164",
+    "label": "Lantmätare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2171",
+    "label": "Industridesigner",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2172",
+    "label": "Grafisk formgivare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2173",
+    "label": "Designer inom spel och digitala medier",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2179",
+    "label": "Övriga designer och formgivare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2181",
+    "label": "Arbetsmiljöingenjörer, yrkes- o miljöhygieniker",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2182",
+    "label": "Miljö- och hälsoskyddsinspektörer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2183",
+    "label": "Specialister inom miljöskydd och miljöteknik",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2211",
+    "label": "Specialistläkare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2212",
+    "label": "ST-läkare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2213",
+    "label": "AT-läkare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2219",
+    "label": "Övriga läkare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2221",
+    "label": "Grundutbildade sjuksköterskor",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2222",
+    "label": "Barnmorskor",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2223",
+    "label": "Anestesisjuksköterskor",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2224",
+    "label": "Distriktssköterskor",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2225",
+    "label": "Psykiatrisjuksköterskor",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2226",
+    "label": "Ambulanssjuksköterskor m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2227",
+    "label": "Geriatriksjuksköterskor",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2228",
+    "label": "Intensivvårdssjuksköterskor",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2231",
+    "label": "Operationssjuksköterskor",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2232",
+    "label": "Barnsjuksköterskor",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2233",
+    "label": "Skolsköterskor",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2234",
+    "label": "Företagssköterskor",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2235",
+    "label": "Röntgensjuksköterskor",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2239",
+    "label": "Övriga specialistsjuksköterskor",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2241",
+    "label": "Psykologer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2242",
+    "label": "Psykoterapeuter",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2250",
+    "label": "Veterinärer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2260",
+    "label": "Tandläkare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2271",
+    "label": "Kiropraktorer och naprapater m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2272",
+    "label": "Fysioterapeuter och sjukgymnaster",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2273",
+    "label": "Arbetsterapeuter",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2281",
+    "label": "Apotekare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2282",
+    "label": "Dietister",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2283",
+    "label": "Audionomer och logopeder",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2284",
+    "label": "Optiker",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2289",
+    "label": "Övriga specialister inom hälso- och sjukvård",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2311",
+    "label": "Professorer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2312",
+    "label": "Universitets- och högskolelektorer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2313",
+    "label": "Forskarassistenter m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2314",
+    "label": "Doktorander",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2319",
+    "label": "Övriga universitets- och högskollärare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2320",
+    "label": "Lärare i yrkesämnen",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2330",
+    "label": "Gymnasielärare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2341",
+    "label": "Grundskollärare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2342",
+    "label": "Fritidspedagoger",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2343",
+    "label": "Förskollärare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2351",
+    "label": "Speciallärare och specialpedagoger m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2352",
+    "label": "Studie- och yrkesvägledare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2359",
+    "label": "Övr. pedagoger med teoretisk specialistkompetens",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2411",
+    "label": "Revisorer m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2412",
+    "label": "Controller",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2413",
+    "label": "Finansanalytiker och investeringsrådgivare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2414",
+    "label": "Traders och fondförvaltare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2415",
+    "label": "Nationalekonomer och makroanalytiker m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2419",
+    "label": "Övriga ekonomer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2421",
+    "label": "Lednings- och organisationsutvecklare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2422",
+    "label": "Planerare och utredare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2423",
+    "label": "Personal- och HR-specialister",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2431",
+    "label": "Marknadsanalytiker och marknadsförare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2432",
+    "label": "Informatörer, kommunikatörer och PR-specialister",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2511",
+    "label": "Systemanalytiker och IT-arkitekter m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2512",
+    "label": "Mjukvaru- och systemutvecklare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2513",
+    "label": "Utvecklare inom spel och digitala media",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2514",
+    "label": "Systemtestare och testledare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2515",
+    "label": "Systemförvaltare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2516",
+    "label": "IT-säkerhetsspecialister",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2519",
+    "label": "Övriga IT-specialister",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2611",
+    "label": "Advokater",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2612",
+    "label": "Domare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2613",
+    "label": "Åklagare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2614",
+    "label": "Affärs- och företagsjurister",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2615",
+    "label": "Förvaltnings- och organisationsjurister",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2619",
+    "label": "Övriga jurister",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2621",
+    "label": "Museiintendenter m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2622",
+    "label": "Bibliotekarier och arkivarier",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2623",
+    "label": "Arkeologer och specialister inom humaniora m.m.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2641",
+    "label": "Författare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2642",
+    "label": "Journalister m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2643",
+    "label": "Översättare, tolkar och lingvister m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2651",
+    "label": "Bildkonstnärer m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2652",
+    "label": "Musiker, sångare och kompositörer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2653",
+    "label": "Koreografer och dansare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2654",
+    "label": "Regissörer och producenter av film, teater m.m.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2655",
+    "label": "Skådespelare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2661",
+    "label": "Socialsekreterare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2662",
+    "label": "Kuratorer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2663",
+    "label": "Biståndsbedömare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2669",
+    "label": "Övriga yrken inom socialt arbete",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2671",
+    "label": "Präster",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "2672",
+    "label": "Diakoner",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3111",
+    "label": "Ingenjörer o tekniker, industri o prod.planering",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3112",
+    "label": "Ingenjörer och tekniker inom bygg och anläggning",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3113",
+    "label": "Ingenjörer och tekniker inom elektroteknik",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3114",
+    "label": "Ingenjörer och tekniker inom maskinteknik",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3115",
+    "label": "Ingenjörer och tekniker inom kemi och kemiteknik",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3116",
+    "label": "Ingenjörer o tekniker i gruvteknik o metallurgi",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3117",
+    "label": "GIS- och kartingenjörer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3119",
+    "label": "Övriga ingenjörer och tekniker",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3121",
+    "label": "Arbetsledare inom bygg, anläggning och gruva",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3122",
+    "label": "Arbetsledare inom tillverkning",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3151",
+    "label": "Maskinbefäl",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3152",
+    "label": "Fartygsbefäl m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3153",
+    "label": "Piloter m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3154",
+    "label": "Flygledare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3155",
+    "label": "Flygtekniker",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3211",
+    "label": "Tekniker, bilddiagnostik o medicintekn. utrustn.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3212",
+    "label": "Biomedicinska analytiker m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3213",
+    "label": "Receptarier",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3214",
+    "label": "Tandtekniker och ortopedingenjörer m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3215",
+    "label": "Laboratorieingenjörer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3230",
+    "label": "Terapeuter inom alternativmedicin",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3240",
+    "label": "Djursjukskötare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3250",
+    "label": "Tandhygienister",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3311",
+    "label": "Mäklare inom finans",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3312",
+    "label": "Banktjänstemän",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3313",
+    "label": "Redovisningsekonomer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3314",
+    "label": "Skadereglerare och värderare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3321",
+    "label": "Försäkringssäljare och försäkringsrådgivare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3322",
+    "label": "Företagssäljare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3323",
+    "label": "Inköpare och upphandlare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3324",
+    "label": "Ordersamordnare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3331",
+    "label": "Speditörer och transportmäklare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3332",
+    "label": "Evenemangs- och reseproducenter m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3333",
+    "label": "Arbetsförmedlare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3334",
+    "label": "Fastighetsmäklare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3335",
+    "label": "Fastighetsförvaltare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3339",
+    "label": "Övriga förmedlare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3341",
+    "label": "Gruppledare för kontorspersonal",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3342",
+    "label": "Domstols- och juristsekreterare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3343",
+    "label": "Chefssekreterare och VD-assistenter m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3351",
+    "label": "Tull- och kustbevakningstjänstemän",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3352",
+    "label": "Skattehandläggare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3353",
+    "label": "Socialförsäkringshandläggare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3354",
+    "label": "Säkerhetsinspektörer m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3355",
+    "label": "Brandingenjörer och byggnadsinspektörer m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3359",
+    "label": "Övriga handläggare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3360",
+    "label": "Poliser",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3411",
+    "label": "Behandlingsassistenter och socialpedagoger m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3412",
+    "label": "Pastorer m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3421",
+    "label": "Professionella idrottsutövare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3422",
+    "label": "Idrottstränare och instruktörer m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3423",
+    "label": "Fritidsledare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3424",
+    "label": "Friskvårdskonsulenter och hälsopedagoger m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3431",
+    "label": "Fotografer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3432",
+    "label": "Inredare, dekoratörer och scenografer m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3433",
+    "label": "Inspicienter och scriptor m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3439",
+    "label": "Övriga yrken inom kultur och underhållning",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3441",
+    "label": "Trafiklärare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3449",
+    "label": "Övriga utbildare och instruktörer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3451",
+    "label": "Köksmästare och souschefer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3452",
+    "label": "Storhushållsföreståndare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3511",
+    "label": "Drifttekniker, IT",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3512",
+    "label": "Supporttekniker, IT",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3513",
+    "label": "Systemadministratörer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3514",
+    "label": "Nätverks- och systemtekniker m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3515",
+    "label": "Webbmaster och webbadministratörer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3521",
+    "label": "Bild- och sändningstekniker",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "3522",
+    "label": "Ljus-, ljud- och scentekniker",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4111",
+    "label": "Ekonomiassistenter m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4112",
+    "label": "Löne- och personaladministratörer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4113",
+    "label": "Backofficepersonal m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4114",
+    "label": "Marknads- och försäljningsassistenter",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4115",
+    "label": "Inköps- och orderassistenter",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4116",
+    "label": "Skolassistenter m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4117",
+    "label": "Medicinska sekreterare, vårdadministratörer m fl",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4119",
+    "label": "Övriga kontorsassistenter och sekreterare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4211",
+    "label": "Croupierer och oddssättare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4212",
+    "label": "Inkasserare och pantlånare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4221",
+    "label": "Resesäljare och trafikassistenter m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4222",
+    "label": "Kundtjänstpersonal",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4223",
+    "label": "Telefonister",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4224",
+    "label": "Hotellreceptionister m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4225",
+    "label": "Kontorsreceptionister",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4226",
+    "label": "Marknadsundersökare och intervjuare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4321",
+    "label": "Arbetsledare inom lager och terminal",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4322",
+    "label": "Lager- och terminalpersonal",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4323",
+    "label": "Transportledare och transportsamordnare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4410",
+    "label": "Arkiv- och biblioteksassistenter m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "4420",
+    "label": "Brevbärare och postterminalarbetare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5111",
+    "label": "Kabinpersonal m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5112",
+    "label": "Tågvärdar och ombordansvariga m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5113",
+    "label": "Guider och reseledare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5120",
+    "label": "Kockar och kallskänkor",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5131",
+    "label": "Hovmästare och servitörer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5132",
+    "label": "Bartendrar",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5141",
+    "label": "Frisörer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5142",
+    "label": "Hudterapeuter",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5143",
+    "label": "Massörer och massageterapeuter",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5144",
+    "label": "Fotterapeuter",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5149",
+    "label": "Övriga skönhets- och kroppsterapeuter",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5151",
+    "label": "Städledare och husfruar",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5152",
+    "label": "Fastighetsskötare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5161",
+    "label": "Begravnings- och krematoriepersonal",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5169",
+    "label": "Övrig servicepersonal",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5221",
+    "label": "Säljande butikschefer o avdelningschefer i butik",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5222",
+    "label": "Butikssäljare, dagligvaror",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5223",
+    "label": "Butikssäljare, fackhandel",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5224",
+    "label": "Optikerassistenter",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5225",
+    "label": "Bensinstationspersonal",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5226",
+    "label": "Uthyrare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5227",
+    "label": "Apotekstekniker",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5230",
+    "label": "Kassapersonal m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5241",
+    "label": "Eventsäljare och butiksdemonstratörer m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5242",
+    "label": "Telefonförsäljare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5311",
+    "label": "Barnskötare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5312",
+    "label": "Elevassistenter m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5321",
+    "label": "Undersköterskor, hemtjänst, äldreboende m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5323",
+    "label": "Undersköterskor, vård- o specialavd o mottagning",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5325",
+    "label": "Barnsköterskor",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5326",
+    "label": "Ambulanssjukvårdare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5330",
+    "label": "Vårdbiträden",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5341",
+    "label": "Skötare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5342",
+    "label": "Vårdare, boendestödjare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5343",
+    "label": "Personliga assistenter",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5349",
+    "label": "Övrig vård- och omsorgspersonal",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5350",
+    "label": "Tandsköterskor",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5411",
+    "label": "Brandmän",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5412",
+    "label": "Kriminalvårdare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5413",
+    "label": "Väktare och ordningsvakter",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5414",
+    "label": "SOS-operatörer m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "5419",
+    "label": "Övrig bevaknings- och säkerhetspersonal",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "6111",
+    "label": "Odlare av jordbruksväxter, frukt och bär",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "6112",
+    "label": "Trädgårdsodlare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "6113",
+    "label": "Trädgårdsanläggare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "6121",
+    "label": "Uppfödare och skötare av lantbrukets husdjur",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "6122",
+    "label": "Uppfödare och skötare av sällskapsdjur",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "6129",
+    "label": "Övriga djuruppfödare och djurskötare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "6130",
+    "label": "Växtodlare och djuruppfödare, blandad drift",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "6210",
+    "label": "Skogsarbetare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "6221",
+    "label": "Fiskodlare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "6222",
+    "label": "Fiskare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7111",
+    "label": "Träarbetare, snickare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7112",
+    "label": "Murare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7113",
+    "label": "Betongarbetare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7114",
+    "label": "Anläggningsarbetare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7115",
+    "label": "Anläggningsdykare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7116",
+    "label": "Ställningsbyggare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7119",
+    "label": "Övriga byggnads- och anläggningsarbetare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7121",
+    "label": "Takmontörer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7122",
+    "label": "Golvläggare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7123",
+    "label": "Isoleringsmontörer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7124",
+    "label": "Glastekniker",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7125",
+    "label": "VVS-montörer m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7126",
+    "label": "Kyl- och värmepumpstekniker m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7131",
+    "label": "Målare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7132",
+    "label": "Lackerare och industrimålare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7133",
+    "label": "Skorstensfejare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7134",
+    "label": "Saneringsarbetare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7211",
+    "label": "Gjutare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7212",
+    "label": "Svetsare och gasskärare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7213",
+    "label": "Byggnads- och ventilationsplåtslagare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7214",
+    "label": "Tunnplåtslagare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7215",
+    "label": "Stålkonstruktionsmontörer och grovplåtsslagare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7221",
+    "label": "Smeder",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7222",
+    "label": "Verktygsmakare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7223",
+    "label": "Maskinställare o maskinoperatörer, metallarbete",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7224",
+    "label": "Slipare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7231",
+    "label": "Motorfordonsmekaniker och fordonsreparatörer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7232",
+    "label": "Flygmekaniker m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7233",
+    "label": "Underhållsmekaniker och maskinreparatörer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7311",
+    "label": "Finmekaniker",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7312",
+    "label": "Guld- och silversmeder",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7319",
+    "label": "Musikinstrumentmakare o övriga konsthantverkare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7321",
+    "label": "Prepresstekniker",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7322",
+    "label": "Tryckare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7323",
+    "label": "Bokbindare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7411",
+    "label": "Installations- och serviceelektriker",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7412",
+    "label": "Industrielektriker",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7413",
+    "label": "Distributionselektriker",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7420",
+    "label": "Elektronikrep. o kommunikationselektriker m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7521",
+    "label": "Manuella ytbehandlare, trä",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7522",
+    "label": "Fin-, inrednings- och möbelsnickare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7523",
+    "label": "Maskinsnickare och maskinoperatörer, träindustri",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7531",
+    "label": "Skräddare och ateljésömmerskor m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7532",
+    "label": "Sömmare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7533",
+    "label": "Tapetserare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7534",
+    "label": "Läderhantverkare och skomakare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7611",
+    "label": "Slaktare och styckare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7612",
+    "label": "Bagare och konditorer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "7613",
+    "label": "Provsmakare och kvalitetsbedömare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8111",
+    "label": "Gruv- och stenbrottsarbetare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8112",
+    "label": "Processoperatörer, stenkross- och malmförädling",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8113",
+    "label": "Brunnsborrare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8114",
+    "label": "Maskinoperatörer, cement-, sten- och betongvaror",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8115",
+    "label": "Bergsprängare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8116",
+    "label": "Stenhuggare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8121",
+    "label": "Maskinoperatörer, ytbehandling",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8122",
+    "label": "Valsverksoperatörer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8129",
+    "label": "Övr. maskin- o processoperatörer, stål- o metall",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8131",
+    "label": "Maskinoperatörer, farmaceutiska produkter",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8132",
+    "label": "Maskinoperatörer, kem.tekn. o fotografiska prod.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8141",
+    "label": "Maskinoperatörer, gummiindustri",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8142",
+    "label": "Maskinoperatörer, plastindustri",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8143",
+    "label": "Maskinoperatörer, pappersvaruindustri",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8151",
+    "label": "Maskinoperatörer, blekning, färgning o tvättning",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8159",
+    "label": "Övr maskinoperatörer, textil-, skinn- o läderind",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8161",
+    "label": "Maskinoperatörer, kött- o fiskberedningsindustri",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8162",
+    "label": "Maskinoperatörer, mejeri",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8163",
+    "label": "Maskinoperatörer, kvarn-, bageri- o konfektyrind",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8169",
+    "label": "Övriga maskinoperatörer, livsmedelsindustri m.m.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8171",
+    "label": "Processoperatörer, pappersmassa",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8172",
+    "label": "Processoperatörer, papper",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8173",
+    "label": "Operatörer inom sågverk, hyvleri och plywood m.m",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8174",
+    "label": "Maskinoperatörer inom ytbehandling, trä",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8181",
+    "label": "Maskinoperatörer, påfyllning, packning o märkn.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8189",
+    "label": "Övriga process- och maskinoperatörer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8191",
+    "label": "Drifttekniker vid värme- och vattenverk",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8192",
+    "label": "Processövervakare, kemisk industri",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8193",
+    "label": "Processövervakare, metallproduktion",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8199",
+    "label": "Övriga drifttekniker och processövervakare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8211",
+    "label": "Fordonsmontörer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8212",
+    "label": "Montörer, elektrisk och elektronisk utrustning",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8213",
+    "label": "Montörer, metall-, gummi- och plastprodukter",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8214",
+    "label": "Montörer, träprodukter",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8219",
+    "label": "Övriga montörer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8311",
+    "label": "Lokförare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8312",
+    "label": "Bangårdspersonal",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8321",
+    "label": "Taxiförare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8329",
+    "label": "Övriga bil-, motorcykel- och cykelförare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8331",
+    "label": "Buss- och spårvagnsförare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8332",
+    "label": "Lastbilsförare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8341",
+    "label": "Förare av jordbruks- och skogsmaskiner",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8342",
+    "label": "Anläggningsmaskinförare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8343",
+    "label": "Kranförare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8344",
+    "label": "Truckförare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "8350",
+    "label": "Matroser och jungmän m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "9111",
+    "label": "Städare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "9119",
+    "label": "Övrig hemservicepersonal m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "9120",
+    "label": "Bilrekonditionerare, fönsterputsare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "9210",
+    "label": "Bärplockare och plantörer m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "9310",
+    "label": "Grovarbetare inom bygg och anläggning",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "9320",
+    "label": "Handpaketerare och andra fabriksarbetare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "9331",
+    "label": "Hamnarbetare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "9332",
+    "label": "Ramppersonal, flyttkarlar o varupåfyllare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "9411",
+    "label": "Pizzabagare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "9412",
+    "label": "Restaurang- och köksbiträden m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "9413",
+    "label": "Kafé- och konditoribiträden",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "9520",
+    "label": "Torg- och marknadsförsäljare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "9610",
+    "label": "Renhållnings- och återvinningsarbetare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "9621",
+    "label": "Reklamutdelare och tidningsdistributörer",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "9622",
+    "label": "Vaktmästare m.fl.",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "9629",
+    "label": "Övriga servicearbetare",
+    "typ": "yrkesgrupp"
+}, {
+    "id": "1",
+    "label": "Administration, ekonomi, juridik",
+    "typ": "yrkesområde"
+}, {
+    "id": "2",
+    "label": "Bygg och anläggning",
+    "typ": "yrkesområde"
+}, {
+    "id": "20",
+    "label": "Chefer och verksamhetsledare",
+    "typ": "yrkesområde"
+}, {
+    "id": "3",
+    "label": "Data/IT",
+    "typ": "yrkesområde"
+}, {
+    "id": "5",
+    "label": "Försäljning, inköp, marknadsföring",
+    "typ": "yrkesområde"
+}, {
+    "id": "6",
+    "label": "Hantverksyrken",
+    "typ": "yrkesområde"
+}, {
+    "id": "7",
+    "label": "Hotell, restaurang, storhushåll",
+    "typ": "yrkesområde"
+}, {
+    "id": "8",
+    "label": "Hälso- och sjukvård",
+    "typ": "yrkesområde"
+}, {
+    "id": "9",
+    "label": "Industriell tillverkning",
+    "typ": "yrkesområde"
+}, {
+    "id": "10",
+    "label": "Installation, drift, underhåll",
+    "typ": "yrkesområde"
+}, {
+    "id": "4",
+    "label": "Kropps- och skönhetsvård",
+    "typ": "yrkesområde"
+}, {
+    "id": "11",
+    "label": "Kultur, media, design",
+    "typ": "yrkesområde"
+}, {
+    "id": "22",
+    "label": "Militärt arbete",
+    "typ": "yrkesområde"
+}, {
+    "id": "13",
+    "label": "Naturbruk",
+    "typ": "yrkesområde"
+}, {
+    "id": "14",
+    "label": "Naturvetenskapligt arbete",
+    "typ": "yrkesområde"
+}, {
+    "id": "15",
+    "label": "Pedagogiskt arbete",
+    "typ": "yrkesområde"
+}, {
+    "id": "12",
+    "label": "Sanering och renhållning",
+    "typ": "yrkesområde"
+}, {
+    "id": "16",
+    "label": "Socialt arbete",
+    "typ": "yrkesområde"
+}, {
+    "id": "17",
+    "label": "Säkerhetsarbete",
+    "typ": "yrkesområde"
+}, {
+    "id": "18",
+    "label": "Tekniskt arbete",
+    "typ": "yrkesområde"
+}, {
+    "id": "19",
+    "label": "Transport",
+    "typ": "yrkesområde"
+}];

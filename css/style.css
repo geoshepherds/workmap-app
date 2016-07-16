@@ -1,0 +1,548 @@
+/* Colours:
+red             #c03d33
+light red       #ea7c73
+yellow          #c08433
+light yellow    #eab873
+blue            #27557c
+light blue      #4f7797
+green           #27933a
+light green     #58b368
+
+grey            #666666
+dark green      #09691a
+
+*/
+
+
+
+/* Main CSS */
+
+html {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body, h2, h3, h4, h5, h6 {
+    font-family: 'Ubuntu', sans-serif;
+    color: #1a1a1a;
+    font-weight: 300;
+}
+
+h2, h3, h4, h5, h6, p {
+    margin: 20px 0;
+}
+h2 {
+    font-size: 32px;
+}
+h3 {
+    font-size: 24px;
+}
+h4 {
+    font-size: 20px;
+}
+h5 {
+    font-size: 18px;
+}
+h6 {
+    font-size: 16px
+}
+
+h6.date {
+    font-size: 12px;
+    margin: 5px 0;
+}
+
+p {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+ol {
+    padding: 0 20px;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+div:focus {
+    outline: 0 !important;
+}
+
+#container {
+    width: 100%;
+    border: none;
+}
+
+#map {
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 500px;
+    position: fixed; 
+    z-index: 1;
+}
+
+#sidePane {
+    top: 0;
+    bottom: 0;
+    position: fixed;
+    right: 0;
+    width: 500px;
+    z-index: 2;
+    overflow-y: auto;
+}
+
+#navbar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: #fff;
+}
+
+#paneContent {
+    padding: 20px 40px 40px 40px;
+    margin-top: 80px;
+}
+
+
+
+#searchTab, #resultsTab, #annonsTab, #analyticsTab, #profTab {
+    height: 80px;
+    width: 25%;
+    cursor: pointer;
+}
+
+#searchTab.active, #resultsTab.active, #annonsTab.active, #analyticsTab.active, #profTab.active, #searchTab.active:hover, #resultsTab.active:hover, #annonsTab.active:hover, #analyticsTab.active:hover, #profTab.active:hover {
+    background-color: #fff;
+    opacity: 1;
+}
+
+#searchTab, #resultsTab, #annonsTab, #analyticsTab, #profTab {
+    background-color: #c03d33; 
+    opacity: 0.75;
+}
+
+#searchTab:hover, #resultsTab:hover, #annonsTab:hover, #analyticsTab:hover, #profTab:hover {
+    opacity: 1;
+}
+
+
+
+
+#searchIcon {
+    background-image: url(/workMapApp/data/navbar_icons.png);
+    background-position: 0px -83px;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 80px;
+}
+
+#searchIcon.active {
+     background-position: 0px -3px;
+}
+
+#resultsIcon {
+    background-image: url(/workMapApp/data/navbar_icons.png);
+    background-position: -100px -83px;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 80px;
+}
+
+#resultsIcon.active {
+     background-position: -100px -3px;
+}
+
+#annonsIcon {
+    background-image: url(/workMapApp/data/navbar_icons.png);
+    background-position: -200px -83px;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 80px;
+}
+
+#annonsIcon.active {
+     background-position: -200px -3px;
+}
+
+#analyticsIcon {
+    background-image: url(/workMapApp/data/navbar_icons.png);
+    background-position: -300px -83px;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 80px;
+}
+
+#analyticsIcon.active {
+     background-position: -300px -3px;
+}
+
+#profIcon {
+    background-image: url(/workMapApp/data/navbar_icons.png);
+    background-position: -400px -83px;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 80px;
+}
+
+#profIcon.active {
+     background-position: -400px -3px;
+}
+
+
+
+
+
+
+.sectionHead {
+    margin: 60px 0 20px 0;
+}
+
+.knappRow {
+    text-align: center;
+}
+
+.knapp {
+    text-align: center;
+    border-width: 2px;
+    border-style: solid;
+    cursor: pointer;
+    padding: 7px;
+    margin: 5px 0px;
+} 
+
+.flexGrupp {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.twoSplit {
+    width: 50%;
+}
+
+.fiveSplit {
+    width: 24%;
+}
+
+.alignRight {
+    text-align: right;
+}
+
+
+
+.hint {
+    background: url(/workMapApp/data/hint_box.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    font-size: 12px;
+    display: inline-block;
+    padding: 5px 10px;
+    width: 35%;
+    max-width: 170px;
+}
+
+.hint > p {
+    text-align: right;
+    margin: 0;
+}
+
+.graph {
+    text-align: center;
+}
+
+.listItem {
+    display: inline-block;
+    width: 55%;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+
+.listItem.inactive {
+    color: #1a1a1a;
+    opacity: 0.4;
+}
+
+.jobbAntal {
+    background-color: #27933a;
+    padding: 2px;
+    margin-left: 5px;
+}
+
+
+
+.villkorIcon, .sokIcon {
+    display: block;
+    text-indent: -9999px;    
+    width: 25px;
+    height: 25px;
+    background-size: 25px 25px;
+}
+
+
+
+
+
+/*Profession profile page CSS*/
+
+
+.prof {
+    border-color: rgba(192,132,51,0);
+    width: 33.33%;
+    display: inline-block;
+}
+
+.prof:hover {    
+    border-color: rgba(192,132,51,0.2);
+    -webkit-transition: border-color 0.5s ease;    
+    transition: border-color 0.5s ease ;        
+}
+.prof.active {
+    border-color: rgba(192,132,51,1);
+}
+
+.prof.inactive {
+    color: rgba(26,26,26,0.4);
+}
+
+#wageGraph {
+    margin: 0 0 40px 0;
+}
+
+/*analys page CSS*/
+
+#weatherInfo {
+    width: 20%;
+}
+
+#weatherGraph, #housingGraph {
+    width: 80%;
+    margin: 20px 0 40px 0;
+}
+
+
+#weatherBox {
+    background-color: #27557c;
+    color: #fff;
+    padding: 5px;
+    width: 80px;
+}
+
+#weatherBox h2 {
+    margin: 0;
+    padding: 12px 0 0 0;
+    color: #fff;
+}
+
+#weatherBox h4 {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+
+#bostadTitle {
+    width: 70%;
+    margin: 0 0 20px 0;
+}
+
+#genomsnitt {
+    margin: 0 0 20px 0;
+}
+
+#bostadsPris {
+    text-align: right;
+    width: 30%;
+    margin: 0 0 20px 0;
+}
+
+#pris {
+    font-weight: 400;
+}
+
+.analys {
+    border-color: rgba(39,85,124,0);
+}
+
+.analys:hover {    
+    border-color: rgba(39,85,124,0.2);
+    -webkit-transition: border-color 0.5s ease;    
+    transition: border-color 0.5s ease ;        
+}
+.analys.active {
+    border-color: rgba(39,85,124,1);
+}
+
+
+#preferences > img {
+    margin: 20px;
+    cursor: pointer;
+}
+
+
+
+ /* search tab */
+
+button.md-button, input, label {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+button.md-button {
+    width: 150px;
+    margin-left: 125px;
+    border: 2px solid #c03d33;
+    color: #c03d33;
+}
+
+/*
+form.searchForm {
+    width: 300px;
+    display: inline-block;
+    text-align: left;
+}
+form.searchForm .grupp {
+    clear: both;
+    position: relative;
+    margin-bottom: 40px;
+}
+form.searchForm input {
+    -webkit-appearance: none;
+    font: inherit;
+    display: block;
+    color: #1a1a1a;
+    background: 0 0;
+    padding: 20px;
+    opacity: 0.5;
+    border: none;
+    border-bottom: 2px solid #1a1a1a;
+    box-shadow: none;
+    border-radius: 0;
+    width: 100%;
+}
+form.searchForm label {
+    color: #1a1a1a;
+    font-size: inherit;
+    font-weight: 300;
+    position: absolute;
+    pointer-events: none;
+    left: 0;
+    top: 80px;
+    
+}
+
+input[type=text] {
+    -webkit-transition: border-bottom linear .3s, box-shadow linear 0.2s;
+    transition: border-bottom linear .3s, box-shadow linear 0.2s;
+}
+*/
+
+
+/* jobba listing */
+
+.annonsTitle, .annonsLogo, .lessMargin {
+    margin: 20px 0 5px 0;
+}
+.annonsLogo {
+    float: right;
+}
+.smallMargin {
+    margin: 5px 0;
+}
+.kontaktHead {
+    margin: 60px 0 10px 0;
+}
+.inlinePara, .villkorIcon {
+    display: inline-block;
+}
+.villkorIcon, .korKort {
+    vertical-align: text-bottom;
+}
+.inlinePara {
+    margin-left: 20px;
+}
+.calendar {
+    background-image: url(/workMapApp/data/icon-2131.svg);
+}
+
+.piggyBank {
+    background-image: url(/workMapApp/data/money.svg);
+}
+
+.clock {
+    background-image: url(/workMapApp/data/clock.svg);
+}
+
+
+.egenBil, .korKort {
+    display: block;
+    text-indent: -9999px;    
+    width: 125px;
+    height: 53px;
+    background-size: 100px 53px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.egenBil.req {
+    background-image: url(/workMapApp/data/transport_car_req.svg);
+}
+
+.egenBil.unreq {
+    background-image: url(/workMapApp/data/transport_car_unreq.svg);
+}
+
+.korKort.req {
+    background-image: url(/workMapApp/data/license_req.svg);
+}
+
+.korKort.unreq {
+    background-image: url(/workMapApp/data/license_unreq.svg);
+}
+.korKortTyp, .korKort {
+    display: inline-block;
+}
+
+
+/* job listing tab */
+.annonsArea {
+    height: 150px;
+    border-color: rgba(39,147,58,0);
+    border-style: solid;
+    border-width: 2px;
+    margin: -5px -30px;
+    padding: 5px 30px;
+    cursor: pointer;
+}
+.annonsArea:hover {
+    -webkit-transition: border-color 0.3s ease;
+    transition: border-color 0.3s ease;
+    border-color: rgba(39,147,58,1);
+}
+.annonsListing {
+    font-size: 12px;
+}
+.flexList {
+    padding-right: 30px;
+    padding-top: 22px;
+}
+
+
+
+md-input-contaiiner.md-input-invalid.md-input-focused label {
+    color: #c03d33;
+}
+
+md-input-container:not(.md-input-invalid).md-input-focused label {
+    color: #c03d33;
+}
+
+md-input-container:not(.md-input-invalid).md-input-focused .md-input {
+    border-color: #c03d33;
+}
+
